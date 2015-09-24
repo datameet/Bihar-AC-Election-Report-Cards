@@ -1,0 +1,128 @@
+Sno.,+ACI-Village
+Name+ACI-,+ACI-Habitation
+Name+ACI-,+ACI-Source
+Type+ACI-,+ACI-Source
+Type
+Category
+Location+ACI-,Location,Type,Scheme Name
+1,CHERAKHERA,BELDARI,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+2,CHERAKHERA,BETAUNA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+3,CHERAKHERA,BHARATH,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
+H.T. Water
+Supply(0001988594)+ACI-
+4,CHERAKHERA,BHARATH,+ACI-Deep
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,Rambali Bind,HandPump,NRDWP(0007074667)
+5,CHERAKHERA,CHERAKHERA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+6,CHERAKHERA,CHERAKHERA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+7,CHERAKHERA,CHERAKHERA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+8,CHERAKHERA,CHERAKHERA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+9,CHERAKHERA,CHERAKHERA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+10,CHERAKHERA,CHERAKHERA,+ACI-Deep
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,+ACI-Alamgir
+Ward+AC0-19+ACI-,HandPump,NRDWP(0007074667)
+11,CHERAKHERA,FULBARIYA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+12,CHERAKHERA,HARDIYA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+13,CHERAKHERA,MAJHWARIYA,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+14,CHERAKHERA,MOHRAGHAT,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+15,CHERAKHERA,MOHRAGHAT,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+16,CHERAKHERA,MOHRAGHAT,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+17,CHERAKHERA,MOHRAGHAT,+ACI-Deep
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,Kedar Singh,HandPump,+ACI-IM II T/W NRDWP
+SUSTAINABLE(Sri
+Abhishek Kumar, F+AC0-
+2/3/2013+AC0-14)
+(0006492566)+ACI-
+18,CHERAKHERA,MOHRAGHAT,+ACI-Deep
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,+ACI-Ramjapo
+Singh+ACI-,HandPump,+ACI-IM II T/W NRDWP
+SUSTAINABLE(Sri
+Abhishek Kumar, F+AC0-
+2/3/2013+AC0-14)
+(0006492566)+ACI-
+19,CHERAKHERA,+ACI-NORTH
+BHORWA+ACI-,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+20,CHERAKHERA,+ACI-NORTH
+BHORWA+ACI-,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,+ACI-Chumman
+Mukhiya+ACI-,HandPump,+ACI-Sustainable
+T/W(0006952680)+ACI-
+21,CHERAKHERA,+ACI-PUBARI
+PARASS+ACI-,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
+H.T. Water
+Supply(0001988594)+ACI-
+22,CHERAKHERA,+ACI-SOUTH
+BHORWA+ACI-,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
+Supply
+Scheme(0001986156)+ACI-
+23,CHERAKHERA,+ACI-SOUTH
+BHORWA+ACI-,+ACI-Shallow
+Tubew ell+ACI-,+ACI-Ground
+Water+ACI-,Ramjapo,HandPump,+ACI-Sustainable
+T/W(0006952680)+ACI-
