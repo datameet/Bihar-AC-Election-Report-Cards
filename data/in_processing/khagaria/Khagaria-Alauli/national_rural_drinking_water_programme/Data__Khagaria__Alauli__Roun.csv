@@ -1,80 +1,17 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,LADAURA,LADOURA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-2,LADAURA,LADOURA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-3,LADAURA,LADOURA,+ACI-Deep
-Tubew ell+ACI-,Ground Water,+ACI-Kumhar Tola
-Samudaik
-Bhaw an+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-4,LADAURA,LADOURA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Sri Krishan
-Deo Yadav+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-5,LADAURA,LADOURA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Sri Gopal
-Yadav+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-6,LADAURA,LADOURA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Tej Narayan
-Ram+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-7,LADAURA,LADOURADIH,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-8,RAUN,BARUWA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-9,RAUN,BARUWA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,R Vp Verma,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-10,RAUN,BATHNAHA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-11,RAUN,BELORIA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-12,RAUN,GULARIA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-13,RAUN,ROUN,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-14,RAUN,ROUN,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-15,RAUN,ROUN,+ACI-Deep
-Tubew ell+ACI-,Ground Water,+ACI-Samudaik
-Bhaw an
-Mushahri+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-16,RAUN,ROUN,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001960234)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"LADAURA","LADOURA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"LADAURA","LADOURA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"LADAURA","LADOURA","Deep Tubew ell","Ground Water","Kumhar Tola Samudaik Bhaw an","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+4,"LADAURA","LADOURA","Shallow Tubew ell","Ground Water","Sri Krishan Deo Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+5,"LADAURA","LADOURA","Shallow Tubew ell","Ground Water","Sri Gopal Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+6,"LADAURA","LADOURA","Shallow Tubew ell","Ground Water","Tej Narayan Ram","HandPump","Sustainable T/W(0006952680)"
+7,"LADAURA","LADOURADIH","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+8,"RAUN","BARUWA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+9,"RAUN","BARUWA","Shallow Tubew ell","Ground Water","R Vp Verma","HandPump","Sustainable T/W(0006952680)"
+10,"RAUN","BATHNAHA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+11,"RAUN","BELORIA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+12,"RAUN","GULARIA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+13,"RAUN","ROUN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+14,"RAUN","ROUN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+15,"RAUN","ROUN","Deep Tubew ell","Ground Water","Samudaik Bhaw an Mushahri","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+16,"RAUN","ROUN","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960234)"

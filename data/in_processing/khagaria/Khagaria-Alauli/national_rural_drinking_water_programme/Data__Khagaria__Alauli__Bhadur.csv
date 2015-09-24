@@ -1,21 +1,4 @@
-Sno.,"Village
-Name","Habitation
-Name","Source
-Type","Source
-Type
-Category
-Location",Location,Type,Scheme Name
-1,IMLI,"HARIJAN
-TOLA","Shallow
-Tubew ell",Ground Water,,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
-2,IMLI,IMLI,"Shallow
-Tubew ell",Ground Water,,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-3,IMLI,IMLI,"Shallow
-Tubew ell",Ground Water,"SHIVKANT
-YADAV",HandPump,"INSTALLATION OF
-HAND
-PUMPS(0001962059)"
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"IMLI","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+2,"IMLI","IMLI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"IMLI","IMLI","Shallow Tubew ell","Ground Water","SHIVKANT YADAV","HandPump","INSTALLATION OF HAND PUMPS(0001962059)"

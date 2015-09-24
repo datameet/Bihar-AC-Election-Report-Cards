@@ -1,90 +1,20 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,GIDDHA,GIDDHA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-2,GIDDHA,GIDDHA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-SRi
-Harinandan
-Yadav+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-3,GIDDHA,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-4,JOGIA,FAKIR TOLA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-5,JOGIA,FAKIR TOLA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Md Abdul
-Hasan+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-6,JOGIA,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-7,JOGIA,JOGIYA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-8,JOGIA,JOGIYA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Md Sahulat
-Hushan+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-9,SAHSI,ALAS,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-10,SAHSI,DIHULIYA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-11,SAHSI,DIHULIYA,+ACI-Deep
-Tubew ell+ACI-,Ground Water,Masjid,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-12,SAHSI,PANBIBI,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-13,SAHSI,SAHSI,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-14,SAHSI,SAHSI,Shallow,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply+ACI-
-15,SAHSI,SAHSI,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-16,SAHSI,SAHSI,+ACI-Deep
-Tubew ell+ACI-,Ground Water,Dinkar Patel,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-17,SAHSI,SAHSI,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Sri Rajee
-Yadav+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-18,SAHSI,SOR KAHI,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-19,SAHSI,SOR KAHI,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,Ashok Kumar,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"GIDDHA","GIDDHA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"GIDDHA","GIDDHA","Shallow Tubew ell","Ground Water","SRi Harinandan Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+3,"GIDDHA","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+4,"JOGIA","FAKIR TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+5,"JOGIA","FAKIR TOLA","Shallow Tubew ell","Ground Water","Md Abdul Hasan","HandPump","Sustainable T/W(0006952680)"
+6,"JOGIA","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+7,"JOGIA","JOGIYA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+8,"JOGIA","JOGIYA","Shallow Tubew ell","Ground Water","Md Sahulat Hushan","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+9,"SAHSI","ALAS","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+10,"SAHSI","DIHULIYA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+11,"SAHSI","DIHULIYA","Deep Tubew ell","Ground Water","Masjid","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+12,"SAHSI","PANBIBI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+13,"SAHSI","SAHSI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+14,"SAHSI","SAHSI","Shallow","Ground Water",,"HandPump","ALAULI H.T. Water Supply"
+15,"SAHSI","SAHSI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+16,"SAHSI","SAHSI","Deep Tubew ell","Ground Water","Dinkar Patel","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+17,"SAHSI","SAHSI","Shallow Tubew ell","Ground Water","Sri Rajee Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+18,"SAHSI","SOR KAHI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+19,"SAHSI","SOR KAHI","Shallow Tubew ell","Ground Water","Ashok Kumar","HandPump","Sustainable T/W(0006952680)"

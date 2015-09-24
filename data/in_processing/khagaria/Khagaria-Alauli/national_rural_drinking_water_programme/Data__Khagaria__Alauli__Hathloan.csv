@@ -1,156 +1,28 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,HATHWAN,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-2,HATHWAN,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-SRI KUNDER
-KISHOR SADA+ACI-,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006491450)+ACI-
-3,HATHWAN,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Abdhesh
-Yadav+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-4,HATHWAN,GADAHBANI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-5,HATHWAN,GADAHBANI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Mushahri,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-6,HATHWAN,GADAHBANI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ramkripal
-Yadav+ACI-,HandPump,NRDWP(0007074667)
-7,HATHWAN,GADAHBANI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Subodh
-Yadav+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-8,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-9,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-10,HATHWAN,HATHWAN,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-MIDDIL
-SCHOOL
-HATHWAN+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-11,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001960218)+ACI-
-12,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-RAM DULAR
-YADAV+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(0006490220)+ACI-
-13,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-RAM DULAR
-YADAV+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(0006490220)+ACI-
-14,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-SRI VAKIL
-YADAV+ACI-,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006490276)+ACI-
-15,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ramdular
-Yadav+ACI-,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006490276)+ACI-
-16,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Mukesh
-Sharma+ACI-,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006490276)+ACI-
-17,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Mahendra
-Sharma+ACI-,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006490276)+ACI-
-18,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Md. Zabbar,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006490276)+ACI-
-19,HATHWAN,HATHWAN,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Sonelal
-Sada+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-20,HATHWAN,MORKAHI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-21,HATHWAN,MORKAHI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001960220)+ACI-
-22,HATHWAN,MORKAHI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ramchandra
-Sharma+ACI-,HandPump,+ACI-SINKKING OF T/W
-WITH I R
-P(0006490276)+ACI-
-23,HATHWAN,MORKAHI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Laloo
-Mukhiya+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-24,HATHWAN,SATGHTTA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-25,HATHWAN,SATGHTTA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001960223)+ACI-
-26,HATHWAN,SATGHTTA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ramsunder
-Yadav Sarak
-Kinare+ACI-,HandPump,NRDWP(0007074667)
-27,HATHWAN,SATGHTTA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sacchidanand
-Yadav+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"HATHWAN","BANHER","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"HATHWAN","BANHER","Shallow Tubew ell","Ground Water","SRI KUNDER KISHOR SADA","HandPump","SINKKING OF T/W WITH I R P(0006491450)"
+3,"HATHWAN","BANHER","Shallow Tubew ell","Ground Water","Abdhesh Yadav","HandPump","Sustainable T/W(0006952680)"
+4,"HATHWAN","GADAHBANI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+5,"HATHWAN","GADAHBANI","Deep Tubew ell","Ground Water","Mushahri","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+6,"HATHWAN","GADAHBANI","Deep Tubew ell","Ground Water","Ramkripal Yadav","HandPump","NRDWP(0007074667)"
+7,"HATHWAN","GADAHBANI","Shallow Tubew ell","Ground Water","Sri Subodh Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+8,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+9,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+10,"HATHWAN","HATHWAN","Deep Tubew ell","Ground Water","MIDDIL SCHOOL HATHWAN","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+11,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960218)"
+12,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","RAM DULAR YADAV","HandPump","Sinkking Of T/W With I R P(0006490220)"
+13,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","RAM DULAR YADAV","HandPump","Sinkking Of T/W With I R P(0006490220)"
+14,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","SRI VAKIL YADAV","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+15,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","Ramdular Yadav","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+16,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","Mukesh Sharma","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+17,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","Mahendra Sharma","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+18,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","Md. Zabbar","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+19,"HATHWAN","HATHWAN","Shallow Tubew ell","Ground Water","Sri Sonelal Sada","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+20,"HATHWAN","MORKAHI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+21,"HATHWAN","MORKAHI","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960220)"
+22,"HATHWAN","MORKAHI","Shallow Tubew ell","Ground Water","Ramchandra Sharma","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+23,"HATHWAN","MORKAHI","Shallow Tubew ell","Ground Water","Sri Laloo Mukhiya","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+24,"HATHWAN","SATGHTTA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+25,"HATHWAN","SATGHTTA","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960223)"
+26,"HATHWAN","SATGHTTA","Deep Tubew ell","Ground Water","Ramsunder Yadav Sarak Kinare","HandPump","NRDWP(0007074667)"
+27,"HATHWAN","SATGHTTA","Shallow Tubew ell","Ground Water","Sacchidanand Yadav","HandPump","Sustainable T/W(0006952680)"

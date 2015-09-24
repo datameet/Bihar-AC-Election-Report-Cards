@@ -1,144 +1,23 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,+ACI-CHHIL
-KAURI+ACI-,+ACI-BHAGWAN
-PUR+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water Supply
-Scheme(0001986156)+ACI-
-2,+ACI-CHHIL
-KAURI+ACI-,+ACI-BHAGWAN
-PUR+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-MIDDLE
-SCHOOL
-BHAGWANPUR
-MUSHAHRI+ACI-,PWS,+ACI-MINI PIPE WATER SUPPLY
-SCHEME
-CHHILKAURI(0006489369)+ACI-
-3,+ACI-CHHIL
-KAURI+ACI-,CHHILKOURI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water Supply
-Scheme(0001986156)+ACI-
-4,+ACI-CHHIL
-KAURI+ACI-,CHHILKOURI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sikender
-Kumar+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-5,+ACI-CHHIL
-KAURI+ACI-,JHAKRA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-6,+ACI-CHHIL
-KAURI+ACI-,JHAKRA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Harendra
-Ray+ACI-,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
-7,+ACI-CHHIL
-KAURI+ACI-,JHAKRA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Tarkeshw ar
-Singh+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-8,+ACI-CHHIL
-KAURI+ACI-,KABHHUA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-9,+ACI-CHHIL
-KAURI+ACI-,KABHHUA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ram Parkash
-Sada+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-10,+ACI-CHHIL
-KAURI+ACI-,KABHHUA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ramsaw rup
-Sada+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-11,+ACI-CHHIL
-KAURI+ACI-,KABHHUA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-RAJKUMAR
-YADAV+ACI-,HandPump,+ACI-INSTALLATION OF HAND
-PUMPS(0001962055)+ACI-
-12,+ACI-CHHIL
-KAURI+ACI-,+ACI-KANCHAN
-MUSHHARI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-13,+ACI-CHHIL
-KAURI+ACI-,NAVTOLIYA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-14,+ACI-CHHIL
-KAURI+ACI-,NAVTOLIYA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Sri Punit Tati,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
-15,+ACI-CHHIL
-KAURI+ACI-,PIPARPANTI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-16,+ACI-CHHIL
-KAURI+ACI-,POKHRA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-17,+ACI-CHHIL
-KAURI+ACI-,URDAHA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-18,MACHHRA,+ACI-GANGA
-SAGAR+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-19,MACHHRA,LAHTORVA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-20,MACHHRA,MACHHRA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water Supply
-Scheme(0001986156)+ACI-
-21,MACHHRA,MACHHRA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-MACHHARA
-DIH+ACI-,PWS,+ACI-MPWSS MACHHARA
-DIH(0006489401)+ACI-
-22,MACHHRA,PIPAR PANTI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water Supply
-Scheme(0001986156)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"CHHIL KAURI","BHAGWAN PUR","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"CHHIL KAURI","BHAGWAN PUR","Deep Tubew ell","Ground Water","MIDDLE SCHOOL BHAGWANPUR MUSHAHRI","PWS","MINI PIPE WATER SUPPLY SCHEME CHHILKAURI(0006489369)"
+3,"CHHIL KAURI","CHHILKOURI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+4,"CHHIL KAURI","CHHILKOURI","Shallow Tubew ell","Ground Water","Sikender Kumar","HandPump","Sustainable T/W(0006952680)"
+5,"CHHIL KAURI","JHAKRA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+6,"CHHIL KAURI","JHAKRA","Shallow Tubew ell","Ground Water","Sri Harendra Ray","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+7,"CHHIL KAURI","JHAKRA","Shallow Tubew ell","Ground Water","Tarkeshw ar Singh","HandPump","Sustainable T/W(0006952680)"
+8,"CHHIL KAURI","KABHHUA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+9,"CHHIL KAURI","KABHHUA","Deep Tubew ell","Ground Water","Ram Parkash Sada","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+10,"CHHIL KAURI","KABHHUA","Deep Tubew ell","Ground Water","Ramsaw rup Sada","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+11,"CHHIL KAURI","KABHHUA","Shallow Tubew ell","Ground Water","RAJKUMAR YADAV","HandPump","INSTALLATION OF HAND PUMPS(0001962055)"
+12,"CHHIL KAURI","KANCHAN MUSHHARI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+13,"CHHIL KAURI","NAVTOLIYA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+14,"CHHIL KAURI","NAVTOLIYA","Shallow Tubew ell","Ground Water","Sri Punit Tati","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+15,"CHHIL KAURI","PIPARPANTI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+16,"CHHIL KAURI","POKHRA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+17,"CHHIL KAURI","URDAHA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+18,"MACHHRA","GANGA SAGAR","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+19,"MACHHRA","LAHTORVA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+20,"MACHHRA","MACHHRA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+21,"MACHHRA","MACHHRA","Deep Tubew ell","Ground Water","MACHHARA DIH","PWS","MPWSS MACHHARA DIH(0006489401)"
+22,"MACHHRA","PIPAR PANTI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"

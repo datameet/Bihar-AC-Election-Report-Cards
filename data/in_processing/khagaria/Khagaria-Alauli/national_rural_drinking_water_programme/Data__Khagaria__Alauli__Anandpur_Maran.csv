@@ -1,269 +1,51 @@
-Sno.,"Village
-Name","Habitation
-Name","Source
-Type","Source
-Type
-Category
-Location",Location,Type,Scheme Name
-1,AMAUSI,AMOUSI,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-2,AMAUSI,AMOUSI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-3,AMAUSI,AMOUSI,"Deep
-Tubew ell","Ground
-Water",Domram,HandPump,"IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F-
-2/3/2013-14)
-(0006492566)"
-4,AMAUSI,AMOUSI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"INSTALLATION OF
-HAND
-PUMPS(0001960211)"
-5,AMAUSI,BARKITA,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-6,AMAUSI,BARYAHI,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-7,AMAUSI,BARYAHI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-8,AMAUSI,BARYAHI,"Shallow
-Tubew ell","Ground
-Water","Sri Bashish
-Singh",HandPump,"Sinkking Of T/W With I
-R P(Anil Kr F2/11/09-
-10)(0006493525)"
-9,AMAUSI,BHARATH,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-10,AMAUSI,BHARATH,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-11,AMAUSI,JHIMA,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-12,AMAUSI,JHIMA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-13,AMAUSI,JHIMA,"Shallow
-Tubew ell","Ground
-Water","Choubatia
-Sthan",HandPump,"Sinkking Of T/W With I
-R P(Anil Kr F2/11/09-
-10)(0006493525)"
-14,AMAUSI,LAXMINIYA,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-15,AMAUSI,LAXMINIYA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-,,,Deep,Ground,,,
-16,AMAUSI,SAHORWA,Tubew ell,Water,,HandPump,Alauli Block Ht Scheme(0004009077)
-17,AMAUSI,SAHORWA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-18,AMAUSI,SAHORWA,"Deep
-Tubew ell","Ground
-Water","Balkeshw ar
-Kevat",HandPump,NRDWP(0007074667)
-19,AMAUSI,SAHORWA,"Shallow
-Tubew ell","Ground
-Water",Nandlal,HandPump,"Sustainable
-T/W(0006952680)"
-20,AMAUSI,SAHORWA,"Shallow
-Tubew ell","Ground
-Water","Vanarshi
-Kew at",HandPump,"Sustainable
-T/W(0006952680)"
-21,AMAUSI,SARBJITA,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-22,AMAUSI,SARBJITA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-23,AMAUSI,SISBANI,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-24,AMAUSI,SISBANI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-25,AMAUSI,SRJPUR,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Alauli Block Ht
-Scheme(0004009077)"
-26,AMAUSI,SRJPUR,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
-27,"ANANPUR
-MARAN","ANANDPUR
-MARAN
-(EAST)","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-28,"ANANPUR
-MARAN","ANANDPUR
-MARAN
-(EAST)","Shallow
-Tubew ell","Ground
-Water",,HandPump,"INSTALLATION OF
-HAND
-PUMPS(0001960206)"
-29,"ANANPUR
-MARAN","ANANDPUR
-MARAN
-(EAST)","Deep
-Tubew ell","Ground
-Water","PRIMARY
-SCHOOL
-SUKHASAN",HandPump,NRDWP(0007074667)
-30,"ANANPUR
-MARAN",GURDI KOTHI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-31,"ANANPUR
-MARAN",KALWARI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-32,"ANANPUR
-MARAN",KALWARI,"Deep
-Tubew ell","Ground
-Water","Sarvjanik
-Sthan",HandPump,NRDWP(0007074667)
-33,"ANANPUR
-MARAN",KALWARI,"Shallow
-Tubew ell","Ground
-Water","GOUR LAL
-SADA",HandPump,"SINKKING OF T/W
-WITH I R
-P(0006490276)"
-34,"ANANPUR
-MARAN",MARAN DIH,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
-35,"ANANPUR
-MARAN",MARAN DIH,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"INSTALLATION OF
-HAND
-PUMPS(0001960209)"
-36,"ANANPUR
-MARAN",MUSHAHARI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-37,"ANANPUR
-MARAN","SHYAM
-GHARARI","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-38,"ANANPUR
-MARAN",SUKHASAN,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-39,"ANANPUR
-MARAN",TIRASI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-40,AURAHIDIH,AOURAHI DIH,"Deep
-Tubew ell","Ground
-Water",Rohit Sada,HandPump,"IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F-
-2/3/2013-14)
-(0006492566)"
-41,AURAHIDIH,AOURAHI DIH,"Deep
-Tubew ell","Ground
-Water",T/W 3,HandPump,"Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)"
-42,AURAHIDIH,AOURAHI DIH,"Deep
-Tubew ell","Ground
-Water",T/W 4,HandPump,"Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)"
-43,AURAHIDIH,AOURAHI DIH,"Deep
-Tubew ell","Ground
-Water",T/W 5,HandPump,"Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)"
-44,AURAHIDIH,AOURAHI DIH,"Deep
-Tubew ell","Ground
-Water",T/W 2,HandPump,"Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)"
-45,AURAHIDIH,AOURAHI DIH,"Deep
-Tubew ell","Ground
-Water",T/W 1,HandPump,"Nc/Pc Hand Pump
-Scheme(0004568388)"
-46,AURAHIDIH,"HARIJAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
-47,AURAHIDIH,LARHI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-48,AURAHIDIH,MAKHNAHI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
-49,AURAHIDIH,PIPAR PATTI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
-50,AURAHIDIH,SORIYAM,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"Alauli New  Sinking
-H.T. Water
-Supply(0001988594)"
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"AMAUSI","AMOUSI","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+2,"AMAUSI","AMOUSI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"AMAUSI","AMOUSI","Deep Tubew ell","Ground Water","Domram","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+4,"AMAUSI","AMOUSI","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960211)"
+5,"AMAUSI","BARKITA","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+6,"AMAUSI","BARYAHI","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+7,"AMAUSI","BARYAHI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+8,"AMAUSI","BARYAHI","Shallow Tubew ell","Ground Water","Sri Bashish Singh","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+9,"AMAUSI","BHARATH","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+10,"AMAUSI","BHARATH","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+11,"AMAUSI","JHIMA","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+12,"AMAUSI","JHIMA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+13,"AMAUSI","JHIMA","Shallow Tubew ell","Ground Water","Choubatia Sthan","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+14,"AMAUSI","LAXMINIYA","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+15,"AMAUSI","LAXMINIYA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+16,"AMAUSI","SAHORWA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+17,"AMAUSI","SAHORWA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+18,"AMAUSI","SAHORWA","Deep Tubew ell","Ground Water","Balkeshw ar Kevat","HandPump","NRDWP(0007074667)"
+19,"AMAUSI","SAHORWA","Shallow Tubew ell","Ground Water","Nandlal","HandPump","Sustainable T/W(0006952680)"
+20,"AMAUSI","SAHORWA","Shallow Tubew ell","Ground Water","Vanarshi Kew at","HandPump","Sustainable T/W(0006952680)"
+21,"AMAUSI","SARBJITA","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+22,"AMAUSI","SARBJITA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+23,"AMAUSI","SISBANI","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+24,"AMAUSI","SISBANI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+25,"AMAUSI","SRJPUR","Deep Tubew ell","Ground Water",,"HandPump","Alauli Block Ht Scheme(0004009077)"
+26,"AMAUSI","SRJPUR","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+27,"ANANPUR MARAN","ANANDPUR MARAN (EAST)","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+28,"ANANPUR MARAN","ANANDPUR MARAN (EAST)","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960206)"
+29,"ANANPUR MARAN","ANANDPUR MARAN (EAST)","Deep Tubew ell","Ground Water","PRIMARY SCHOOL SUKHASAN","HandPump","NRDWP(0007074667)"
+30,"ANANPUR MARAN","GURDI KOTHI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+31,"ANANPUR MARAN","KALWARI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+32,"ANANPUR MARAN","KALWARI","Deep Tubew ell","Ground Water","Sarvjanik Sthan","HandPump","NRDWP(0007074667)"
+33,"ANANPUR MARAN","KALWARI","Shallow Tubew ell","Ground Water","GOUR LAL SADA","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+34,"ANANPUR MARAN","MARAN DIH","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+35,"ANANPUR MARAN","MARAN DIH","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960209)"
+36,"ANANPUR MARAN","MUSHAHARI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+37,"ANANPUR MARAN","SHYAM GHARARI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+38,"ANANPUR MARAN","SUKHASAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+39,"ANANPUR MARAN","TIRASI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+40,"AURAHIDIH","AOURAHI DIH","Deep Tubew ell","Ground Water","Rohit Sada","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+41,"AURAHIDIH","AOURAHI DIH","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+42,"AURAHIDIH","AOURAHI DIH","Deep Tubew ell","Ground Water","T/W 4","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+43,"AURAHIDIH","AOURAHI DIH","Deep Tubew ell","Ground Water","T/W 5","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+44,"AURAHIDIH","AOURAHI DIH","Deep Tubew ell","Ground Water","T/W 2","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+45,"AURAHIDIH","AOURAHI DIH","Deep Tubew ell","Ground Water","T/W 1","HandPump","Nc/Pc Hand Pump Scheme(0004568388)"
+46,"AURAHIDIH","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+47,"AURAHIDIH","LARHI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+48,"AURAHIDIH","MAKHNAHI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+49,"AURAHIDIH","PIPAR PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+50,"AURAHIDIH","SORIYAM","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"

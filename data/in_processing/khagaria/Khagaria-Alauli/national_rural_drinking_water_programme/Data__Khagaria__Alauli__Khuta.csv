@@ -1,230 +1,33 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-2,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Kamaldev
-Chaudhary+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-3,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Kamaldev,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-4,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,BANHER,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Ramakant
-Samiti+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-5,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,D PURAB BARI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-6,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-DAHMAPCHMI
-BARI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-7,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-DHAMMA
-KHAIRI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-8,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-DHAMMA
-KHAIRI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-9,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-DHAMMA
-KHAIRI+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Near
-Hanuman
-Mandir+ACI-,HandPump,NRDWP(0007074667)
-10,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-DHAMMA
-KHAIRI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Thakurvari
-Asok
-Choudharay+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-11,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-DHAMMA
-KHAIRI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Mati Radha
-Devi+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-12,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,KHIARI DIH,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-13,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,KHIARI DIH,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-SHANKAR
-SADA+ACI-,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001961953)+ACI-
-14,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,KOYALA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-15,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,KOYALA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Panchayat
-Bhaw an+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-16,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,LABOURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-17,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,LABOURA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Jagdambi
-Sada Kodra
-Mushahri+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-18,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,LABOURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,SUNIL SADA,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001962024)+ACI-
-19,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,SON MANKI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-20,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,SON MANKI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Budhw a Sada,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-21,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,SON MANKI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Shivu Sah
-Sarvjanik
-Sthan+ACI-,HandPump,NRDWP(0007074667)
-22,+ACI-DAHWA
-KHAIRI
-KHUTAHA+ACI-,+ACI-UDHAN
-GHARARI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-23,MOHANPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 2,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-24,MOHANPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 3,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-25,MOHANPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 4,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-26,MOHANPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 5,HandPump,+ACI-Quality Habitation
-Scheme(0005815824)+ACI-
-27,MOHANPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-Shri Moti
-Sada(0000047306)+ACI-
-28,MOHANPUR,MOHAN PUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 2,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-29,MOHANPUR,MOHAN PUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 3,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-30,MOHANPUR,MOHAN PUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 4,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-31,MOHANPUR,MOHAN PUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 5,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-32,MOHANPUR,MOHAN PUR,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-Shri Naresh
-Saha(0000046993)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"DAHWA KHAIRI KHUTAHA","BANHER","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"DAHWA KHAIRI KHUTAHA","BANHER","Shallow Tubew ell","Ground Water","Kamaldev Chaudhary","HandPump","Sustainable T/W(0006952680)"
+3,"DAHWA KHAIRI KHUTAHA","BANHER","Shallow Tubew ell","Ground Water","Kamaldev","HandPump","Sustainable T/W(0006952680)"
+4,"DAHWA KHAIRI KHUTAHA","BANHER","Shallow Tubew ell","Ground Water","Ramakant Samiti","HandPump","Sustainable T/W(0006952680)"
+5,"DAHWA KHAIRI KHUTAHA","D PURAB BARI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+6,"DAHWA KHAIRI KHUTAHA","DAHMAPCHMI BARI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+7,"DAHWA KHAIRI KHUTAHA","DHAMMA KHAIRI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+8,"DAHWA KHAIRI KHUTAHA","DHAMMA KHAIRI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+9,"DAHWA KHAIRI KHUTAHA","DHAMMA KHAIRI","Deep Tubew ell","Ground Water","Near Hanuman Mandir","HandPump","NRDWP(0007074667)"
+10,"DAHWA KHAIRI KHUTAHA","DHAMMA KHAIRI","Shallow Tubew ell","Ground Water","Thakurvari Asok Choudharay","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+11,"DAHWA KHAIRI KHUTAHA","DHAMMA KHAIRI","Shallow Tubew ell","Ground Water","Sri Mati Radha Devi","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+12,"DAHWA KHAIRI KHUTAHA","KHIARI DIH","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+13,"DAHWA KHAIRI KHUTAHA","KHIARI DIH","Shallow Tubew ell","Ground Water","SHANKAR SADA","HandPump","INSTALLATION OF HAND PUMPS(0001961953)"
+14,"DAHWA KHAIRI KHUTAHA","KOYALA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+15,"DAHWA KHAIRI KHUTAHA","KOYALA","Shallow Tubew ell","Ground Water","Panchayat Bhaw an","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+16,"DAHWA KHAIRI KHUTAHA","LABOURA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+17,"DAHWA KHAIRI KHUTAHA","LABOURA","Deep Tubew ell","Ground Water","Jagdambi Sada Kodra Mushahri","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+18,"DAHWA KHAIRI KHUTAHA","LABOURA","Shallow Tubew ell","Ground Water","SUNIL SADA","HandPump","INSTALLATION OF HAND PUMPS(0001962024)"
+19,"DAHWA KHAIRI KHUTAHA","SON MANKI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+20,"DAHWA KHAIRI KHUTAHA","SON MANKI","Deep Tubew ell","Ground Water","Budhw a Sada","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+21,"DAHWA KHAIRI KHUTAHA","SON MANKI","Deep Tubew ell","Ground Water","Shivu Sah Sarvjanik Sthan","HandPump","NRDWP(0007074667)"
+22,"DAHWA KHAIRI KHUTAHA","UDHAN GHARARI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+23,"MOHANPUR","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 2","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+24,"MOHANPUR","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+25,"MOHANPUR","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 4","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+26,"MOHANPUR","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 5","HandPump","Quality Habitation Scheme(0005815824)"
+27,"MOHANPUR","HARIJAN TOLA","Shallow Tubew ell","Ground Water","T/W 1","HandPump","Shri Moti Sada(0000047306)"
+28,"MOHANPUR","MOHAN PUR","Deep Tubew ell","Ground Water","T/W 2","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+29,"MOHANPUR","MOHAN PUR","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+30,"MOHANPUR","MOHAN PUR","Deep Tubew ell","Ground Water","T/W 4","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+31,"MOHANPUR","MOHAN PUR","Deep Tubew ell","Ground Water","T/W 5","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+32,"MOHANPUR","MOHAN PUR","Shallow Tubew ell","Ground Water","T/W 1","HandPump","Shri Naresh Saha(0000046993)"

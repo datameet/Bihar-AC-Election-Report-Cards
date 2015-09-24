@@ -1,69 +1,12 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,Amba,AMBA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-NEAR
-SAMUDAIK
-BHAWAN+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-2,BUDHAURA,BUDHOURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-3,BUDHAURA,BUDHOURA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Bhola Singh,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-4,BUDHAURA,BUDHOURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Banarsi
-Yadav+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
-5,BUDHAURA,BUDHOURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Rambalak
-Yadav+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-6,BUDHAURA,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-7,BUDHAURA,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Raja Tanti,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-8,BUDHAURA,UKAROURA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli Hand
-Pump(0002677209)+ACI-
-9,BUDHAURA,UKAROURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking
-H.T. Water
-Supply(0001988594)+ACI-
-10,BUDHAURA,UKAROURA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Dukhi Yadav,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-11,BUDHAURA,UKAROURA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Bnarsi
-Sada+ACI-,HandPump,+ACI-Sinkking Of T/W With I
-R P(Anil Kr F2/11/09+AC0-
-10)(0006493525)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"Amba","AMBA","Shallow Tubew ell","Ground Water","NEAR SAMUDAIK BHAWAN","HandPump","Sustainable T/W(0006952680)"
+2,"BUDHAURA","BUDHOURA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"BUDHAURA","BUDHOURA","Deep Tubew ell","Ground Water","Bhola Singh","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+4,"BUDHAURA","BUDHOURA","Shallow Tubew ell","Ground Water","Sri Banarsi Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"
+5,"BUDHAURA","BUDHOURA","Shallow Tubew ell","Ground Water","Rambalak Yadav","HandPump","Sustainable T/W(0006952680)"
+6,"BUDHAURA","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+7,"BUDHAURA","HARIJAN TOLA","Shallow Tubew ell","Ground Water","Raja Tanti","HandPump","Sustainable T/W(0006952680)"
+8,"BUDHAURA","UKAROURA","Deep Tubew ell","Ground Water",,"HandPump","Alauli Hand Pump(0002677209)"
+9,"BUDHAURA","UKAROURA","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+10,"BUDHAURA","UKAROURA","Deep Tubew ell","Ground Water","Dukhi Yadav","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+11,"BUDHAURA","UKAROURA","Shallow Tubew ell","Ground Water","Sri Bnarsi Sada","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09- 10)(0006493525)"

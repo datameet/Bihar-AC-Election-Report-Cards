@@ -1,284 +1,49 @@
-Sno.,"Village
-Name","Habitation
-Name","Source
-Type","Source
-Type
-Category
-Location",Location,Type,Scheme Name
-1,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-2,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-3,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-4,ALAULI,ALAULI,"Deep
-Tubew ell","Ground
-Water","THANA
-CAMPUS",HandPump,"IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F-
-2/3/2013-14)
-(0006492566)"
-5,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"INSTALLATION OF HAND
-PUMPS(0001960237)"
-6,ALAULI,ALAULI,"Deep
-Tubew ell","Ground
-Water",,PWS,"Mini Piped Water Supply
-Scheme(0004709790)"
-7,ALAULI,ALAULI,"Deep
-Tubew ell","Ground
-Water",Allauli Thana,HandPump,NRDWP(0007074667)
-8,ALAULI,ALAULI,"Deep
-Tubew ell","Ground
-Water","IN BLOCK
-OFFICE
-CAMPUS",PWS,"PIPED WATER SUPPLY
-SCHEME(0001963354)"
-9,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water","Sri Chandan
-Poudar",HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-10,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water",BLOCK HALL,HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-11,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water","THANA
-CAMPUS",HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-12,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water","HALDER
-PRASAD
-YADAV",HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-13,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water","Pasw an Tola/
-Harijan
-Baithka",HandPump,"Sustainable
-T/W(0006952680)"
-14,ALAULI,ALAULI,"Shallow
-Tubew ell","Ground
-Water","Near Road
-Side",PWS,"TREATMENT(IRP) UNIT
-FOR RPWSS
-ALLAULI(0006547493)"
-15,ALAULI,ALAULI,"Deep
-Tubew ell","Ground
-Water","IN BLOCK
-OFFICE
-CAMPUS",PWS,"TREATMENT(IRP) UNIT
-FOR RPWSS
-ALLAULI(0006547493)"
-16,ALAULI,"HARIJAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,ALAULI H.T. Water Supply Scheme(0001986156)
-17,ALAULI,"HARIJAN
-TOLA","Shallow
-Tubew ell","Ground
-Water","KHAKHAR
-SADA",HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-18,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-19,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-20,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water","VIKAS
-MUKHIYA",HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-21,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water","Sri Ram Vilash
-Yadav",HandPump,"Sinkking Of T/W With I R
-P(Anil Kr F2/11/09-10)
-(0006493525)"
-22,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water","Sri Krishan
-Kumar Hitalar",HandPump,"Sinkking Of T/W With I R
-P(Anil Kr F2/11/09-10)
-(0006493525)"
-23,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water","Sri Vinod
-Kumar",HandPump,"Sinkking Of T/W With I R
-P(Anil Kr F2/11/09-10)
-(0006493525)"
-24,ALAULI,"MADHUPUR
-TOLA","Shallow
-Tubew ell","Ground
-Water",Lmoti Ram,HandPump,"Sustainable
-T/W(0006952680)"
-25,ALAULI,"THARUWA
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-26,ALAULI,"THARUWA
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-27,ALAULI,"THARUWA
-TOLA","Deep
-Tubew ell","Ground
-Water",,HandPump,Ht Scheme(0004708055)
-28,ALAULI,"THARUWA
-TOLA","Deep
-Tubew ell","Ground
-Water","SRI CHANDAR
-YADAV",HandPump,"IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F-
-2/3/2013-14)
-(0006492566)"
-29,ALAULI,"THARUWA
-TOLA","Shallow
-Tubew ell","Ground
-Water","RAM BRICK
-SADA",HandPump,"SINKKING OF T/W WITH I
-R P(0006490276)"
-30,"GAURA
-CHAK","BUCHAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",T/W1,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-31,"GAURA
-CHAK","BUCHAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",T/W2,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-32,"GAURA
-CHAK","BUCHAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",T/W3,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-33,"GAURA
-CHAK","BUCHAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",T/W4,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-34,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water",Road Side,HandPump,"C/S OF IMII HANDPUMP
-WITH IRP IN
-KHAGARIA(0006547665)"
-35,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water",T/W5,HandPump,Ht Scheme(0004708055)
-36,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water",T/W6,HandPump,Ht Scheme(0004708055)
-37,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water",T/W7,HandPump,Ht Scheme(0004708055)
-38,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water",T/W9,HandPump,"Quality Habitation
-Scheme(0005815824)"
-39,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water",T/W8,HandPump,"Quality Habitation
-Scheme(0005815824)"
-40,"GAURA
-CHAK","BUCHAN
-TOLA","Deep
-Tubew ell","Ground
-Water","IN SIDE OF
-HABITATION",PWS,"RPWSS WITH IRP SOLAR
-ENERGY(0006547424)"
-41,"GAURA
-CHAK",GOURACHAK,"Shallow
-Tubew ell","Ground
-Water",T/W2,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-42,"GAURA
-CHAK",GOURACHAK,"Deep
-Tubew ell","Ground
-Water",T/W3,HandPump,Ht Scheme(0004708055)
-43,"GAURA
-CHAK",GOURACHAK,"Deep
-Tubew ell","Ground
-Water",T/W4,HandPump,Ht Scheme(0004708055)
-44,"GAURA
-CHAK",GOURACHAK,"Shallow
-Tubew ell","Ground
-Water",T/W1,HandPump,"INSTALLATION OF HAND
-PUMPS(0001960240)"
-45,"GAURA
-CHAK",GOURACHAK,"Deep
-Tubew ell","Ground
-Water",T/W5,HandPump,"Quality Habitation
-Scheme(0005815824)"
-46,"GAURA
-CHAK",GOURACHAK,"Deep
-Tubew ell","Ground
-Water",T/W6,HandPump,"Quality Habitation
-Scheme(0005815824)"
-47,"GAURA
-CHAK",GOURACHAK,"Deep
-Tubew ell","Ground
-Water","IN SIDE OF
-HABITATION",PWS,"RURAL PWSS WITH IRP
-SOLAR ENERGY
-(GAURACHAK)
-(0006547459)"
-48,"GAURA
-CHAK","HARIJAN
-TOLA","Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+4,"ALAULI","ALAULI","Deep Tubew ell","Ground Water","THANA CAMPUS","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+5,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960237)"
+6,"ALAULI","ALAULI","Deep Tubew ell","Ground Water",,"PWS","Mini Piped Water Supply Scheme(0004709790)"
+7,"ALAULI","ALAULI","Deep Tubew ell","Ground Water","Allauli Thana","HandPump","NRDWP(0007074667)"
+8,"ALAULI","ALAULI","Deep Tubew ell","Ground Water","IN BLOCK OFFICE CAMPUS","PWS","PIPED WATER SUPPLY SCHEME(0001963354)"
+9,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water","Sri Chandan Poudar","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+10,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water","BLOCK HALL","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+11,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water","THANA CAMPUS","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+12,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water","HALDER PRASAD YADAV","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+13,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water","Pasw an Tola/ Harijan Baithka","HandPump","Sustainable T/W(0006952680)"
+14,"ALAULI","ALAULI","Shallow Tubew ell","Ground Water","Near Road Side","PWS","TREATMENT(IRP) UNIT FOR RPWSS ALLAULI(0006547493)"
+15,"ALAULI","ALAULI","Deep Tubew ell","Ground Water","IN BLOCK OFFICE CAMPUS","PWS","TREATMENT(IRP) UNIT FOR RPWSS ALLAULI(0006547493)"
+16,"ALAULI","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+17,"ALAULI","HARIJAN TOLA","Shallow Tubew ell","Ground Water","KHAKHAR SADA","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+18,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+19,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+20,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water","VIKAS MUKHIYA","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+21,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water","Sri Ram Vilash Yadav","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+22,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water","Sri Krishan Kumar Hitalar","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+23,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water","Sri Vinod Kumar","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+24,"ALAULI","MADHUPUR TOLA","Shallow Tubew ell","Ground Water","Lmoti Ram","HandPump","Sustainable T/W(0006952680)"
+25,"ALAULI","THARUWA TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+26,"ALAULI","THARUWA TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+27,"ALAULI","THARUWA TOLA","Deep Tubew ell","Ground Water",,"HandPump","Ht Scheme(0004708055)"
+28,"ALAULI","THARUWA TOLA","Deep Tubew ell","Ground Water","SRI CHANDAR YADAV","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+29,"ALAULI","THARUWA TOLA","Shallow Tubew ell","Ground Water","RAM BRICK SADA","HandPump","SINKKING OF T/W WITH I R P(0006490276)"
+30,"GAURA CHAK","BUCHAN TOLA","Shallow Tubew ell","Ground Water","T/W1","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+31,"GAURA CHAK","BUCHAN TOLA","Shallow Tubew ell","Ground Water","T/W2","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+32,"GAURA CHAK","BUCHAN TOLA","Shallow Tubew ell","Ground Water","T/W3","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+33,"GAURA CHAK","BUCHAN TOLA","Shallow Tubew ell","Ground Water","T/W4","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+34,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","Road Side","HandPump","C/S OF IMII HANDPUMP WITH IRP IN KHAGARIA(0006547665)"
+35,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","T/W5","HandPump","Ht Scheme(0004708055)"
+36,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","T/W6","HandPump","Ht Scheme(0004708055)"
+37,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","T/W7","HandPump","Ht Scheme(0004708055)"
+38,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","T/W9","HandPump","Quality Habitation Scheme(0005815824)"
+39,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","T/W8","HandPump","Quality Habitation Scheme(0005815824)"
+40,"GAURA CHAK","BUCHAN TOLA","Deep Tubew ell","Ground Water","IN SIDE OF HABITATION","PWS","RPWSS WITH IRP SOLAR ENERGY(0006547424)"
+41,"GAURA CHAK","GOURACHAK","Shallow Tubew ell","Ground Water","T/W2","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+42,"GAURA CHAK","GOURACHAK","Deep Tubew ell","Ground Water","T/W3","HandPump","Ht Scheme(0004708055)"
+43,"GAURA CHAK","GOURACHAK","Deep Tubew ell","Ground Water","T/W4","HandPump","Ht Scheme(0004708055)"
+44,"GAURA CHAK","GOURACHAK","Shallow Tubew ell","Ground Water","T/W1","HandPump","INSTALLATION OF HAND PUMPS(0001960240)"
+45,"GAURA CHAK","GOURACHAK","Deep Tubew ell","Ground Water","T/W5","HandPump","Quality Habitation Scheme(0005815824)"
+46,"GAURA CHAK","GOURACHAK","Deep Tubew ell","Ground Water","T/W6","HandPump","Quality Habitation Scheme(0005815824)"
+47,"GAURA CHAK","GOURACHAK","Deep Tubew ell","Ground Water","IN SIDE OF HABITATION","PWS","RURAL PWSS WITH IRP SOLAR ENERGY (GAURACHAK) (0006547459)"
+48,"GAURA CHAK","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"

@@ -1,229 +1,42 @@
-Sno.,Village Name,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-INSTALLATION OF
-HAND
-PUMPS(0001960214)+ACI-
-2,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Arun
-Chopal(0000047383)+ACI-
-3,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Bhadhur
-Mahto(0000047348)+ACI-
-4,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Chamuri
-Choudhary(0000047347)+ACI-
-5,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Damodar
-Sada(0000047326)+ACI-
-6,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Devendra
-Mandal(0000047332)+ACI-
-7,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Gulu
-Yadev(0000047345)+ACI-
-8,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Pw an
-Mandal(0000047344)+ACI-
-9,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Rajeshw ar
-Mandal(0000047356)+ACI-
-10,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Ramanand
-Mandal(0000047359)+ACI-
-11,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Shri Rushan
-Mahto(0000047352)+ACI-
-12,CHHARAPATTI,+ACI-CHHAPRA
-PATTI+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Shravan
-Singh+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-13,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-RANA
-PARTAP
-CHAUDHARI
-SON MANKHI
-MUSHAHRI+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-14,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 2,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-15,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 3,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-16,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 4,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-17,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 5,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-18,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-Shri Narayan
-Pasw an(0000047321)+ACI-
-19,CHHARAPATTI,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri
-Manibhushan
-Choupal+ACI-,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
-20,CHHARAPATTI,RAMPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 2,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-21,CHHARAPATTI,RAMPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 3,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-22,CHHARAPATTI,RAMPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 4,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-23,CHHARAPATTI,RAMPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 5,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-24,CHHARAPATTI,RAMPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 6,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-25,CHHARAPATTI,RAMPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-Nc/Pc Hand Pump
-Scheme(0004568388)+ACI-
-26,CHHARAPATTI,RAMPUR,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Campani
-Mandal+ACI-,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
-27,CHHARAPATTI,RAMPUR,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Arvind
-Prasad Singh+ACI-,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
-28,CHHARAPATTI,SISWA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 3,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-29,CHHARAPATTI,SISWA,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 4,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-30,CHHARAPATTI,SISWA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 2,HandPump,+ACI-Shri Amar
-Yadev(0000047404)+ACI-
-31,CHHARAPATTI,SISWA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-Shri Dhosoaro
-Yadev(0000047402)+ACI-
-32,CHHARAPATTI,SISWA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Manoj
-Kumar/Mintu
-Kumar+ACI-,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
-33,CHHARAPATTI,SISWA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Gajadhar
-Singh+ACI-,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-34,CHHARAPATTI,SOMANRI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli Hand
-Pump(0002677209)+ACI-
-35,CHHARAPATTI,SOMANRI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Alauli New  Sinking H.T.
-Water
-Supply(0001988594)+ACI-
-36,CHHARAPATTI,TIRASI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-SAMUDAIK
-BHAWAN+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-37,CHHARAPATTI,TIRASI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 2,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-38,CHHARAPATTI,TIRASI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 3,HandPump,+ACI-Khagaria Iron Aff.
-Habitation
-Scheme(0005579048)+ACI-
-39,CHHARAPATTI,TIRASI,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 4,HandPump,+ACI-Quality Habitation
-Scheme(0005815824)+ACI-
-40,CHHARAPATTI,TIRASI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-Shri Siya
-Das(0000047406)+ACI-
-41,CHHARAPATTI,TIRASI,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Sri Hari Lal
-Sada+ACI-,HandPump,+ACI-Sinkking Of T/W With I R
-P(Anil Kr F2/11/09+AC0-10)
-(0006493525)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","INSTALLATION OF HAND PUMPS(0001960214)"
+2,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Arun Chopal(0000047383)"
+3,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Bhadhur Mahto(0000047348)"
+4,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Chamuri Choudhary(0000047347)"
+5,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Damodar Sada(0000047326)"
+6,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Devendra Mandal(0000047332)"
+7,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Gulu Yadev(0000047345)"
+8,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Pw an Mandal(0000047344)"
+9,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Rajeshw ar Mandal(0000047356)"
+10,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Ramanand Mandal(0000047359)"
+11,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water",,"HandPump","Shri Rushan Mahto(0000047352)"
+12,"CHHARAPATTI","CHHAPRA PATTI","Shallow Tubew ell","Ground Water","Shravan Singh","HandPump","Sustainable T/W(0006952680)"
+13,"CHHARAPATTI","HARIJAN TOLA","Deep Tubew ell","Ground Water","RANA PARTAP CHAUDHARI SON MANKHI MUSHAHRI","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+14,"CHHARAPATTI","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 2","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+15,"CHHARAPATTI","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+16,"CHHARAPATTI","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 4","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+17,"CHHARAPATTI","HARIJAN TOLA","Deep Tubew ell","Ground Water","T/W 5","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+18,"CHHARAPATTI","HARIJAN TOLA","Shallow Tubew ell","Ground Water","T/W 1","HandPump","Shri Narayan Pasw an(0000047321)"
+19,"CHHARAPATTI","HARIJAN TOLA","Shallow Tubew ell","Ground Water","Sri Manibhushan Choupal","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+20,"CHHARAPATTI","RAMPUR","Deep Tubew ell","Ground Water","T/W 2","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+21,"CHHARAPATTI","RAMPUR","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+22,"CHHARAPATTI","RAMPUR","Deep Tubew ell","Ground Water","T/W 4","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+23,"CHHARAPATTI","RAMPUR","Deep Tubew ell","Ground Water","T/W 5","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+24,"CHHARAPATTI","RAMPUR","Deep Tubew ell","Ground Water","T/W 6","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+25,"CHHARAPATTI","RAMPUR","Deep Tubew ell","Ground Water","T/W 1","HandPump","Nc/Pc Hand Pump Scheme(0004568388)"
+26,"CHHARAPATTI","RAMPUR","Shallow Tubew ell","Ground Water","Sri Campani Mandal","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+27,"CHHARAPATTI","RAMPUR","Shallow Tubew ell","Ground Water","Sri Arvind Prasad Singh","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+28,"CHHARAPATTI","SISWA","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+29,"CHHARAPATTI","SISWA","Deep Tubew ell","Ground Water","T/W 4","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+30,"CHHARAPATTI","SISWA","Shallow Tubew ell","Ground Water","T/W 2","HandPump","Shri Amar Yadev(0000047404)"
+31,"CHHARAPATTI","SISWA","Shallow Tubew ell","Ground Water","T/W 1","HandPump","Shri Dhosoaro Yadev(0000047402)"
+32,"CHHARAPATTI","SISWA","Shallow Tubew ell","Ground Water","Manoj Kumar/Mintu Kumar","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+33,"CHHARAPATTI","SISWA","Shallow Tubew ell","Ground Water","Gajadhar Singh","HandPump","Sustainable T/W(0006952680)"
+34,"CHHARAPATTI","SOMANRI","Deep Tubew ell","Ground Water",,"HandPump","Alauli Hand Pump(0002677209)"
+35,"CHHARAPATTI","SOMANRI","Shallow Tubew ell","Ground Water",,"HandPump","Alauli New  Sinking H.T. Water Supply(0001988594)"
+36,"CHHARAPATTI","TIRASI","Deep Tubew ell","Ground Water","SAMUDAIK BHAWAN","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+37,"CHHARAPATTI","TIRASI","Deep Tubew ell","Ground Water","T/W 2","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+38,"CHHARAPATTI","TIRASI","Deep Tubew ell","Ground Water","T/W 3","HandPump","Khagaria Iron Aff. Habitation Scheme(0005579048)"
+39,"CHHARAPATTI","TIRASI","Deep Tubew ell","Ground Water","T/W 4","HandPump","Quality Habitation Scheme(0005815824)"
+40,"CHHARAPATTI","TIRASI","Shallow Tubew ell","Ground Water","T/W 1","HandPump","Shri Siya Das(0000047406)"
+41,"CHHARAPATTI","TIRASI","Shallow Tubew ell","Ground Water","Sri Hari Lal Sada","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"

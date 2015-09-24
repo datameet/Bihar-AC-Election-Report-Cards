@@ -1,160 +1,31 @@
-Sno.,Village Name,Habitation Name,"Source
-Type","Source
-Type
-Category
-Location",Location,Type,Scheme Name
-1,AMBAICHARUA,AMBA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-2,AMBAICHARUA,AMBA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-3,AMBAICHARUA,AMBA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-4,AMBAICHARUA,AMBA,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Ht
-Scheme(0004708055)"
-5,AMBAICHARUA,AMBA,"Deep
-Tubew ell","Ground
-Water",,HandPump,"Ht
-Scheme(0004708055)"
-6,AMBAICHARUA,AMBAEACHARUWA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-7,AMBAICHARUA,AMBAEACHARUWA,"Shallow
-Tubew ell","Ground
-Water","Sri Gopal
-Singh",HandPump,"Sinkking Of T/W With I R
-P(Anil Kr F2/11/09-10)
-(0006493525)"
-8,AMBAICHARUA,AMBAEACHARUWA,"Shallow
-Tubew ell","Ground
-Water","Sri Raj
-Kumar
-Pasw an",HandPump,"Sinkking Of T/W With I R
-P(Anil Kr F2/11/09-10)
-(0006493525)"
-9,AMBAICHARUA,AMBAEACHARUWA,"Shallow
-Tubew ell","Ground
-Water","Sri Deepak
-Patel",HandPump,"Sinkking Of T/W With I R
-P(Anil Kr F2/11/09-10)
-(0006493525)"
-10,AMBAICHARUA,AMBAEACHARUWA,"Shallow
-Tubew ell","Ground
-Water","Dashrath
-Sada",HandPump,"Sustainable
-T/W(0006952680)"
-11,AMBAICHARUA,HATHIAJAN,"Shallow
-Tubew ell","Ground
-Water",T/W1,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-12,AMBAICHARUA,KAMATHAN,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-13,AMBAICHARUA,KAMATHAN,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-14,AMBAICHARUA,KAMATHAN,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-15,AMBAICHARUA,KAMATHAN,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-16,AMBAICHARUA,MORKAHI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-17,AMBAICHARUA,MORKAHI,"Deep
-Tubew ell","Ground
-Water",MORKAHI,PWS,"MPWS
-MORKAHI(0006489475)"
-18,AMBAICHARUA,MORKAHI,"Deep
-Tubew ell","Ground
-Water","Ram
-Bahadur
-Ajad",HandPump,NRDWP(0007074667)
-19,AMBAICHARUA,NAGAR TOLA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-20,AMBAICHARUA,PASWAN TOLA,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-21,AMBAICHARUA,PRASS MUSHARI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-22,AMBAICHARUA,PRASS MUSHARI,"Deep
-Tubew ell","Ground
-Water","Bhagw ati
-Asthan",HandPump,"IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F-
-2/3/2013-14)
-(0006492566)"
-23,AMBAICHARUA,TILAK NAGAR,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-24,AMBAICHARUA,TILAK NAGAR,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-25,AMBAICHARUA,TILAK NAGAR,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-26,AMBAICHARUA,TILAK NAGAR,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
-27,AMBAICHARUA,TILAK NAGAR,"Deep
-Tubew ell","Ground
-Water",Mushahri,HandPump,"IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F-
-2/3/2013-14)
-(0006492566)"
-28,AMBAICHARUA,TILAK NAGAR,"Deep
-Tubew ell","Ground
-Water","Darogi Pd
-Sharma",HandPump,NRDWP(0007074667)
-29,AMBAICHARUA,TILAK NAGAR,"Shallow
-Tubew ell","Ground
-Water","Ramvaran
-Sah",HandPump,"Sustainable
-T/W(0006952680)"
-30,AMBAICHARUA,TIRASI,"Shallow
-Tubew ell","Ground
-Water",,HandPump,"ALAULI H.T. Water
-Supply
-Scheme(0001986156)"
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"AMBAICHARUA","AMBA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"AMBAICHARUA","AMBA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"AMBAICHARUA","AMBA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+4,"AMBAICHARUA","AMBA","Deep Tubew ell","Ground Water",,"HandPump","Ht Scheme(0004708055)"
+5,"AMBAICHARUA","AMBA","Deep Tubew ell","Ground Water",,"HandPump","Ht Scheme(0004708055)"
+6,"AMBAICHARUA","AMBAEACHARUWA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+7,"AMBAICHARUA","AMBAEACHARUWA","Shallow Tubew ell","Ground Water","Sri Gopal Singh","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+8,"AMBAICHARUA","AMBAEACHARUWA","Shallow Tubew ell","Ground Water","Sri Raj Kumar Pasw an","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+9,"AMBAICHARUA","AMBAEACHARUWA","Shallow Tubew ell","Ground Water","Sri Deepak Patel","HandPump","Sinkking Of T/W With I R P(Anil Kr F2/11/09-10) (0006493525)"
+10,"AMBAICHARUA","AMBAEACHARUWA","Shallow Tubew ell","Ground Water","Dashrath Sada","HandPump","Sustainable T/W(0006952680)"
+11,"AMBAICHARUA","HATHIAJAN","Shallow Tubew ell","Ground Water","T/W1","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+12,"AMBAICHARUA","KAMATHAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+13,"AMBAICHARUA","KAMATHAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+14,"AMBAICHARUA","KAMATHAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+15,"AMBAICHARUA","KAMATHAN","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+16,"AMBAICHARUA","MORKAHI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+17,"AMBAICHARUA","MORKAHI","Deep Tubew ell","Ground Water","MORKAHI","PWS","MPWS MORKAHI(0006489475)"
+18,"AMBAICHARUA","MORKAHI","Deep Tubew ell","Ground Water","Ram Bahadur Ajad","HandPump","NRDWP(0007074667)"
+19,"AMBAICHARUA","NAGAR TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+20,"AMBAICHARUA","PASWAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+21,"AMBAICHARUA","PRASS MUSHARI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+22,"AMBAICHARUA","PRASS MUSHARI","Deep Tubew ell","Ground Water","Bhagw ati Asthan","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+23,"AMBAICHARUA","TILAK NAGAR","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+24,"AMBAICHARUA","TILAK NAGAR","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+25,"AMBAICHARUA","TILAK NAGAR","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+26,"AMBAICHARUA","TILAK NAGAR","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+27,"AMBAICHARUA","TILAK NAGAR","Deep Tubew ell","Ground Water","Mushahri","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+28,"AMBAICHARUA","TILAK NAGAR","Deep Tubew ell","Ground Water","Darogi Pd Sharma","HandPump","NRDWP(0007074667)"
+29,"AMBAICHARUA","TILAK NAGAR","Shallow Tubew ell","Ground Water","Ramvaran Sah","HandPump","Sustainable T/W(0006952680)"
+30,"AMBAICHARUA","TIRASI","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"

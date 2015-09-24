@@ -1,140 +1,22 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,GOBINDPUR,GOBINDPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-Shree
-Shambhusaran
-Mishr+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-2,GOBINDPUR,GOBINDPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Sri Dhanni Das,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-3,GOBINDPUR,GOBINDPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-IN SIDE
-HABITATION+ACI-,PWS,+ACI-MPWSS WITH IRP SOLAR
-ENERGY(0006549074)+ACI-
-4,GOBINDPUR,GOBINDPUR,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,T/W 1,HandPump,+ACI-PARBATTA New  Sinking
-H.T. Water Supply
-Scheme(0001989555)+ACI-
-5,GOBINDPUR,GOBINDPUR,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-PRIMARY
-SCHOOL
-GOVINDPUR+ACI-,HandPump,+ACI-SCHOOL DWS
-PARBATTA(0002717508)+ACI-
-6,GOBINDPUR,GOBINDPUR,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-PRIMARY
-SCHOOL
-GOVINDPUR+ACI-,HandPump,+ACI-School Scheme Of
-Khagaria(0006243088)+ACI-
-7,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-PARBATTA New  Sinking
-H.T. Water Supply
-Scheme(0001989555)+ACI-
-8,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-MIDDLE SCHOOL
-KANHAIYA
-CHAK SOUTH+ACI-,HandPump,+ACI-SCHOOL DWS
-PARBATTA(0002717378)+ACI-
-9,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-MIDDLE SCHOOL
-KANHAIYA
-CHAK SOUTH+ACI-,HandPump,+ACI-SCHOOL DWS
-PARBATTA(0002717514)+ACI-
-10,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-NEW SCHOOL
-JULAHA TOLA
-KANHAIYA
-CHAK+ACI-,HandPump,+ACI-School Scheme Of
-Khagaria(0006243088)+ACI-
-11,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-NEW SCHOOL
-KANHAIYACHAK+ACI-,HandPump,+ACI-School Scheme Of
-Khagaria(0006243088)+ACI-
-12,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-MIDDLE SCHOOL
-KANHAIYA
-CHAK SOUTH+ACI-,HandPump,+ACI-School Scheme Of
-Khagaria(0006243088)+ACI-
-13,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Mandir,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-14,GOBINDPUR,+ACI-KANHAIYA
-CHAK+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-15,GOBINDPUR,+ACI-PACHHIM
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,Inside Habitation,HandPump,+ACI-Mini Pipe Water Supply
-Scheme With Irp Driven
-By
-Solarenergy(0006539440)+ACI-
-16,GOBINDPUR,+ACI-PACHHIM
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-IN SIDE
-HABITATION+ACI-,PWS,+ACI-MPWSS SOLAR ENERGY
-(PACHIM TOLA)
-(0006546104)+ACI-
-17,GOBINDPUR,+ACI-PACHHIM
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-PARBATTA New  Sinking
-H.T. Water Supply
-Scheme(0001989555)+ACI-
-18,GOBINDPUR,+ACI-PURAB
-TOLA+ACI-,+ACI-Deep
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,+ACI-In Side Of
-Habitation+ACI-,PWS,+ACI-Mpw ss Q A Govindpur
-Purab Tola(0006544789)+ACI-
-19,GOBINDPUR,+ACI-PURAB
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-PARBATTA New  Sinking
-H.T. Water Supply
-Scheme(0001989555)+ACI-
-20,GOBINDPUR,UTTAR TOLA,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-PARBATTA New  Sinking
-H.T. Water Supply
-Scheme(0001989555)+ACI-
-21,+ACI-RUPAULI
-INGLISH+ACI-,+ACI-RUPAULI
-GUGLISH+ACI-,+ACI-Shallow
-Tubew ell+ACI-,+ACI-Ground
-Water+ACI-,,HandPump,+ACI-PARBATTA New  Sinking
-H.T. Water Supply
-Scheme(0001989555)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"GOBINDPUR","GOBINDPUR","Deep Tubew ell","Ground Water","Shree Shambhusaran Mishr","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+2,"GOBINDPUR","GOBINDPUR","Deep Tubew ell","Ground Water","Sri Dhanni Das","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+3,"GOBINDPUR","GOBINDPUR","Deep Tubew ell","Ground Water","IN SIDE HABITATION","PWS","MPWSS WITH IRP SOLAR ENERGY(0006549074)"
+4,"GOBINDPUR","GOBINDPUR","Shallow Tubew ell","Ground Water","T/W 1","HandPump","PARBATTA New  Sinking H.T. Water Supply Scheme(0001989555)"
+5,"GOBINDPUR","GOBINDPUR","Shallow Tubew ell","Ground Water","PRIMARY SCHOOL GOVINDPUR","HandPump","SCHOOL DWS PARBATTA(0002717508)"
+6,"GOBINDPUR","GOBINDPUR","Deep Tubew ell","Ground Water","PRIMARY SCHOOL GOVINDPUR","HandPump","School Scheme Of Khagaria(0006243088)"
+7,"GOBINDPUR","KANHAIYA CHAK","Shallow Tubew ell","Ground Water",,"HandPump","PARBATTA New  Sinking H.T. Water Supply Scheme(0001989555)"
+8,"GOBINDPUR","KANHAIYA CHAK","Shallow Tubew ell","Ground Water","MIDDLE SCHOOL KANHAIYA CHAK SOUTH","HandPump","SCHOOL DWS PARBATTA(0002717378)"
+9,"GOBINDPUR","KANHAIYA CHAK","Shallow Tubew ell","Ground Water","MIDDLE SCHOOL KANHAIYA CHAK SOUTH","HandPump","SCHOOL DWS PARBATTA(0002717514)"
+10,"GOBINDPUR","KANHAIYA CHAK","Deep Tubew ell","Ground Water","NEW SCHOOL JULAHA TOLA KANHAIYA CHAK","HandPump","School Scheme Of Khagaria(0006243088)"
+11,"GOBINDPUR","KANHAIYA CHAK","Deep Tubew ell","Ground Water","NEW SCHOOL KANHAIYACHAK","HandPump","School Scheme Of Khagaria(0006243088)"
+12,"GOBINDPUR","KANHAIYA CHAK","Deep Tubew ell","Ground Water","MIDDLE SCHOOL KANHAIYA CHAK SOUTH","HandPump","School Scheme Of Khagaria(0006243088)"
+13,"GOBINDPUR","KANHAIYA CHAK","Shallow Tubew ell","Ground Water","Mandir","HandPump","Sustainable T/W(0006952680)"
+14,"GOBINDPUR","KANHAIYA CHAK","Shallow Tubew ell","Ground Water",,"HandPump","Sustainable T/W(0006952680)"
+15,"GOBINDPUR","PACHHIM TOLA","Deep Tubew ell","Ground Water","Inside Habitation","HandPump","Mini Pipe Water Supply Scheme With Irp Driven By Solarenergy(0006539440)"
+16,"GOBINDPUR","PACHHIM TOLA","Deep Tubew ell","Ground Water","IN SIDE HABITATION","PWS","MPWSS SOLAR ENERGY (PACHIM TOLA) (0006546104)"
+17,"GOBINDPUR","PACHHIM TOLA","Shallow Tubew ell","Ground Water",,"HandPump","PARBATTA New  Sinking H.T. Water Supply Scheme(0001989555)"
+18,"GOBINDPUR","PURAB TOLA","Deep Tubew ell","Ground Water","In Side Of Habitation","PWS","Mpw ss Q A Govindpur Purab Tola(0006544789)"
+19,"GOBINDPUR","PURAB TOLA","Shallow Tubew ell","Ground Water",,"HandPump","PARBATTA New  Sinking H.T. Water Supply Scheme(0001989555)"
+20,"GOBINDPUR","UTTAR TOLA","Shallow Tubew ell","Ground Water",,"HandPump","PARBATTA New  Sinking H.T. Water Supply Scheme(0001989555)"
+21,"RUPAULI INGLISH","RUPAULI GUGLISH","Shallow Tubew ell","Ground Water",,"HandPump","PARBATTA New  Sinking H.T. Water Supply Scheme(0001989555)"

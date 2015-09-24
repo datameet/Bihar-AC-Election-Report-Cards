@@ -1,66 +1,14 @@
-Sno.,+ACI-Village
-Name+ACI-,+ACI-Habitation
-Name+ACI-,+ACI-Source
-Type+ACI-,+ACI-Source
-Type
-Category
-Location+ACI-,Location,Type,Scheme Name
-1,HARPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-2,HARPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-3,HARPUR,+ACI-HARIJAN
-TOLA+ACI-,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,Jamnijan Ghat,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-4,HARPUR,HARIPUR,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,Vikash Kumar,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-5,HARPUR,HARIPUR,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Ramesh
-Kumar+ACI-,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-6,HARPUR,HARIPUR,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,Near Mandir,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-7,HARPUR,HARIPUR,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,+ACI-Near Samudai
-Bhavan+ACI-,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-8,HARPUR,HARIPUR,+ACI-Deep
-Tubew ell+ACI-,Ground Water,+ACI-HIGH
-SCHOOL
-HARIPUR+ACI-,PWS,MPWSS(0006489432)
-9,HARPUR,HARIPUR,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,Pokhar,HandPump,+ACI-Sustainable
-T/W(0006952680)+ACI-
-10,NISTA,DALAN,+ACI-Deep
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-Alauli Hand
-Pump(0002677209)+ACI-
-11,NISTA,DALAN,+ACI-Deep
-Tubew ell+ACI-,Ground Water,Dalan Ghat,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
-12,NISTA,NISTA,+ACI-Shallow
-Tubew ell+ACI-,Ground Water,,HandPump,+ACI-ALAULI H.T. Water
-Supply
-Scheme(0001986156)+ACI-
-13,NISTA,NISTA,+ACI-Deep
-Tubew ell+ACI-,Ground Water,+ACI-Samudaik
-Bhaw an+ACI-,HandPump,+ACI-IM II T/W NRDWP
-SUSTAINABLE(Sri
-Abhishek Kumar, F+AC0-
-2/3/2013+AC0-14)
-(0006492566)+ACI-
+"Sno.","Village Name","Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name"
+1,"HARPUR","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+2,"HARPUR","HARIJAN TOLA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+3,"HARPUR","HARIJAN TOLA","Shallow Tubew ell","Ground Water","Jamnijan Ghat","HandPump","Sustainable T/W(0006952680)"
+4,"HARPUR","HARIPUR","Shallow Tubew ell","Ground Water","Vikash Kumar","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+5,"HARPUR","HARIPUR","Shallow Tubew ell","Ground Water","Ramesh Kumar","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+6,"HARPUR","HARIPUR","Shallow Tubew ell","Ground Water","Near Mandir","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+7,"HARPUR","HARIPUR","Shallow Tubew ell","Ground Water","Near Samudai Bhavan","HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+8,"HARPUR","HARIPUR","Deep Tubew ell","Ground Water","HIGH SCHOOL HARIPUR","PWS","MPWSS(0006489432)"
+9,"HARPUR","HARIPUR","Shallow Tubew ell","Ground Water","Pokhar","HandPump","Sustainable T/W(0006952680)"
+10,"NISTA","DALAN","Deep Tubew ell","Ground Water",,"HandPump","Alauli Hand Pump(0002677209)"
+11,"NISTA","DALAN","Deep Tubew ell","Ground Water","Dalan Ghat","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
+12,"NISTA","NISTA","Shallow Tubew ell","Ground Water",,"HandPump","ALAULI H.T. Water Supply Scheme(0001986156)"
+13,"NISTA","NISTA","Deep Tubew ell","Ground Water","Samudaik Bhaw an","HandPump","IM II T/W NRDWP SUSTAINABLE(Sri Abhishek Kumar, F- 2/3/2013-14) (0006492566)"
