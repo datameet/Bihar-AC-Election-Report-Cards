@@ -2,5 +2,7 @@ common:
     database: "sqlite:///merge.sqlite"
     format: csv
 exports:
-    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  alauli_nrdwp'
-      filename: "Khagaria_Aalauli_nrdwp.csv"
+#    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  alauli_nrdwp'
+#      filename: "Khagaria_Aalauli_nrdwp.csv"
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  beldaur_nrdw'
+      filename: "Khagaria_Beldaur_nrdwp.csv"
