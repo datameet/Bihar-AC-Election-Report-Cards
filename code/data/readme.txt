@@ -9,3 +9,5 @@ python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Beldaur/national
 python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Beldaur/sanitation -o beldaur_sanitation_results
 
 python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Khagaria/national_rural_drinking_water_programme -o khagaria_nrdw
+
+python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Khagaria/sanitation -o khagaria_sanitation_results
