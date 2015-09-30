@@ -1,0 +1,8 @@
+"S. No.","State","District","Block","Panchayat","Village","Habitation","Location","Type Of Source","Lab Name","Testing Date","Above Permissible Limit & (6.5 < pH > 8.5) (Mandatory*)","Below Permissible Limit (Mandatory*)","Above Permissible Limit (Emerging / Other**)","Below Permissible Limit (Emerging / Other**)"
+1,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","AMANI","MIDDLE SCHOOL AMNI / SC150034220","Deep Tubewell","KHAGARIA","01/09/2015","Iron[1.40 Mg/L]","Nitrate[20.00 Mg/L],Arsenic[0.01 Mg/L]",,
+2,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","AMANI","Bajrangbali Sthan / SC150136944","Shallow Tubewell","KHAGARIA","02/09/2015","Iron[3.20 Mg/L]","Nitrate[20.00 Mg/L],Arsenic[0.00 Mg/L]",,
+3,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","AMANI","RAJESH MOHAN GUPTA / SC1717275","Shallow Tubewell","KHAGARIA","01/09/2015","Arsenic[0.14 Mg/L],Iron[4.00 Mg/L]",,,
+4,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","AMANI","Y.K. PODDAR / SC1718405","Shallow Tubewell","KHAGARIA","01/09/2015","Arsenic[0.10 Mg/L],Iron[2.80 Mg/L]",,,
+5,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","AMANI","REENA DAVI / SC1718427","Shallow Tubewell","KHAGARIA","01/09/2015","Arsenic[0.10 Mg/L],Iron[3.20 Mg/L]",,,
+6,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","AMANI","SC3882317","Deep Tubewell","KHAGARIA","01/09/2015","Iron[3.80 Mg/L]","Nitrate[10.00 Mg/L],Arsenic[0.01 Mg/L]",,
+7,"BIHAR","KHAGARIA","MANSI","AMANI","AMNI","PUNARWASH","PRIMARY SCHOOL PASWAN TOLA / SC150034219","Deep Tubewell","KHAGARIA","01/09/2015","Arsenic[0.11 Mg/L],Iron[2.60 Mg/L]",,,
