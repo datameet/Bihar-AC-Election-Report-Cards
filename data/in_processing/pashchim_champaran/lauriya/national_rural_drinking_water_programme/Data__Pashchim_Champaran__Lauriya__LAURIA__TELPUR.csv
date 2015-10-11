@@ -1,0 +1,26 @@
+Source Details,"","","","","","",""
+Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,INARBARWALETIHA,INARBARWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545277)"
+2,INARBARWALETIHA,"KITYAHARIJAN TOLI","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545278)"
+3,INARBARWALETIHA,LITIYA TOLA,"DeepTubew ell","GroundWater","Near BrahamSthan",HandPump,"LauriyaScheme(0007076733)"
+4,INARBARWALETIHA,LITIYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545279)"
+5,PARSAUNADIH,PERSAUNA DIH,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"LAURIYASCHEME(0006559652)"
+6,PARSAUNADIH,PERSAUNA DIH,"DeepTubew ell","GroundWater","NEARMASJID",HandPump,"LAURIYASCHEME(0006559652)"
+7,PARSAUNADIH,PERSAUNA DIH,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545280)"
+8,TELPUR,ADIVASI TOLA,"DeepTubew ell","GroundWater","PUBLICPLACE",HandPump,"LauriyaScheme(0004023709)"
+9,TELPUR,ADIVASI TOLA,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+10,TELPUR,BHAKURAHIYA,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+11,TELPUR,DOM TOLI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
+12,TELPUR,DOM TOLI,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+13,TELPUR,"EAST HARIJANTOLI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004662143)"
+14,TELPUR,"EAST HARIJANTOLI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+15,TELPUR,"EAST HARIJANTOLI","DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+16,TELPUR,NORTH TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965541)"
+17,TELPUR,NORTH TOLA,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+18,TELPUR,SOUTH TOLA,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+19,TELPUR,TELPUR,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001965546)"
+20,TELPUR,TELPUR,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"LAURIYASCHEME(0006559708)"
+21,TELPUR,TELPUR,"DeepTubew ell","GroundWater","EMAMBARAKE PAS",HandPump,"LAURIYASCHEME(0006559708)"
+22,TELPUR,TELPUR,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"
+23,TELPUR,WEST TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965549)"
+24,TELPUR,WEST TOLA,"DeepTubew ell","GroundWater","",PWS,"Telpur Rural PipeWater SupplyScheme(0001949306)"

@@ -1,0 +1,25 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BAISIA KHAP,BAISIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544979)"
+2,BAISIA KHAP,BAISIA KHAP,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544980)"
+3,BAISIA KHAP,HARIZAN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544981)"
+4,BAISIA KHAP,"KALWARTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544982)"
+5,BAISIA KHAP,NUNIA TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544983)"
+6,DHABELWA,"CHANDRIKASAH KA TOLA","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961465)"
+7,DHABELWA,"CHANDRIKASAH KA TOLA","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961466)"
+8,DHABELWA,DHABELWA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961471)"
+9,DHABELWA,DHABELWA,"DeepTubew ell","GroundWater",Road Side,HandPump,"YogapattiScheme(0006553571)"
+10,DHABELWA,DHABELWA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553571)"
+11,DIHI,BIN TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544984)"
+12,DIHI,DIHI,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961474)"
+13,DIHI,MIYA PATTI,"ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004733022)"
+14,DIHI,MIYA PATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapatti",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544985)"
+"","","","","",Block,"",""
+15,DIHI,TELIPATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544986)"
+16,GAJNA,BIN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544987)"
+17,GAJNA,GAJANA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544988)"
+18,JARALPUR,AHIR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544989)"
+19,JARALPUR,JARALPUR,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961495)"
+20,JARALPUR,JARALPUR,"DeepTubew ell","GroundWater",Harijan Toli,HandPump,"YogapattiScheme(0006553589)"
+21,JARALPUR,JARALPUR,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553589)"
+22,JARALPUR,"JARALPURKHUTWA","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961513)"

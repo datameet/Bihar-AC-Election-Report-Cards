@@ -1,0 +1,17 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,"BARWA(SANI)",BERWASANI,"ShallowTubew ell","GroundWater","Near BrahamSthan",HandPump,"JogapattiScheme(0001961604)"
+2,CHANDPUR,CHANDPUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545016)"
+3,CHANDRAUL,CHANDRAUL,"ShallowTubew ell","GroundWater","Near BrahamSthan",HandPump,"Jogapatti MMCYScheme(0006499165)"
+4,CHANDRAUL,CHANDRAUL,"ShallowTubew ell","GroundWater","Near RamBahadur Das",HandPump,"JogapattiScheme(0001961607)"
+5,CHANDRAUL,CHANDRAUL,"ShallowTubew ell","GroundWater","Sukul TolaMakai Yadav",HandPump,"JogapattiScheme(0006499615)"
+6,"CHAUBETOLA","CHAUBETOLA","ShallowTubew ell","GroundWater",North Tola,HandPump,"Jogapatti MMCYScheme(0006500225)"
+7,"CHAUBETOLA","CHAUBETOLA","ShallowTubew ell","GroundWater","Shiv MandirCampus",HandPump,"Jogapatti MMCYScheme(0006500225)"
+8,"CHAUBETOLA","CHAUBETOLA","ShallowTubew ell","GroundWater",Near Mandir,HandPump,"Jogapatti MMCYScheme(0006500225)"
+9,"CHAUBETOLA","CHAUBETOLA","ShallowTubew ell","GroundWater",Bichla Tola,HandPump,"Jogapatti MMCYScheme(0006500225)"
+10,"CHAUBETOLA","CHAUBETOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545017)"
+11,NIMUIA,NIMUIYA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545018)"
+12,NIMUIA,NIMUIYA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553701)"
+13,SEMRI,SEMRI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545019)"
+14,"SISWABAIRAGI","SISWABAIRAGI","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545020)"
+15,"SISWABAIRAGI","SISWABAIRAGI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553707)"

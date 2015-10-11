@@ -1,0 +1,21 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BHAWANIPUR,BHAWANIPUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544998)"
+2,BHAWANIPUR,DOLVIA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961533)"
+3,BHAWANIPUR,"GOPAL SAHKA TOLA","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961539)"
+4,BHAWANIPUR,MUSHER TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544999)"
+5,BHAWANIPUR,MUSHER TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006608794)"
+6,NAWALPUR,BIN TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961545)"
+7,NAWALPUR,"KHALWATOLA","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961547)"
+8,NAWALPUR,MIYA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961550)"
+9,NAWALPUR,MUSHER TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961555)"
+10,NAWALPUR,MUSHER TOLA,"DeepTubew ell","GroundWater","MahadalitBasti",HandPump,"YogapattiScheme(0006553626)"
+11,NAWALPUR,MUSHER TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553626)"
+12,NAWALPUR,NAWALPUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545000)"
+13,NAWALPUR,NAWALPUR,"DeepTubew ell","GroundWater",Bazar Tola,HandPump,"YogapattiScheme(0006553638)"
+14,NAWALPUR,NAWALPUR,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553638)"
+15,NAWALPUR,RAMNA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961557)"
+16,NAWALPUR,RAMNA TOLA,"DeepTubew ell","GroundWater",Road Side,HandPump,"YogapattiScheme(0006553651)"
+17,NAWALPUR,RAMNA TOLA,"DeepTubew ell","GroundWater","NearChauraha",HandPump,"YogapattiScheme(0006553651)"
+18,NAWALPUR,RAMNA TOLA,Deep,Ground,Inside,HandPump,Yogapatti
+"","","",Tubew ell,Water,Habitation,"",Scheme(0006553651)

@@ -1,0 +1,15 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BALDIHA,BALDIHA,"ShallowTubew ell",Ground Water,"",HandPump,"JogapattiScheme(0001961612)"
+2,BALDIHA,BALDIHA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"YogapattiScheme(0006553716)"
+3,"KHAIRATIAMANPUR","KHAIRATIAMANPUR","DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545021)"
+4,"KHAIRATIAMANPUR","KHAIRATIAMANPUR","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"YogapattiScheme(0006553724)"
+5,KHAIRATIA,KHAIRATIA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545022)"
+6,KHAIRATIA,KHAIRATIA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"YogapattiScheme(0006553733)"
+7,NANKAR,MUSHER TOLI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545023)"
+8,NANKAR,NANKAR,"DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545024)"
+9,"SISWABHUINHAR",HARIJAN TOLI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545025)"
+10,"SISWABHUINHAR",KURMI PATTI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545026)"
+11,"SISWABHUINHAR","SISWABHUMIHAR","DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545027)"
+12,SONBARSA,GADIYANI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545028)"
+13,SONBARSA,SONBARSA,"ShallowTubew ell",Ground Water,"",HandPump,"JogapattiScheme(0001975442)"

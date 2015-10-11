@@ -1,0 +1,18 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,DUMRI,"A. HAZAMTOLI","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544945)"
+2,DUMRI,AHIR TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544946)"
+3,DUMRI,"BAKAHOTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544947)"
+4,DUMRI,DUMRI,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961354)"
+5,DUMRI,DUMRI,"DeepTubew ell","GroundWater",Road Side,HandPump,"YogapattiScheme(0006553517)"
+6,DUMRI,DUMRI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553517)"
+7,DUMRI,"DUMRI AHIRTOLI","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544948)"
+8,DUMRI,G. AHIR TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544949)"
+9,DUMRI,GOLAGAHT,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961364)"
+10,DUMRI,TAKTAKWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544950)"
+11,DUMRI,"TAKTAKWAKOHAR","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544951)"
+12,LACHHMIPUR,BIRTI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544952)"
+13,LACHHMIPUR,LAXSHMIPUR,Deep,Ground,"Nc/PcScheme For",SPOT,"Nc/Pc Scheme ForJogapatti"
+"","","",Tubew ell,Water,"JogapattiBlock","",Block(0004544953)
+14,"RUDARPURPATERWA","RUDALPURPATERWA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544954)"
+15,"RUDARPURPATERWA",TEWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544955)"

@@ -1,0 +1,35 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BHATAURA,BHATAURA,"DeepTubew ell","GroundWater","",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+2,BHATAURA,BHATAURA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545239)"
+3,SATWARIA,AHIR TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545240)"
+4,SATWARIA,"CHAUBETOLA","DeepTubew ell","GroundWater","Near BrahamSthan",HandPump,"LauriyaScheme(0007076733)"
+5,SATWARIA,"CHAUBETOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545241)"
+6,SATWARIA,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545242)"
+7,SATWARIA,"HARIJANTOLA ROADSIDE","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545243)"
+8,SATWARIA,"MISHRATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+9,SATWARIA,"MISHRATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+10,SATWARIA,"MISHRATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001965459)"
+11,SATWARIA,SATWARIA,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"LAURIYASCHEME(0006558629)"
+12,SATWARIA,SATWARIA,"DeepTubew ell","GroundWater","MASJID KEPAS",HandPump,"LAURIYASCHEME(0006558629)"
+13,SATWARIA,SATWARIA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545244)"
+14,SATWARIA,"SATWARIAMAUTA","ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004661733)"
+15,SATWARIA,"SATWARIAMAUTA","ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004661755)"
+16,SATWARIA,SATWARIA,Shallow,Ground,"",HandPump,Lauria
+"","",MAUTA,Tubew ell,Water,"","",Scheme(0001965462)
+17,SATWARIA,TATWA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965468)"
+18,SATWARIA,TURHA TOLI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+19,SATWARIA,TURHA TOLI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545245)"
+20,SIHPUR,"BANIYATOLA","DeepTubew ell","GroundWater","",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+21,SIHPUR,"BANIYATOLA","DeepTubew ell","GroundWater","",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+22,SIHPUR,"BANIYATOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965470)"
+23,SIHPUR,DUSADH TOLI,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965473)"
+24,SIHPUR,EAST TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965475)"
+25,SIHPUR,HARIJAN TOLI,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965482)"
+26,SIHPUR,KUMHAR TOLI,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965486)"
+27,SIHPUR,KUMHAR TOLI,"DeepTubew ell","GroundWater",In Kohar Toli,HandPump,"LauriyaScheme(0007076733)"
+28,SIHPUR,KUMHAR TOLI,"DeepTubew ell","GroundWater","Near BrahamSthan",HandPump,"LauriyaScheme(0007076733)"
+29,SIHPUR,MISHRA TOLI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+30,SIHPUR,MISHRA TOLI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545246)"
+31,SIHPUR,SINGH PUR,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965490)"
+32,SIHPUR,WEST TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965493)"

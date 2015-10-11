@@ -1,0 +1,55 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BAKULAHIA,BAKULAHIA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545124)"
+2,BAKULAHIA,NUT TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
+3,BAKULAHIA,NUT TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545125)"
+4,BELWA,BELWA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545126)"
+5,BELWA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+6,BELWA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+7,BELWA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001977120)"
+8,BELWA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0004096789)"
+9,BELWA,NAULKAR,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545127)"
+10,BELWA,NORTH TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
+11,BELWA,NORTH TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545128)"
+12,BELWA,"PANDEYTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545129)"
+13,CHAINPATIA,CHAN PATTIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+14,CHAINPATIA,CHAN PATTIA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545130)"
+"","","",Deep,Ground,"","",Lauria
+15,DHOBNI,DHOBNI,Tubew ell,Water,"",HandPump,Scheme(0001964781)
+16,DHOBNI,DHOBNI,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096774)"
+17,DHOBNI,DOM TOLI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545131)"
+18,DHOBNI,HARIJAN TOLI,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964788)"
+19,DHOBNI,HARIJAN TOLI,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096839)"
+20,DHOBNI,HARIJAN TOLI,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096839)"
+21,DHOBNI,"KHEKHARIATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+22,DHOBNI,"KHEKHARIATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+23,DHOBNI,"KHEKHARIATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964798)"
+24,DHOBNI,"KHEKHARIATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0004096876)"
+25,DHOBNI,"MALAHIHARIJAN TOLI","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964805)"
+26,DHOBNI,"MALAHIHARIJAN TOLI","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096908)"
+27,DHOBNI,"MALAHITOLA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964814)"
+28,DHOBNI,"MALAHITOLA","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096935)"
+29,DHOBNI,"MALAHITOLA","DeepTubew ell","GroundWater",Malah Patti,HandPump,"LauriyaScheme(0007076733)"
+30,DHOBNI,"SUGAULIHARIJAN TOLI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+31,DHOBNI,"SUGAULIHARIJAN TOLI","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545132)"
+32,DHOBNI,"SUGAULITOLA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964820)"
+33,DHOBNI,"SUGAULITOLA","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096945)"
+34,LIPNI,BEYAS PUR,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964855)"
+35,LIPNI,BEYAS PUR,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096957)"
+36,LIPNI,BEYAS PUR,"DeepTubew ell","GroundWater",Near School,HandPump,"LauriyaScheme(0007076733)"
+37,LIPNI,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545133)"
+38,LIPNI,LIPNI,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964858)"
+39,LIPNI,LIPNI,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096968)"
+40,LIPNI,TATWA TOLA,"DeepTubew ell","GroundWater","",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+41,LIPNI,TATWA TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545134)"
+42,RAMAULI,LOHAR TOLI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor Lauria",SPOT,"Nc/Pc Scheme ForLauria"
+"","","","","",Block,"",Block(0004545135)
+43,RAMAULI,"PANDEYTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545136)"
+44,RAMAULI,RAMAULI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545137)"
+45,RAMAULI,WEST TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545138)"
+46,SIKTA,EAST TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545139)"
+47,SIKTA,NORTH TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor LauriaBlock",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545140)"
+48,SIKTA,SIKTA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964862)"
+49,SIKTA,SIKTA,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"LAURIYASCHEME(0006558457)"
+50,SIKTA,SIKTA,"DeepTubew ell","GroundWater",PIPAL KE PAS,HandPump,"LAURIYASCHEME(0006558457)"
+51,SIKTA,SOUTH TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964864)"

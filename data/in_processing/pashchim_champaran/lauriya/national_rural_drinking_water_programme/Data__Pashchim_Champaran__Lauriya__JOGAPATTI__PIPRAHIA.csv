@@ -1,0 +1,21 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BHAWANIPUR,BHAWANIPUR,"DeepTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001976110)"
+2,BHAWANIPUR,BHAWANIPUR,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553659)"
+3,BHAWANIPUR,"BHAWANIPURD","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961562)"
+4,BHAWANIPUR,"DAKHINWARITOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545001)"
+5,BHAWANIPUR,LAKRA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961564)"
+6,BHAWANIPUR,"PURWARITOLA","ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004667863)"
+7,BHAWANIPUR,"PURWARITOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545002)"
+8,PIPRAHIA,GOHRPADWA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961565)"
+9,PIPRAHIA,HARIZAN TOLI,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961568)"
+10,PIPRAHIA,MIYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545003)"
+"1t",PIPRAHIA,NAYA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961570)"
+12,PIPRAHIA,PIPRAHIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545004)"
+13,PIPRAHIA,PIPRAHIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553682)"
+14,PIPRAHIA,ROAD SIDE,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545005)"
+15,"SEMRIBHAWANIPUR","GOHRPADBWA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapatti",SPOT,"Nc/Pc Scheme ForJogapatti"
+"","","","","",Block,"",Block(0004545006)
+16,"SEMRIBHAWANIPUR",KOIRI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545007)"
+17,"SEMRIBHAWANIPUR","SAMRIBHAWANIPUR","ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004733050)"
+18,"SEMRIBHAWANIPUR","SAMRIBHAWANIPUR","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545008)"

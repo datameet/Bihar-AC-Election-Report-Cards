@@ -1,0 +1,20 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,DUMDUMWA,DUM DUMWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545247)"
+2,LAKAR,LAKAR,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965496)"
+3,LAKAR,LIFIYA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965499)"
+4,LAKAR,NUNIA TOLA,"DeepTubew ell","GroundWater","Nuniyaw aPatti",HandPump,"LauriyaScheme(0007076733)"
+5,LAKAR,NUNIA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545248)"
+6,LAKAR,SOUTH TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965501)"
+7,MURTIA,MURTIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545249)"
+8,SAHUATANR,NORTH TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965507)"
+9,SAHUATANR,"SAUWATANR","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545250)"
+10,SAHUATANR,"SOUTHHARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545251)"
+11,SISAI,EAST TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
+12,SISAI,EAST TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545252)"
+13,SISAI,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545253)"
+14,SISAI,NORTH TOLA,"DeepTubew ell","GroundWater",Near Math,HandPump,"LauriyaScheme(0007076733)"
+15,SISAI,NORTH TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545254)"
+16,SISAI,SISAI,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965510)"
+"","","",Deep,Ground,"","",Lauriya
+17,SISAI,SISAI,Tubew ell,Water,"",HandPump,Scheme(0004096982)

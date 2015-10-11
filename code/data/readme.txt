@@ -29,3 +29,5 @@ python merge.py -f ./../../data/in_processing/pashchim_champaran/chanpatiya/nati
 
 python merge.py -f ./../../data/in_processing/pashchim_champaran/chanpatiya/sanitation -o chanpatiya_sanitation_results
 
+python merge.py -f ./../../data/in_processing/pashchim_champaran/lauriya/national_rural_drinking_water_programme -0 lauriya_nrdw
+

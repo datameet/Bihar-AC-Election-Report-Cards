@@ -1,0 +1,52 @@
+Source Details,"","","","","","",""
+Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BAGHLOCHNA,BAGHLOCHNA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964886)"
+2,BAGHLOCHNA,BAGHLOCHNA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004097017)"
+3,BAGHLOCHNA,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545149)"
+4,BAGHLOCHNA,NUNIA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545150)"
+5,GOBRAURA,AHIR TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964890)"
+6,GOBRAURA,AHIR TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004097022)"
+7,GOBRAURA,AHIR TOLA,"DeepTubew ell","GroundWater","Near BrahamSthan, NearSchool,Uttarw ariTola",PWS,"Matiyariya GobrauraPWSScheme(0006511382)"
+8,GOBRAURA,BIRTI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545151)"
+9,GOBRAURA,DUBEY TOLA,"DeepTubew ell","GroundWater",Near Pokhara,HandPump,"LauriyaScheme(0007076733)"
+10,GOBRAURA,DUBEY TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545152)"
+11,GOBRAURA,GOBRAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+12,GOBRAURA,GOBRAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+13,GOBRAURA,GOBRAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+14,GOBRAURA,GOBRAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964914)"
+"","","",Deep,Ground,Inside,"",Lauriya
+15,GOBRAURA,GOBRAURA,Tubew ell,Water,Habitation,HandPump,Scheme(0004097032)
+16,GOBRAURA,GOBRAURA,"DeepTubew ell","GroundWater","Main RoadSide, CentreVillage,Mishra Tola,Yadav Tola,Near School",PWS,"Matiyariya GobrauraPWSScheme(0006511382)"
+17,GOBRAURA,GOUR TOLI,"DeepTubew ell","GroundWater",Road Side,PWS,"Matiyariya GobrauraPWSScheme(0006511382)"
+18,GOBRAURA,GOUR TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545153)"
+19,GOBRAURA,"NORTHHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964921)"
+20,GOBRAURA,"NORTHHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004097036)"
+21,GOBRAURA,PANDEY TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545154)"
+22,GOBRAURA,"WESTHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+23,GOBRAURA,"WESTHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+24,GOBRAURA,"WESTHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964927)"
+25,GOBRAURA,"WESTHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004097048)"
+26,GOBRAURA,"WESTHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
+27,GOBRAURA,"WESTHARIJANTOLA","DeepTubew ell","GroundWater","Chamar Toli,Road Side,MahavirSthan",PWS,"Matiyariya GobrauraPWSScheme(0006511382)"
+28,GOBRAURA,"WESTHARIJANTOLA-II","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545155)"
+29,MATIARIA,"BIRTI TOLANONIA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+30,MATIARIA,"BIRTI TOLANONIA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545156)"
+31,MATIARIA,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964933)"
+32,MATIARIA,"JHANGARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+33,MATIARIA,"JHANGARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+34,MATIARIA,"JHANGARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964941)"
+35,MATIARIA,MATIARIA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964949)"
+"","","","","","","",""
+36,ATIARIA,"REFUSECOLONY","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964953)"
+37,UARCHHAP,"AWADHIYATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+38,UARCHHAP,"AWADHIYATOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545157)"
+39,UARCHHAP,BABU TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545158)"
+40,UARCHHAP,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545159)"
+41,UARCHHAP,PIPRA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+42,UARCHHAP,PIPRA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+43,UARCHHAP,PIPRA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964955)"
+44,UARCHHAP,SAUA TANR,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964958)"
+45,UARCHHAP,SONAR PATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545160)"
+46,UARCHHAP,SUAR CHHAP,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+47,UARCHHAP,SUAR CHHAP,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
+48,UARCHHAP,SUAR CHHAP,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964963)"
