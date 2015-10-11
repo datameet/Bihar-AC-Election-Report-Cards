@@ -1,17 +1,16 @@
-Source Details,"","","","","","",""
-Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BARWA,BARWA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Bagaha PC HabitationScheme(0005537524)"
-2,BARWA,BARWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543899)"
-3,BARWA,HARIJAN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543900)"
-4,BARWA,SONI BARWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543901)"
-5,DHARMAJATA,DHARMAKTA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543902)"
-6,INGLISHIA,INGLISHIYA,"DeepTubew ell","GroundWater","HARIJANTOLLI",HandPump,"BAGAHASCHEME(0006560895)"
-7,INGLISHIA,INGLISHIYA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543903)"
-8,JAINI TOLA,JAINI TOLA,"ShallowTubew ell","GroundWater","",HandPump,"BagahaScheme(0001963671)"
-9,JAINI TOLA,JAINI TOLA,"DeepTubew ell","GroundWater",CHOWK SIDE,HandPump,"BAGAHASCHEME(0006560914)"
-10,MOTI TOLA,MOTI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543904)"
-11,"RAJGIRMUJAULI","RAJGIRMAJHAULIYA","DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543905)"
-12,TARKULWA,TARKULWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543906)"
-13,TARKULWA,TARKULWA,Deep,Ground,"Nc/PcScheme For",SPOT,"Nc/Pc Scheme ForBagaha"
-"","",H.T.,Tubew ell,Water,"BagahaBlock","",Block(0004543907)
-14,"TOLA ALAKHDABRI","TOLA ALAKHDABARI","DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543908)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BARWA,BARWA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Bagaha PC Habitation Scheme(0005537524)
+2,BARWA,BARWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543899)
+3,BARWA,HARIJAN TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543900)
+4,BARWA,SONI BARWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543901)
+5,DHARMAJATA,DHARMAKTA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543902)
+6,INGLISHIA,INGLISHIYA,Deep Tubew ell,Ground Water,HARIJAN TOLLI,HandPump,BAGAHA SCHEME(0006560895)
+7,INGLISHIA,INGLISHIYA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543903)
+8,JAINI TOLA,JAINI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001963671)
+9,JAINI TOLA,JAINI TOLA,Deep Tubew ell,Ground Water,CHOWK SIDE,HandPump,BAGAHA SCHEME(0006560914)
+10,MOTI TOLA,MOTI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543904)
+11,RAJGIR MUJAULI,RAJGIR MAJHAULIYA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543905)
+12,TARKULWA,TARKULWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543906)
+13,TARKULWA,TARKULWA,Deep,Ground,Nc/Pc Scheme For,SPOT,Nc/Pc Scheme For Bagaha
+,,H.T.,Tubew ell,Water,Bagaha Block,,Block(0004543907)
+14,TOLA ALAKH DABRI,TOLA ALAKH DABARI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543908)

@@ -1,13 +1,12 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BARGAWN,BARGAWN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Bagaha PC HabitationScheme(0005537524)"
-2,BARGAWN,BARGAWN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Bagaha PC HabitationScheme(0005537524)"
-3,BARGAWN,BARGAWN,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543745)"
-4,BARGAWN,CHOUTARWAI,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543746)"
-5,BARGAWN,"DOMSETALMENT","DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543747)"
-6,BARGAWN,HARIJAN TOLI,"DeepTubew ell","GroundWater","HARIJANTOLI",HandPump,"BAGAHASCHEME(0006556747)"
-7,BARGAWN,HARIJAN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543748)"
-8,BARGAWN,NAWKA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543749)"
-9,BELWA,BELWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543750)"
-10,EKDERWA,EKDERWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543751)"
-11,KOTWA,KOTAWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543752)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BARGAWN,BARGAWN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Bagaha PC Habitation Scheme(0005537524)
+2,BARGAWN,BARGAWN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Bagaha PC Habitation Scheme(0005537524)
+3,BARGAWN,BARGAWN,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543745)
+4,BARGAWN,CHOUTARWAI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543746)
+5,BARGAWN,DOM SETALMENT,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543747)
+6,BARGAWN,HARIJAN TOLI,Deep Tubew ell,Ground Water,HARIJAN TOLI,HandPump,BAGAHA SCHEME(0006556747)
+7,BARGAWN,HARIJAN TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543748)
+8,BARGAWN,NAWKA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543749)
+9,BELWA,BELWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543750)
+10,EKDERWA,EKDERWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543751)
+11,KOTWA,KOTAWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543752)

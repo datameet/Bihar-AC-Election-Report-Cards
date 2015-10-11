@@ -1,10 +1,9 @@
-Source Details,"","","","","","",""
-Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,INAR BARWA,INARBARWA,"ShallowTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966402)"
-2,NARAPARSAUNI,"KHEKHARIYATOLI","DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544015)"
-3,NARAPARSAUNI,"NADDAPRASAUNI","DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544016)"
-4,"NAUDAPARSAUNI","NARAPRASAUNI","DeepTubew ell","GroundWater","NearChauraha",HandPump,"BAGAHASCHEME(0006566291)"
-5,"NAUDAPARSAUNI","NARAPRASAUNI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"BAGAHASCHEME(0006566291)"
-6,"NAUDAPARSAUNI","NARAPRASAUNI","DeepTubew ell","GroundWater","Near RoadSide",HandPump,"BAGHAI(0007076622)"
-7,"NAUDAPARSAUNI","NARAPRASAUNI","DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544017)"
-8,RATANPURWA,"RATANPURWA","DeepTubew ell","GroundWater","Nc/PcScheme ForBagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544018)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,INAR BARWA,INARBARWA,Shallow Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001966402)
+2,NARAPARSAUNI,KHEKHARIYA TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544015)
+3,NARAPARSAUNI,NADDA PRASAUNI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544016)
+4,NAUDA PARSAUNI,NARA PRASAUNI,Deep Tubew ell,Ground Water,Near Chauraha,HandPump,BAGAHA SCHEME(0006566291)
+5,NAUDA PARSAUNI,NARA PRASAUNI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,BAGAHA SCHEME(0006566291)
+6,NAUDA PARSAUNI,NARA PRASAUNI,Deep Tubew ell,Ground Water,Near Road Side,HandPump,BAGHA I(0007076622)
+7,NAUDA PARSAUNI,NARA PRASAUNI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544017)
+8,RATANPURWA,RATAN PURWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544018)

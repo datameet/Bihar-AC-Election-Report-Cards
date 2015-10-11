@@ -1,14 +1,13 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,"BHAISAHIGARHWA",BHAISAHI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Bagaha PC HabitationScheme(0005537524)"
-2,"BHAISAHIGARHWA",BHAISAHI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Bagaha PC HabitationScheme(0005537524)"
-3,"BHAISAHIGARHWA",BHAISAHI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Bagaha PC HabitationScheme(0005537524)"
-4,"BHAISAHIGARHWA",BHAISAHI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543769)"
-5,DABRI,DEURWA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543770)"
-6,HARPUR,HAR PUR,"DeepTubew ell",Ground Water,"PASWANTOLI",HandPump,"BAGAHASCHEME(0006557462)"
-7,HARPUR,HAR PUR,"DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543771)"
-8,"PADARKHAP",BARI TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543772)"
-9,"PADARKHAP","HARIJANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543773)"
-10,"PADARKHAP",MUSHAR TOLI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543774)"
-11,"PADARKHAP",PADAR KHAP,"DeepTubew ell",Ground Water,"Nc/PcScheme ForBagaha Block",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004543775)"
-12,"PADARKHAP",SHIVRAJ PUR,"DeepTubew ell",Ground Water,"",HandPump,"BagahaScheme(0001963472)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BHAISAHI GARHWA,BHAISAHI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Bagaha PC Habitation Scheme(0005537524)
+2,BHAISAHI GARHWA,BHAISAHI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Bagaha PC Habitation Scheme(0005537524)
+3,BHAISAHI GARHWA,BHAISAHI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Bagaha PC Habitation Scheme(0005537524)
+4,BHAISAHI GARHWA,BHAISAHI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543769)
+5,DABRI,DEURWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543770)
+6,HARPUR,HAR PUR,Deep Tubew ell,Ground Water,PASWAN TOLI,HandPump,BAGAHA SCHEME(0006557462)
+7,HARPUR,HAR PUR,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543771)
+8,PADAR KHAP,BARI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543772)
+9,PADAR KHAP,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543773)
+10,PADAR KHAP,MUSHAR TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543774)
+11,PADAR KHAP,PADAR KHAP,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004543775)
+12,PADAR KHAP,SHIVRAJ PUR,Deep Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001963472)

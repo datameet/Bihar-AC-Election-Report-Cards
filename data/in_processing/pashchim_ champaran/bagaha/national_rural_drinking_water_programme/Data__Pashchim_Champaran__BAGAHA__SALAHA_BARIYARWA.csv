@@ -1,20 +1,19 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BARIYARWA,BARIYARWA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544088)"
-2,BARIYARWA,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544089)"
-3,BARIYARWA,NARI TOLI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544090)"
-4,BARIYARWA,YADAV TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544091)"
-5,HARPUR,HAR PUR,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544092)"
-6,JHARMAHUI,"JHAR MAHUIKHAS","DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560862)"
-7,JHARMAHUI,"JHAR MAHUIKHAS","DeepTubew ell","GroundWater","SHIV MANDIRKE PAS",HandPump,"BAGAHASCHEME(0006560862)"
-8,JHARMAHUI,"JHAR MAHUIKHAS","DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544093)"
-9,JHARMAHUI,"JHARMAHUIH.T.","DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544094)"
-10,JHARMAHUI,MUSLIM TOLI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544095)"
-11,MURILA,MURILA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544096)"
-12,SALABA,CHIKNA TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544097)"
-13,SALABA,KHAS TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544098)"
-14,SALABA,"MUSHARTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544099)"
-15,SALABA,SALAHA,Shallow,Ground,"",HandPump,"COVERAGE IN PCTOLA IN 2012-"
-"","","",Tubew ell,Water,"","",13(0004662365)
-16,SALABA,SALAHA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544100)"
-17,SALABA,"TAMKUHITOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544101)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BARIYARWA,BARIYARWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544088)
+2,BARIYARWA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544089)
+3,BARIYARWA,NARI TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544090)
+4,BARIYARWA,YADAV TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544091)
+5,HARPUR,HAR PUR,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544092)
+6,JHARMAHUI,JHAR MAHUI KHAS,Deep Tubew ell,Ground Water,INSIDE HABITATION,HandPump,BAGAHA SCHEME(0006560862)
+7,JHARMAHUI,JHAR MAHUI KHAS,Deep Tubew ell,Ground Water,SHIV MANDIR KE PAS,HandPump,BAGAHA SCHEME(0006560862)
+8,JHARMAHUI,JHAR MAHUI KHAS,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544093)
+9,JHARMAHUI,JHARMAHUI H.T.,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544094)
+10,JHARMAHUI,MUSLIM TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544095)
+11,MURILA,MURILA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544096)
+12,SALABA,CHIKNA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544097)
+13,SALABA,KHAS TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544098)
+14,SALABA,MUSHAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544099)
+15,SALABA,SALAHA,Shallow,Ground,,HandPump,COVERAGE IN PC TOLA IN 2012-
+,,,Tubew ell,Water,,,13(0004662365)
+16,SALABA,SALAHA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544100)
+17,SALABA,TAMKUHI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544101)

@@ -1,18 +1,17 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,PATILAR,BAHAUARWA,"ShallowTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966485)"
-2,PATILAR,BAHAUARWA,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560764)"
-3,PATILAR,BAHAUARWA,"DeepTubew ell","GroundWater","BARGAD KEPER KE PAS",HandPump,"BAGAHASCHEME(0006560764)"
-4,PATILAR,"KARKHANATOLA","ShallowTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966490)"
-5,PATILAR,"KARKHANATOLA","DeepTubew ell","GroundWater","INSIDEHABITAION",HandPump,"BAGAHASCHEME(0006560788)"
-6,PATILAR,"KARKHANATOLA","DeepTubew ell","GroundWater",ROAD SIDE,HandPump,"BAGAHASCHEME(0006560788)"
-7,PATILAR,"KARKHANATOLA","DeepTubew ell","GroundWater",Near School,HandPump,"BAGHAI(0007076622)"
-8,PATILAR,"LAXMIPURTOLA","DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560815)"
-9,PATILAR,"LAXMIPURTOLA","DeepTubew ell","GroundWater",CHAUCK PER,HandPump,"BAGAHASCHEME(0006560815)"
-10,PATILAR,"LAXMIPURTOLA","DeepTubew ell","GroundWater","",PWS,"Patilar Rural PipeWater SupplyScheme(0001966216)"
-11,PATILAR,"MARIARIYABHATAUJACHATI","ShallowTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966495)"
-12,PATILAR,"MISHRAULIMATA NAGARTOLA","DeepTubew ell","GroundWater","",PWS,"Patilar Rural PipeWater SupplyScheme(0001966216)"
-13,PATILAR,PATILAR,"DeepTubew ell","GroundWater","",PWS,"Patilar Rural PipeWater SupplyScheme(0001966216)"
-14,PATILAR,PATILAR H.T.,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544068)"
-15,PATILAR,"PATILARKHAS","ShallowTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966496)"
-16,PATILAR,"PATILARKHAS","DeepTubew ell","GroundWater","",PWS,"Patilar Rural PipeWater SupplyScheme(0001966216)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,PATILAR,BAHAUARWA,Shallow Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001966485)
+2,PATILAR,BAHAUARWA,Deep Tubew ell,Ground Water,INSIDE HABITATION,HandPump,BAGAHA SCHEME(0006560764)
+3,PATILAR,BAHAUARWA,Deep Tubew ell,Ground Water,BARGAD KE PER KE PAS,HandPump,BAGAHA SCHEME(0006560764)
+4,PATILAR,KARKHANA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001966490)
+5,PATILAR,KARKHANA TOLA,Deep Tubew ell,Ground Water,INSIDE HABITAION,HandPump,BAGAHA SCHEME(0006560788)
+6,PATILAR,KARKHANA TOLA,Deep Tubew ell,Ground Water,ROAD SIDE,HandPump,BAGAHA SCHEME(0006560788)
+7,PATILAR,KARKHANA TOLA,Deep Tubew ell,Ground Water,Near School,HandPump,BAGHA I(0007076622)
+8,PATILAR,LAXMIPUR TOLA,Deep Tubew ell,Ground Water,INSIDE HABITATION,HandPump,BAGAHA SCHEME(0006560815)
+9,PATILAR,LAXMIPUR TOLA,Deep Tubew ell,Ground Water,CHAUCK PER,HandPump,BAGAHA SCHEME(0006560815)
+10,PATILAR,LAXMIPUR TOLA,Deep Tubew ell,Ground Water,,PWS,Patilar Rural Pipe Water Supply Scheme(0001966216)
+11,PATILAR,MARIARIYA BHATAUJA CHATI,Shallow Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001966495)
+12,PATILAR,MISHRAULI MATA NAGAR TOLA,Deep Tubew ell,Ground Water,,PWS,Patilar Rural Pipe Water Supply Scheme(0001966216)
+13,PATILAR,PATILAR,Deep Tubew ell,Ground Water,,PWS,Patilar Rural Pipe Water Supply Scheme(0001966216)
+14,PATILAR,PATILAR H.T.,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Bagaha Block,SPOT,Nc/Pc Scheme For Bagaha Block(0004544068)
+15,PATILAR,PATILAR KHAS,Shallow Tubew ell,Ground Water,,HandPump,Bagaha Scheme(0001966496)
+16,PATILAR,PATILAR KHAS,Deep Tubew ell,Ground Water,,PWS,Patilar Rural Pipe Water Supply Scheme(0001966216)
