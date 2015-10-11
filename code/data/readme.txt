@@ -22,3 +22,5 @@ python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Parbatta/nationa
 
 
 python merge.py -f ./../../data/in_processing/pashchim_champaran/bagaha/national_rural_drinking_water_programme -o bagaha_nrdw
+
+python merge.py -f ./../../data/in_processing/pashchim_champaran/bettiah/national_rural_drinking_water_programme -o bettiah_nrdw

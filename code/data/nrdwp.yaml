@@ -16,5 +16,8 @@ exports:
 #      filename: "Khagaria_Khagaria_sanitation.csv"
 #    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  parbatta_nrdw'
 #     filename: "Khagaria_Parbatta_nrdw.csv"
-     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  bagaha_nrdw'
-       filename: "Pashchim_Champaran__Bagaha_nrdwp.csv"
+#     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  bagaha_nrdw'
+#       filename: "Pashchim_Champaran__Bagaha_nrdwp.csv"
+
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  bettiah_nrdw' 
+      filename: "Pashchim_Champaran__Bettiah__nrdw.csv"
