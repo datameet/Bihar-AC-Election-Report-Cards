@@ -24,3 +24,8 @@ python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Parbatta/nationa
 python merge.py -f ./../../data/in_processing/pashchim_champaran/bagaha/national_rural_drinking_water_programme -o bagaha_nrdw
 
 python merge.py -f ./../../data/in_processing/pashchim_champaran/bettiah/national_rural_drinking_water_programme -o bettiah_nrdw
+
+python merge.py -f ./../../data/in_processing/pashchim_champaran/chanpatiya/national_rural_drinking_water_programme -o chanpatiya_nrdw
+
+python merge.py -f ./../../data/in_processing/pashchim_champaran/chanpatiya/sanitation -o chanpatiya_sanitation_results
+
