@@ -1,0 +1,19 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BANCHEHRI,BANCHAHARI,"DeepTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966475)"
+2,BANCHEHRI,BANCHAHARI,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560686)"
+3,BANCHEHRI,BANCHAHARI,"DeepTubew ell","GroundWater",HARIJAN TOLI,HandPump,"BAGAHASCHEME(0006560686)"
+4,BANCHEHRI,BANCHAHARI,"DeepTubew ell","GroundWater",Harijan Tola,HandPump,"BaghaScheme(0002758460)"
+5,BANCHEHRI,Harijan Tola,"DeepTubew ell","GroundWater","Harijan ToliInside",HandPump,"BAGHAI(0007076622)"
+6,DHARAMPUR,DHARAM PUR,"DeepTubew ell","GroundWater","",HandPump,"BagahaScheme(0001966478)"
+7,DHARAMPUR,DHARAM PUR,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560705)"
+8,DHARAMPUR,DHARAM PUR,"DeepTubew ell","GroundWater",NEAR PIPAL,HandPump,"BAGAHASCHEME(0006560705)"
+9,DHARAMPUR,DHARAM PUR,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560706)"
+10,DHARAMPUR,DHARAM PUR,"DeepTubew ell","GroundWater",NEAR PIPAL,HandPump,"BAGAHASCHEME(0006560706)"
+11,"KHORAPARSA","KHORAPARSA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544063)"
+12,"KHORAPARSA",NABKA TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544064)"
+13,PARSA,AURALIYA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544065)"
+14,PARSA,BARITTI TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544066)"
+15,PARSA,PARSA,"DeepTubew ell","GroundWater","INSIDEHABITATION",HandPump,"BAGAHASCHEME(0006560738)"
+16,PARSA,PARSA,"DeepTubew ell","GroundWater",NEAR CHOUK,HandPump,"BAGAHASCHEME(0006560738)"
+17,PARSA,PARSA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor BagahaBlock",SPOT,"Nc/Pc Scheme ForBagahaBlock(0004544067)"
