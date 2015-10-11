@@ -1,13 +1,12 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,PARORAHA,BARAI TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-2,PARORAHA,BARAI TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545161)"
-3,PARORAHA,"HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"LauriyaScheme(0004096999)"
-4,PARORAHA,LOHAR TOLA,"DeepTubew ell",Ground Water,In Lohar Patti,HandPump,"LauriyaScheme(0007076733)"
-5,PARORAHA,LOHAR TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545162)"
-6,PARORAHA,PARORAHA,"DeepTubew ell",Ground Water,"",HandPump,"LauriyaScheme(0004097192)"
-7,SERUKAHIA,BANYA TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-8,SERUKAHIA,BANYA TOLA,"DeepTubew ell",Ground Water,Baniya Patti,HandPump,"LauriyaScheme(0007076733)"
-9,SERUKAHIA,BANYA TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545163)"
-10,SERUKAHIA,"HARIJANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545164)"
-11,SERUKAHIA,SIRKAHIA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545165)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,PARORAHA,BARAI TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+2,PARORAHA,BARAI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545161)
+3,PARORAHA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004096999)
+4,PARORAHA,LOHAR TOLA,Deep Tubew ell,Ground Water,In Lohar Patti,HandPump,Lauriya Scheme(0007076733)
+5,PARORAHA,LOHAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545162)
+6,PARORAHA,PARORAHA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004097192)
+7,SERUKAHIA,BANYA TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+8,SERUKAHIA,BANYA TOLA,Deep Tubew ell,Ground Water,Baniya Patti,HandPump,Lauriya Scheme(0007076733)
+9,SERUKAHIA,BANYA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545163)
+10,SERUKAHIA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545164)
+11,SERUKAHIA,SIRKAHIA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545165)

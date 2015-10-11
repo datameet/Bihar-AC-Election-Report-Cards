@@ -1,6 +1,5 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,SITA PUR,"HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965529)"
-2,SITA PUR,SITA PUR,"DeepTubew ell",Ground Water,"Near PepalTree",HandPump,"LauriaScheme(0001965534)"
-3,SITA PUR,SITA PUR,"DeepTubew ell",Ground Water,"INSIDEHABITATION",HandPump,"LAURIYASCHEME(0006559610)"
-4,SITA PUR,SITA PUR,"DeepTubew ell",Ground Water,NEAR TEMPLE,HandPump,"LAURIYASCHEME(0006559610)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,SITA PUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965529)
+2,SITA PUR,SITA PUR,Deep Tubew ell,Ground Water,Near Pepal Tree,HandPump,Lauria Scheme(0001965534)
+3,SITA PUR,SITA PUR,Deep Tubew ell,Ground Water,INSIDE HABITATION,HandPump,LAURIYA SCHEME(0006559610)
+4,SITA PUR,SITA PUR,Deep Tubew ell,Ground Water,NEAR TEMPLE,HandPump,LAURIYA SCHEME(0006559610)

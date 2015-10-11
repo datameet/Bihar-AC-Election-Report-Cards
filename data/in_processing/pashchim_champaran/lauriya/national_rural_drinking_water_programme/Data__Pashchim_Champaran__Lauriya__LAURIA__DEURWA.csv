@@ -1,21 +1,19 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,DEURWA,"ANSARITOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545091)"
-2,DEURWA,DEURWA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-3,DEURWA,DEURWA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545092)"
-4,DEURWA,DEWAN TOLI,"DeepTubew ell",Ground Water,"",HandPump,"LauriyaScheme(0004096098)"
-5,DEURWA,HARIJAN TOLI,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001964573)"
-6,DEURWA,HARIJAN TOLI,"DeepTubew ell",Ground Water,"",HandPump,"LauriyaScheme(0004096067)"
-7,DEURWA,HARIJAN TOLI,"DeepTubew ell",Ground Water,"Near ChamarToli",HandPump,"LauriyaScheme(0007076733)"
-8,DUMRA,DEWAN TOLI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriaScheme(0001964575)"
-9,DUMRA,DEWAN TOLI,"DeepTubew ell",Ground Water,"Near Dew anPatti",HandPump,"LauriyaScheme(0007076733)"
-10,DUMRA,DUMRA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriaScheme(0001964580)"
-11,DUMRA,DUMRA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriyaScheme(0004096032)"
-12,DUMRA,HARIJAN TOLI,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001964585)"
-13,PANDEPATTI,PANDA PATTI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-14,PANDEPATTI,PANDA PATTI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-15,PANDEPATTI,PANDA PATTI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-16,PANDEPATTI,PANDA PATTI,Deep,Ground Water,Inside,HandPump,"Lauria (Bagahi-Basw aria) Sport"
-"","","",Tubew ell,"",Habitation,"","SourceScheme(0005677626)"
-17,PANDEPATTI,PANDA PATTI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriaScheme(0001964592)"
-18,PANDEPATTI,PANDA PATTI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriyaScheme(0004096039)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,DEURWA,ANSARI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545091)
+2,DEURWA,DEURWA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+3,DEURWA,DEURWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545092)
+4,DEURWA,DEWAN TOLI,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004096098)
+5,DEURWA,HARIJAN TOLI,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964573)
+6,DEURWA,HARIJAN TOLI,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004096067)
+7,DEURWA,HARIJAN TOLI,Deep Tubew ell,Ground Water,Near Chamar Toli,HandPump,Lauriya Scheme(0007076733)
+8,DUMRA,DEWAN TOLI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964575)
+9,DUMRA,DEWAN TOLI,Deep Tubew ell,Ground Water,Near Dew an Patti,HandPump,Lauriya Scheme(0007076733)
+10,DUMRA,DUMRA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964580)
+11,DUMRA,DUMRA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0004096032)
+12,DUMRA,HARIJAN TOLI,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964585)
+13,PANDEPATTI,PANDA PATTI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+14,PANDEPATTI,PANDA PATTI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+15,PANDEPATTI,PANDA PATTI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+16,PANDEPATTI,PANDA PATTI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+17,PANDEPATTI,PANDA PATTI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964592)
+18,PANDEPATTI,PANDA PATTI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0004096039)

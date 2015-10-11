@@ -1,31 +1,29 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BASWARIA,BAGAHI,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001963787)"
-2,BASWARIA,BAGAHI,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004024176)"
-3,BASWARIA,BASWARIA,"DeepTubew ell","GroundWater",Near Masjid,HandPump,"LauriaScheme(0001963806)"
-4,BASWARIA,BASWARIA,"DeepTubew ell","GroundWater",Khedu Mahto,HandPump,"LauriyaScheme(0004090973)"
-5,BASWARIA,BASWARIA,"DeepTubew ell","GroundWater","Near P.C.C.Road",HandPump,"LauriyaScheme(0007076733)"
-6,BASWARIA,DIH TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545035)"
-7,BASWARIA,HARIJAN TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004091004)"
-8,BASWARIA,HARIJAN TOLA,"DeepTubew ell","GroundWater","Pokhara KePass",HandPump,"LauriyaScheme(0007076733)"
-9,BASWARIA,POKHRA TOLA,"DeepTubew ell","GroundWater",Vyaspur,HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-10,BASWARIA,POKHRA TOLA,"DeepTubew ell","GroundWater",Md Hakim,HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-11,BASWARIA,POKHRA TOLA,"DeepTubew ell","GroundWater",Road Side,HandPump,"LauriaScheme(0001963814)"
-12,BASWARIA,POKHRA TOLA,"DeepTubew ell","GroundWater",Bagahi,HandPump,"LauriyaScheme(0004091085)"
-13,BASWARIA,"ROAD SIDENEW TOLA","DeepTubew ell","GroundWater",Md Ramjan,HandPump,"LauriaScheme(0001963820)"
-14,BASWARIA,"ROAD SIDENEW TOLA","DeepTubew ell","GroundWater",Ramji Mahto,HandPump,"LauriyaScheme(0004091109)"
-15,GAWNAHA,GAUNAHA,"DeepTubew ell","GroundWater","Rameshw arPd",HandPump,"LauriaScheme(0001963824)"
-16,GAWNAHA,GAUNAHA,"DeepTubew ell","GroundWater",Near Temple,HandPump,"LauriyaScheme(0004091125)"
-17,GAWNAHA,HARIJAN TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001963831)"
-18,GAWNAHA,HARIJAN TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004091137)"
-"","","","","","","",""
-19,GAWNAHA,HARIJAN TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
-20,GAWNAHA,LALA TOLI,"DeepTubew ell","GroundWater",Mahesh Pd,HandPump,"LauriyaScheme(0004091176)"
-21,KANDHOLIA,DEWAN TOLA,"DeepTubew ell","GroundWater",Deepak Kr,HandPump,"LauriyaScheme(0004091152)"
-22,KANDHOLIA,KANDHAWALIA,"DeepTubew ell","GroundWater",Madan Ram,HandPump,"LauriaScheme(0001963837)"
-23,KANDHOLIA,MINYA TOLA,"DeepTubew ell","GroundWater",Paw an Ram,HandPump,"LauriaScheme(0001963842)"
-24,KANDHOLIA,MINYA TOLA,"DeepTubew ell","GroundWater",Miya Patti,HandPump,"LauriyaScheme(0007076733)"
-25,KANDHOLIA,NORTH TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545036)"
-26,KANDHOLIA,ROAD TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545037)"
-27,KANDHOLIA,"SOUTHHARIJAN TOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545038)"
-28,KANDHOLIA,YADAV TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004091244)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BASWARIA,BAGAHI,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001963787)
+2,BASWARIA,BAGAHI,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004024176)
+3,BASWARIA,BASWARIA,Deep Tubew ell,Ground Water,Near Masjid,HandPump,Lauria Scheme(0001963806)
+4,BASWARIA,BASWARIA,Deep Tubew ell,Ground Water,Khedu Mahto,HandPump,Lauriya Scheme(0004090973)
+5,BASWARIA,BASWARIA,Deep Tubew ell,Ground Water,Near P.C.C. Road,HandPump,Lauriya Scheme(0007076733)
+6,BASWARIA,DIH TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545035)
+7,BASWARIA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004091004)
+8,BASWARIA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Pokhara Ke Pass,HandPump,Lauriya Scheme(0007076733)
+9,BASWARIA,POKHRA TOLA,Deep Tubew ell,Ground Water,Vyaspur,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+10,BASWARIA,POKHRA TOLA,Deep Tubew ell,Ground Water,Md Hakim,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+11,BASWARIA,POKHRA TOLA,Deep Tubew ell,Ground Water,Road Side,HandPump,Lauria Scheme(0001963814)
+12,BASWARIA,POKHRA TOLA,Deep Tubew ell,Ground Water,Bagahi,HandPump,Lauriya Scheme(0004091085)
+13,BASWARIA,ROAD SIDE NEW TOLA,Deep Tubew ell,Ground Water,Md Ramjan,HandPump,Lauria Scheme(0001963820)
+14,BASWARIA,ROAD SIDE NEW TOLA,Deep Tubew ell,Ground Water,Ramji Mahto,HandPump,Lauriya Scheme(0004091109)
+15,GAWNAHA,GAUNAHA,Deep Tubew ell,Ground Water,Rameshw ar Pd,HandPump,Lauria Scheme(0001963824)
+16,GAWNAHA,GAUNAHA,Deep Tubew ell,Ground Water,Near Temple,HandPump,Lauriya Scheme(0004091125)
+17,GAWNAHA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001963831)
+18,GAWNAHA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004091137)
+19,GAWNAHA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0007076733)
+20,GAWNAHA,LALA TOLI,Deep Tubew ell,Ground Water,Mahesh Pd,HandPump,Lauriya Scheme(0004091176)
+21,KANDHOLIA,DEWAN TOLA,Deep Tubew ell,Ground Water,Deepak Kr,HandPump,Lauriya Scheme(0004091152)
+22,KANDHOLIA,KANDHAWALIA,Deep Tubew ell,Ground Water,Madan Ram,HandPump,Lauria Scheme(0001963837)
+23,KANDHOLIA,MINYA TOLA,Deep Tubew ell,Ground Water,Paw an Ram,HandPump,Lauria Scheme(0001963842)
+24,KANDHOLIA,MINYA TOLA,Deep Tubew ell,Ground Water,Miya Patti,HandPump,Lauriya Scheme(0007076733)
+25,KANDHOLIA,NORTH TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545036)
+26,KANDHOLIA,ROAD TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545037)
+27,KANDHOLIA,SOUTH HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545038)
+28,KANDHOLIA,YADAV TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004091244)

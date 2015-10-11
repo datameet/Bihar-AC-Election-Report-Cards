@@ -1,31 +1,29 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BINDRABAN,BRINDABAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964597)"
-2,BINDRABAN,BRINDABAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0004096077)"
-3,BINDRABAN,GONAR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545093)"
-4,BINDRABAN,HARIJAN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545094)"
-5,BINDRABAN,MINYA TOLI,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964605)"
-6,BINDRABAN,MINYA TOLI,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096083)"
-7,BINDRABAN,MINYA TOLI,"DeepTubew ell","GroundWater","Near MinyaToli",HandPump,"LauriyaScheme(0007076733)"
-8,DHAMAURA,AHIR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545095)"
-9,DHAMAURA,BARI TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964611)"
-10,DHAMAURA,BIN TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-11,DHAMAURA,BIN TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-12,DHAMAURA,BIN TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964615)"
-13,DHAMAURA,DHAMAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-14,DHAMAURA,DHAMAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-15,DHAMAURA,DHAMAURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001964621)"
-"","",HARIJAN,Deep,Ground,"","",Lauria
-16,DHAMAURA,TOLA,Tubew ell,ater,"",HandPump,Scheme(0001964625)
-17,DHAMAURA,"HARIJANTOLA","DeepTubew ell","roundater","Near ChamarPatti",HandPump,"LauriyaScheme(0007076733)"
-18,DHAMAURA,KURMI TOLA,"DeepTubew ell","roundater","Near KurmiPatti",HandPump,"LauriyaScheme(0007076733)"
-19,DHAMAURA,KURMI TOLA,"DeepTubew ell","roundater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545096)"
-20,DHAMAURA,"MAUJADHAMAURA","DeepTubew ell","roundater","",HandPump,"LauriaScheme(0001964655)"
-21,DHAMAURA,"MUSHARTOLA","DeepTubew ell","roundater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545097)"
-22,"LACHHMIPURURFBARITOLA",BARI TOLA,"DeepTubew ell","roundater","",HandPump,"LauriaScheme(0001964675)"
-23,"LACHHMIPURURFBARITOLA","HARIJANTOLA","DeepTubew ell","roundater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545098)"
-24,"LACHHMIPURURFBARITOLA",LAXHMI PUR,"DeepTubew ell","roundater","",HandPump,"LauriaScheme(0001964678)"
-25,"LACHHMIPURURFBARITOLA",TELI TOLA,"DeepTubew ell","roundater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545099)"
-26,"LANGRABARWA","CHANDBARIDA","DeepTubew ell","roundater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545100)"
-27,"LANGRABARWA","LANGRABAZAR","DeepTubew ell","roundater","",HandPump,"LauriaScheme(0001964684)"
-28,"LANGRABARWA","LANGRABAZAR","DeepTubew ell","roundater","",HandPump,"LauriyaScheme(0004096756)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BINDRABAN,BRINDABAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964597)
+2,BINDRABAN,BRINDABAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0004096077)
+3,BINDRABAN,GONAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545093)
+4,BINDRABAN,HARIJAN TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545094)
+5,BINDRABAN,MINYA TOLI,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964605)
+6,BINDRABAN,MINYA TOLI,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004096083)
+7,BINDRABAN,MINYA TOLI,Deep Tubew ell,Ground Water,Near Minya Toli,HandPump,Lauriya Scheme(0007076733)
+8,DHAMAURA,AHIR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545095)
+9,DHAMAURA,BARI TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964611)
+10,DHAMAURA,BIN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+11,DHAMAURA,BIN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+12,DHAMAURA,BIN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964615)
+13,DHAMAURA,DHAMAURA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+14,DHAMAURA,DHAMAURA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+15,DHAMAURA,DHAMAURA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964621)
+16,DHAMAURA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0007076733)
+17,DHAMAURA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Near Chamar Patti,HandPump,Lauriya Scheme(0007076733)
+18,DHAMAURA,KURMI TOLA,Deep Tubew ell,Ground Water,Near Kurmi Patti,HandPump,Lauriya Scheme(0007076733)
+19,DHAMAURA,KURMI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545096)
+20,DHAMAURA,MAUJA DHAMAURA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964655)
+21,DHAMAURA,MUSHAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545097)
+22,LACHHMIPUR URF BARITOLA,BARI TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964675)
+23,LACHHMIPUR URF BARITOLA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545098)
+24,LACHHMIPUR URF BARITOLA,LAXHMI PUR,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964678)
+25,LACHHMIPUR URF BARITOLA,TELI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545099)
+26,LANGRA BARWA,CHAND BARIDA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545100)
+27,LANGRA BARWA,LANGRA BAZAR,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964684)
+28,LANGRA BARWA,LANGRA BAZAR,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004096756)

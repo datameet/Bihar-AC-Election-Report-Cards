@@ -1,28 +1,26 @@
-Source Details,"","","","","","",""
-Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BASANTPUR,AHIR TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004095760)"
-2,BASANTPUR,BASANT PUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545055)"
-3,BASANTPUR,"BASANTPURMAUJA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964494)"
-4,BASANTPUR,"BASANTPURMAUJA","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004095769)"
-5,BASANTPUR,"BHERIHARITOLA","DeepTubew ell","GroundWater","RamashisRam",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-6,BASANTPUR,"BHERIHARITOLA","DeepTubew ell","GroundWater",Mohan Pd,HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-7,BASANTPUR,"BHERIHARITOLA","DeepTubew ell","GroundWater",Rajaram Sah,HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-8,BASANTPUR,"BHERIHARITOLA","DeepTubew ell","GroundWater",Near Chauck,HandPump,"LauriaScheme(0001964507)"
-9,BASANTPUR,"BHERIHARITOLA","DeepTubew ell","GroundWater",Near Temple,HandPump,"LauriyaScheme(0004095788)"
-10,BASANTPUR,BIN TOLA,"DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004095876)"
-11,BASANTPUR,BIN TOLA,"DeepTubew ell","GroundWater",Bin Patti,HandPump,"LauriyaScheme(0007076733)"
-12,BASANTPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964513)"
-13,BASANTPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004095888)"
-14,BASANTPUR,LOHAR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545056)"
-15,BASANTPUR,SOUTH TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545057)"
-16,BELWA,AHIR TOLI,"DeepTubew ell","GroundWater","Near AhirTola",HandPump,"LauriyaScheme(0007076733)"
-"","","","","",Nc/Pc,"",Nc/Pc Scheme For
-17,BELWA,AHIR TOLI,"DeepTubew ell","GroundWater","Scheme ForLauria Block",SPOT,"LauriaBlock(0004545058)"
-18,BELWA,BELWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545059)"
-19,BELWA,HARIJAN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545060)"
-20,BELWA,MINYA TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545061)"
-21,CHHARDAWALI,CHHARDIWALI,"DeepTubew ell","GroundWater","DinanathRam",HandPump,"Lauria (Bagahi-Basw aria) SportSourceScheme(0005677626)"
-22,CHHARDAWALI,CHHARDIWALI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545062)"
-23,CHHARDAWALI,EAST TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545063)"
-24,CHHARDAWALI,TIWARI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545064)"
-25,CHHARDAWALI,WEST TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545065)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BASANTPUR,AHIR TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004095760)
+2,BASANTPUR,BASANT PUR,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545055)
+3,BASANTPUR,BASANTPUR MAUJA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964494)
+4,BASANTPUR,BASANTPUR MAUJA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004095769)
+5,BASANTPUR,BHERIHARI TOLA,Deep Tubew ell,Ground Water,Ramashis Ram,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+6,BASANTPUR,BHERIHARI TOLA,Deep Tubew ell,Ground Water,Mohan Pd,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+7,BASANTPUR,BHERIHARI TOLA,Deep Tubew ell,Ground Water,Rajaram Sah,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+8,BASANTPUR,BHERIHARI TOLA,Deep Tubew ell,Ground Water,Near Chauck,HandPump,Lauria Scheme(0001964507)
+9,BASANTPUR,BHERIHARI TOLA,Deep Tubew ell,Ground Water,Near Temple,HandPump,Lauriya Scheme(0004095788)
+10,BASANTPUR,BIN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004095876)
+11,BASANTPUR,BIN TOLA,Deep Tubew ell,Ground Water,Bin Patti,HandPump,Lauriya Scheme(0007076733)
+12,BASANTPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964513)
+13,BASANTPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004095888)
+14,BASANTPUR,LOHAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545056)
+15,BASANTPUR,SOUTH TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545057)
+16,BELWA,AHIR TOLI,Deep Tubew ell,Ground Water,Near Ahir Tola,HandPump,Lauriya Scheme(0007076733)
+17,BELWA,AHIR TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545059)
+18,BELWA,BELWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545059)
+19,BELWA,HARIJAN TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545060)
+20,BELWA,MINYA TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545061)
+21,CHHARDAWALI,CHHARDIWALI,Deep Tubew ell,Ground Water,Dinanath Ram,HandPump,Lauria (Bagahi- Basw aria) Sport Source Scheme(0005677626)
+22,CHHARDAWALI,CHHARDIWALI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545062)
+23,CHHARDAWALI,EAST TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545063)
+24,CHHARDAWALI,TIWARI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545064)
+25,CHHARDAWALI,WEST TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545065)

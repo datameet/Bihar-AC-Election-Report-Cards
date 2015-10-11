@@ -1,14 +1,13 @@
-Source Details,"","","","","","","",""
-Sno.,Village Name,"HabitationName","","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,"BARWAKALAN","BARWAKALAN","","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964697)"
-2,"BARWAKALAN","HARIJANTOLA","","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545101)"
-3,"BARWAKALAN",MINYA TOLA,"","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545102)"
-4,"BARWAKALAN","PARSAUNITOLA","","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545103)"
-5,"BARWAKALAN",SOUTH TOLA,"","DeepTubew ell","GroundWater",Dakhin Tola,HandPump,"LauriyaScheme(0007076733)"
-6,"BARWAKALAN",SOUTH TOLA,"","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545104)"
-7,"BARWAKALAN",WEST TOLA,"","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545105)"
-8,LACHHNAUTA,AHIR TOLA,"","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545106)"
-9,LACHHNAUTA,"DUSADHTOLA","","DeepTubew ell","GroundWater","",HandPump,"LauriyaScheme(0004096764)"
-10,LACHHNAUTA,LACHHNAUTA,"","DeepTubew ell","GroundWater","",HandPump,"LauriaScheme(0001964705)"
-11,LACHHNAUTA,MINYA TOLA,"","DeepTubew ell","GroundWater",Miya Patti,HandPump,"LauriyaScheme(0007076733)"
-12,LACHHNAUTA,MINYA TOLA,"","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545107)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BARWA KALAN,BARWA KALAN,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964697)
+2,BARWA KALAN,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545101)
+3,BARWA KALAN,MINYA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545102)
+4,BARWA KALAN,PARSAUNI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545103)
+5,BARWA KALAN,SOUTH TOLA,Deep Tubew ell,Ground Water,Dakhin Tola,HandPump,Lauriya Scheme(0007076733)
+6,BARWA KALAN,SOUTH TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545104)
+7,BARWA KALAN,WEST TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545105)
+8,LACHHNAUTA,AHIR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545106)
+9,LACHHNAUTA,DUSADH TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0004096764)
+10,LACHHNAUTA,LACHHNAUTA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964705)
+11,LACHHNAUTA,MINYA TOLA,Deep Tubew ell,Ground Water,Miya Patti,HandPump,Lauriya Scheme(0007076733)
+12,LACHHNAUTA,MINYA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545107)

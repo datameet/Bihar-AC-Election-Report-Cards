@@ -1,14 +1,13 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,"DANIALPERSAUNA",BABU TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-2,"DANIALPERSAUNA",BABU TOLA,"DeepTubew ell",Ground Water,Babu Patti,HandPump,"LauriyaScheme(0007076733)"
-3,"DANIALPERSAUNA",BABU TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545226)"
-4,"DANIALPERSAUNA","DANIALPERSAUNA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-5,"DANIALPERSAUNA","DANIALPERSAUNA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-6,"DANIALPERSAUNA","DANIALPERSAUNA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriaScheme(0001965361)"
-7,"DANIALPERSAUNA","HARIJANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545227)"
-8,"DANIALPERSAUNA",KURMI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965368)"
-9,"DANIALPERSAUNA",KURMI TOLA,"DeepTubew ell",Ground Water,In Kurmi Patti,HandPump,"LauriyaScheme(0007076733)"
-10,"DANIALPERSAUNA",LALA TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545228)"
-11,"DANIALPERSAUNA",MINYA TOLA,"ShallowTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965370)"
-12,"DANIALPERSAUNA","MUSHARTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545229)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,DANIAL PERSAUNA,BABU TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+2,DANIAL PERSAUNA,BABU TOLA,Deep Tubew ell,Ground Water,Babu Patti,HandPump,Lauriya Scheme(0007076733)
+3,DANIAL PERSAUNA,BABU TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545226)
+4,DANIAL PERSAUNA,DANIAL PERSAUNA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+5,DANIAL PERSAUNA,DANIAL PERSAUNA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+6,DANIAL PERSAUNA,DANIAL PERSAUNA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001965361)
+7,DANIAL PERSAUNA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545227)
+8,DANIAL PERSAUNA,KURMI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965368)
+9,DANIAL PERSAUNA,KURMI TOLA,Deep Tubew ell,Ground Water,In Kurmi Patti,HandPump,Lauriya Scheme(0007076733)
+10,DANIAL PERSAUNA,LALA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545228)
+11,DANIAL PERSAUNA,MINYA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965370)
+12,DANIAL PERSAUNA,MUSHAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545229)

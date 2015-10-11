@@ -1,49 +1,46 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,LAURIA,ALLOKARI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-2,LAURIA,ALLOKARI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-3,LAURIA,ALLOKARI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-4,LAURIA,ALLOKARI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-5,LAURIA,ALLOKARI,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriaScheme(0001964985)"
-6,LAURIA,BHAI TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-7,LAURIA,BHAI TOLA,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001964989)"
-8,LAURIA,BHAI TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
-9,LAURIA,"EASTLAURIYATOLA","DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-10,LAURIA,"EASTLAURIYATOLA","DeepTubew ell",Ground Water,"",PWS,"Lauria Rural PipedWater SupplyScheme(0001950235)"
-11,LAURIA,"EASTLAURIYATOLA","DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001964992)"
-12,LAURIA,"EASTLAURIYATOLA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
-13,LAURIA,"HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-14,LAURIA,"HARIJANTOLA","DeepTubew ell",Ground Water,"",PWS,"Lauria Rural PipedWater SupplyScheme(0001950235)"
-15,LAURIA,"HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001964995)"
-"","",L. NAGAR,"","","","",Lauria (Lauria) Spot
-16,LAURIA,"HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"SourceScheme(0005677832)"
-17,LAURIA,"L. NAGARHARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-18,LAURIA,"L. NAGARHARIJANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545187)"
-19,LAURIA,LAKSMI PUR,"DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-20,LAURIA,LAKSMI PUR,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965007)"
-21,LAURIA,LAURIYA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-22,LAURIA,LAURIYA,"DeepTubew ell",Ground Water,"",PWS,"Lauria Rural PipedWater SupplyScheme(0001950235)"
-23,LAURIA,LAURIYA,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965009)"
-24,LAURIA,MISHRA TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-25,LAURIA,"MISH A TOLAS","DeepTubew ell",Ground Water,"",PWS,"Lauria Rural PipedWater SupplyScheme(0001950235)"
-26,LAURIA,MISHRA TOLA,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965019)"
-27,LAURIA,MISHRA TOLA,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965019)"
-28,LAURIA,NEW TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-29,LAURIA,NEW TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-30,LAURIA,NEW TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-31,LAURIA,NEW TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-32,LAURIA,NEW TOLA,"DeepTubew ell",Ground Water,"",PWS,"Lauria Rural PipedWater SupplyScheme(0001950235)"
-33,LAURIA,NEW TOLA,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965023)"
-34,LAURIA,"P HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-35,LAURIA,"P HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-36,LAURIA,"P HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-37,LAURIA,"P HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965027)"
-38,LAURIA,P S EST TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-39,LAURIA,P S EST TOLA,"DeepTubew ell",Ground Water,"",HandPump,"LauriaScheme(0001965031)"
-40,LAURIA,SEKH TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-"","","","","","","",""
-41,LAURIA,SEKH TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-42,LAURIA,SEKH TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-43,LAURIA,SEKH TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-44,LAURIA,SEKH TOLA,"DeepTubew ell",Ground Water,"",PWS,"Lauria Rural PipedWater SupplyScheme(0001950235)"
-45,LAURIA,SEKH TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"LauriaScheme(0001965034)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,LAURIA,ALLOKARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+2,LAURIA,ALLOKARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+3,LAURIA,ALLOKARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+4,LAURIA,ALLOKARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+5,LAURIA,ALLOKARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001964985)
+6,LAURIA,BHAI TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+7,LAURIA,BHAI TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964989)
+8,LAURIA,BHAI TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0007076733)
+9,LAURIA,EAST LAURIYA TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+10,LAURIA,EAST LAURIYA TOLA,Deep Tubew ell,Ground Water,,PWS,Lauria Rural Piped Water Supply Scheme(0001950235)
+11,LAURIA,EAST LAURIYA TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964992)
+12,LAURIA,EAST LAURIYA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0007076733)
+13,LAURIA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+14,LAURIA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,PWS,Lauria Rural Piped Water Supply Scheme(0001950235)
+15,LAURIA,HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001964995)
+16,LAURIA,L. NAGAR HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+17,LAURIA,L. NAGAR HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+18,LAURIA,L. NAGAR HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545187)
+19,LAURIA,LAKSMI PUR,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+20,LAURIA,LAKSMI PUR,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965007)
+21,LAURIA,LAURIYA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+22,LAURIA,LAURIYA,Deep Tubew ell,Ground Water,,PWS,Lauria Rural Piped Water Supply Scheme(0001950235)
+23,LAURIA,LAURIYA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965009)
+24,LAURIA,MISHRA TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+25,LAURIA,MISH A TOLA S,Deep Tubew ell,Ground Water,,PWS,Lauria Rural Piped Water Supply Scheme(0001950235)
+26,LAURIA,MISHRA TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965019)
+27,LAURIA,MISHRA TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965019)
+28,LAURIA,NEW TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+29,LAURIA,NEW TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+30,LAURIA,NEW TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+31,LAURIA,NEW TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+32,LAURIA,NEW TOLA,Deep Tubew ell,Ground Water,,PWS,Lauria Rural Piped Water Supply Scheme(0001950235)
+33,LAURIA,NEW TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965023)
+34,LAURIA,P HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+35,LAURIA,P HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+36,LAURIA,P HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+37,LAURIA,P HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965027)
+38,LAURIA,P S EST TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+39,LAURIA,P S EST TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965031)
+40,LAURIA,SEKH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+41,LAURIA,SEKH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+42,LAURIA,SEKH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+43,LAURIA,SEKH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+44,LAURIA,SEKH TOLA,Deep Tubew ell,Ground Water,,PWS,Lauria Rural Piped Water Supply Scheme(0001950235)
+45,LAURIA,SEKH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001965034)

@@ -1,15 +1,13 @@
-Source Details,"","","","","","",""
-Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,DONBAR,DONBAR,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544935)"
-2,GAUNARIA,GAWNERIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544936)"
-3,KHURD,KHURD,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544937)"
-4,OJHAULIA,OJWALIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544938)"
-5,PIPARPANTI,MIYA PATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544939)"
-6,PIPARPANTI,PEPERPANTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544940)"
-7,SAHADATPUR,SAHADUTPUR,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961347)"
-8,SHIWRAJPUR,MIYA PATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544941)"
-9,SHIWRAJPUR,SIVRAJPUR,"ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004733004)"
-10,SHIWRAJPUR,SIVRAJPUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544942)"
-11,SIKTA KHURD,P. TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544943)"
-"","","","","",Nc/Pc,"",""
-12,SIKTA KHURD,SIKTA KHURD,"DeepTubew ell","GroundWater","Scheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544944)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,DONBAR,DONBAR,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544935)
+2,GAUNARIA,GAWNERIA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544936)
+3,KHURD,KHURD,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544937)
+4,OJHAULIA,OJWALIA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544938)
+5,PIPARPANTI,MIYA PATTI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544939)
+6,PIPARPANTI,PEPERPANTI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544940)
+7,SAHADATPUR,SAHADUTPUR,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961347)
+8,SHIWRAJPUR,MIYA PATTI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544941)
+9,SHIWRAJPUR,SIVRAJPUR,Shallow Tubew ell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012- 13(0004733004)
+10,SHIWRAJPUR,SIVRAJPUR,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544942)
+11,SIKTA KHURD,P. TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544943)
+12,SIKTA KHURD,SIKTA KHURD,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544944)

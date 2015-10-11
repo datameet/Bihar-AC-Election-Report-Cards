@@ -1,15 +1,14 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BISRAMPUR,BISRAMPUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544969)"
-2,BISRAMPUR,"HARBANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544970)"
-3,BISRAMPUR,NAYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544971)"
-4,CHORHI,AHIR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544972)"
-5,CHORHI,CHORAHI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544973)"
-6,CHORHI,"HARIZANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544974)"
-7,DARWALIA,CHAMAR TOLI,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961422)"
-8,DARWALIA,DHERWALIYA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544975)"
-9,DARWALIA,DHOBI TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961447)"
-10,PARARAWAN,MASZID TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544976)"
-11,PARARAWAN,PADRAUN,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961455)"
-12,RAMPURWA,PANDEY TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544977)"
-13,RAMPURWA,RAMPURWA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544978)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BISRAMPUR,BISRAMPUR,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544969)
+2,BISRAMPUR,HARBAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544970)
+3,BISRAMPUR,NAYA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544971)
+4,CHORHI,AHIR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544972)
+5,CHORHI,CHORAHI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544973)
+6,CHORHI,HARIZAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544974)
+7,DARWALIA,CHAMAR TOLI,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961422)
+8,DARWALIA,DHERWALIYA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544975)
+9,DARWALIA,DHOBI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961447)
+10,PARARAWAN,MASZID TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544976)
+11,PARARAWAN,PADRAUN,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961455)
+12,RAMPURWA,PANDEY TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544977)
+13,RAMPURWA,RAMPURWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544978)

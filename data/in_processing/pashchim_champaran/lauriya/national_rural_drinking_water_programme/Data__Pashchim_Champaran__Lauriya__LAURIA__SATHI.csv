@@ -1,50 +1,47 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BAUDH TOLA,"BANNIYAPATTI","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545230)"
-2,BAUDH TOLA,"BAUDHATOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965375)"
-3,BAUDH TOLA,HARIJAN TOLI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-4,BAUDH TOLA,HARIJAN TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545231)"
-5,BAUDH TOLA,MALLAH TOLI,"DeepTubew ell","GroundWater",Mallah Patti,HandPump,"LauriyaScheme(0007076733)"
-6,BAUDH TOLA,MALLAH TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545232)"
-7,BAUDH TOLA,MINYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545233)"
-8,BAUDH TOLA,TIWARI TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965379)"
-9,DUMDUMUWA,"BAWHANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545234)"
-10,DUMDUMUWA,DUM-DUMWA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-11,DUMDUMUWA,DUM-DUMWA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-12,DUMDUMUWA,DUM-DUMWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001965384)"
-13,DUMDUMUWA,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965393)"
-14,DUMDUMUWA,KOIRI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545235)"
-15,RAYBARWA,AHIR TOLA,"ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004662068)"
-16,RAYBARWA,AHIR TOLA,"DeepTubew ell","GroundWater","",HandPump,"Lauria (Lauria) SpotSource"
-"","","","","","","",Scheme(0005677832)
-17,RAYBARWA,AHIR TOLA,"DeepTubew ell","GroundWater","",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-18,RAYBARWA,AHIR TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965398)"
-19,RAYBARWA,"BHANGARTOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965403)"
-20,RAYBARWA,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965407)"
-21,RAYBARWA,KOERI TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965416)"
-22,RAYBARWA,MINYA TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965419)"
-23,RAYBARWA,RAY BARWA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-24,RAYBARWA,RAY BARWA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-25,RAYBARWA,RAY BARWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001965421)"
-26,RAYBARWA,"ROAD SIDERAY BARWA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545236)"
-27,SATHI,"BANIYATOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965424)"
-28,SATHI,"BANIYATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
-29,SATHI,BARMI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-30,SATHI,BARMI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-31,SATHI,BARMI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001965431)"
-32,SATHI,BIND TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965434)"
-33,SATHI,"HARIJAN TOLIEAST","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965437)"
-34,SATHI,"HARIJAN TOLIEAST","DeepTubew ell","GroundWater","InsideHabitation",PWS,"Sathi Bazar PWSScheme(0006510588)"
-35,SATHI,MINYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-36,SATHI,MINYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-37,SATHI,MINYA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"LauriaScheme(0001965444)"
-38,SATHI,"MINYA TOLAEAST","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965452)"
-39,SATHI,"MISHRATOLA","ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004662079)"
-40,SATHI,"MISHRATOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545237)"
-41,SATHI,SATHI,"ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004662049)"
-42,SATHI,SATHI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545238)"
-43,SATHI,SATHI,"DeepTubew ell","GroundWater","Near B.ED.College",PWS,"Sathi Bazar PWSScheme(0006510588)"
-"","","",Shallow,Ground,"","",Lauria
-44,SATHI,TATWA TOLA,Tubew ell,ater,"",HandPump,Scheme(0001965457)
-45,SATHI,TATWA TOLA,"DeepTubew ell","roundater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
-46,SATHI,TATWA TOLA,"DeepTubew ell","roundater",Near Math,HandPump,"LauriyaScheme(0007076733)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BAUDH TOLA,BANNIYA PATTI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545230)
+2,BAUDH TOLA,BAUDHA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965375)
+3,BAUDH TOLA,HARIJAN TOLI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+4,BAUDH TOLA,HARIJAN TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545231)
+5,BAUDH TOLA,MALLAH TOLI,Deep Tubew ell,Ground Water,Mallah Patti,HandPump,Lauriya Scheme(0007076733)
+6,BAUDH TOLA,MALLAH TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545232)
+7,BAUDH TOLA,MINYA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545233)
+8,BAUDH TOLA,TIWARI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965379)
+9,DUMDUMUWA,BAWHAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545234)
+10,DUMDUMUWA,DUM-DUMWA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+11,DUMDUMUWA,DUM-DUMWA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+12,DUMDUMUWA,DUM-DUMWA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001965384)
+13,DUMDUMUWA,HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965393)
+14,DUMDUMUWA,KOIRI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545235)
+15,RAYBARWA,AHIR TOLA,Shallow Tubew ell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012- 13(0004662068)
+16,RAYBARWA,AHIR TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+17,RAYBARWA,AHIR TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+18,RAYBARWA,AHIR TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965398)
+19,RAYBARWA,BHANGAR TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965403)
+20,RAYBARWA,HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965407)
+21,RAYBARWA,KOERI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965416)
+22,RAYBARWA,MINYA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965419)
+23,RAYBARWA,RAY BARWA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+24,RAYBARWA,RAY BARWA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+25,RAYBARWA,RAY BARWA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001965421)
+26,RAYBARWA,ROAD SIDE RAY BARWA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545236)
+27,SATHI,BANIYA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965424)
+28,SATHI,BANIYA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0007076733)
+29,SATHI,BARMI TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+30,SATHI,BARMI TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+31,SATHI,BARMI TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001965431)
+32,SATHI,BIND TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965434)
+33,SATHI,HARIJAN TOLI EAST,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965437)
+34,SATHI,HARIJAN TOLI EAST,Deep Tubew ell,Ground Water,Inside Habitation,PWS,Sathi Bazar PWS Scheme(0006510588)
+35,SATHI,MINYA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+36,SATHI,MINYA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+37,SATHI,MINYA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria Scheme(0001965444)
+38,SATHI,MINYA TOLA EAST,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965452)
+39,SATHI,MISHRA TOLA,Shallow Tubew ell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012- 13(0004662079)
+40,SATHI,MISHRA TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545237)
+41,SATHI,SATHI,Shallow Tubew ell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012- 13(0004662049)
+42,SATHI,SATHI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545238)
+43,SATHI,SATHI,Deep Tubew ell,Ground Water,Near B.ED. College,PWS,Sathi Bazar PWS Scheme(0006510588)
+44,SATHI,TATWA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauriya Scheme(0001965457)
+45,SATHI,TATWA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0007076733)
+46,SATHI,TATWA TOLA,Deep Tubew ell,Ground Water,Near Math,HandPump,Lauriya Scheme(0007076733)

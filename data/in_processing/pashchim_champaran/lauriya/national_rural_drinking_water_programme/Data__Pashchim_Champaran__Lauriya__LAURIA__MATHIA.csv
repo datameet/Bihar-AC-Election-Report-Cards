@@ -1,27 +1,26 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,MANGURAH,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-2,MANGURAH,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545202)"
-3,MANGURAH,MANGURAHA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545203)"
-4,MANGURAHA,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545204)"
-5,MANGURAHA,MANGURAHA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545205)"
-6,MANGURAHA,MANJHI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"LauriyaScheme(0007076733)"
-7,MANGURAHA,MANJHI TOLA,"DeepTubew ell","GroundWater","Near P.C.C.Road",HandPump,"LauriyaScheme(0007076733)"
-8,MANGURAHA,MANJHI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545206)"
-9,MATHIA,AHIR TOLI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-10,MATHIA,AHIR TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545207)"
-11,MATHIA,BAHIYA PATTI,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965204)"
-12,MATHIA,BIRTI TOLA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965218)"
-13,MATHIA,"EASTHARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965222)"
-14,MATHIA,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965229)"
-15,MATHIA,MATHIA,"ShallowTubew ell","GroundWater","",HandPump,"Lauria Pipe WaterSupplyScheme(0001965240)"
-16,MATHIA,MATHIA,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001977121)"
-17,MATHIA,"WEST MINYATOLA","ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965242)"
-18,MATHIA,"WEST MINYATOLA","DeepTubew ell","GroundWater",Road Side,HandPump,"LauriyaScheme(0007076733)"
-19,PANDARI,PANDRY,"ShallowTubew ell","GroundWater","",HandPump,"LauriaScheme(0001965250)"
-20,PANDARI,SOUTH TOLA,"DeepTubew ell","GroundWater","",HandPump,"Lauria (Lauria) SpotSourceScheme(0005677832)"
-21,PANDARI,SOUTH TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545208)"
-22,PARSA,"EASTHARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545209)"
-23,PARSA,"HARIJESHARIEHRI","DeepTubew ell","GroundWater",Near Pokhara,HandPump,"LauriyaScheme(0007076733)"
-24,PARSA,"HARIJESHARIEHRI","DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545210)"
-25,PARSA,PARSA,"DeepTubew ell","GroundWater","Nc/PcScheme ForLauria Block",SPOT,"Nc/Pc Scheme ForLauriaBlock(0004545211)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,MANGURAH,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+2,MANGURAH,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545202)
+3,MANGURAH,MANGURAHA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545203)
+4,MANGURAHA,HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545204)
+5,MANGURAHA,MANGURAHA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545205)
+6,MANGURAHA,MANJHI TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauriya Scheme(0007076733)
+7,MANGURAHA,MANJHI TOLA,Deep Tubew ell,Ground Water,Near P.C.C. Road,HandPump,Lauriya Scheme(0007076733)
+8,MANGURAHA,MANJHI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545206)
+9,MATHIA,AHIR TOLI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+10,MATHIA,AHIR TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545207)
+11,MATHIA,BAHIYA PATTI,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965204)
+12,MATHIA,BIRTI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965218)
+13,MATHIA,EAST HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965222)
+14,MATHIA,HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965229)
+15,MATHIA,MATHIA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Pipe Water Supply Scheme(0001965240)
+16,MATHIA,MATHIA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001977121)
+17,MATHIA,WEST MINYA TOLA,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965242)
+18,MATHIA,WEST MINYA TOLA,Deep Tubew ell,Ground Water,Road Side,HandPump,Lauriya Scheme(0007076733)
+19,PANDARI,PANDRY,Shallow Tubew ell,Ground Water,,HandPump,Lauria Scheme(0001965250)
+20,PANDARI,SOUTH TOLA,Deep Tubew ell,Ground Water,,HandPump,Lauria (Lauria) Spot Source Scheme(0005677832)
+21,PANDARI,SOUTH TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545208)
+22,PARSA,EAST HARIJAN TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545209)
+23,PARSA,HARIJE SHARIEHRI,Deep Tubew ell,Ground Water,Near Pokhara,HandPump,Lauriya Scheme(0007076733)
+24,PARSA,HARIJE SHARIEHRI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545210)
+25,PARSA,PARSA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Lauria Block,SPOT,Nc/Pc Scheme For Lauria Block(0004545211)

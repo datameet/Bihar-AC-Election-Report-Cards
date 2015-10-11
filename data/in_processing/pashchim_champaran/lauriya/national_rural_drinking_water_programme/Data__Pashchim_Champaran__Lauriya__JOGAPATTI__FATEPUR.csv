@@ -1,28 +1,27 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,"ARAZINANKAR",A. NANKAR,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961371)"
-2,"ARAZINANKAR",HAZAM TOLI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544956)"
-3,"ARAZINANKAR",KORI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544957)"
-4,BHATWALIA,AHIR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544958)"
-5,BHATWALIA,BHATWALIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544959)"
-6,FATEHPUR,BIN TOLI,"DeepTubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-7,FATEHPUR,DHOBI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544960)"
-8,FATEHPUR,FATEPUR,"ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004733075)"
-9,FATEHPUR,FATEPUR,"DeepTubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-10,FATEHPUR,LOHAR PATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544961)"
-11,FATEHPUR,MUSHER TOLI,"DeepTubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-12,FATEHPUR,"PANDEYTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544962)"
-13,ATEHPUR,TAKTAKWA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-14,"AUKARIAOGAPATTI",AHIR TOLA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-15,"AUKARIAOGAPATTI",BNTI TOLA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-16,"AUKARIAOGAPATTI","JOGAPATTIMATKOTA","eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-17,"AUKARIAOGAPATTI",KONU TOLA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-18,"AUKARIAOGAPATTI",LAWKERIA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-19,"AUKARIAOGAPATTI","LAWKERIAJOGA","eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-20,"AUKARIAOGAPATTI","MUSHERTOLA","eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-21,"AUKARIAOGAPATTI",TAK TAKWA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-22,AUGANWA,AHIR TOLA,"eepubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544963)"
-23,AUGANWA,DHIRAWALIA,"eepubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544964)"
-24,AUGANWA,KORI TOLA,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-25,AUGANWA,NAWGAWAN,"eepubew ell","GroundWater","",PWS,"Yogapatti Rural PipedWater SupplyScheme(0001950252)"
-26,AUGANWA,NAWKA TOLA,"eepubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004544965)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,ARAZI NANKAR,A. NANKAR,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961371)
+2,ARAZI NANKAR,HAZAM TOLI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544956)
+3,ARAZI NANKAR,KORI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544957)
+4,BHATWALIA,AHIR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544958)
+5,BHATWALIA,BHATWALIA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544959)
+6,FATEHPUR,BIN TOLI,Deep Tubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+7,FATEHPUR,DHOBI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544960)
+8,FATEHPUR,FATEPUR,Shallow Tubew ell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012- 13(0004733075)
+9,FATEHPUR,FATEPUR,Deep Tubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+10,FATEHPUR,LOHAR PATTI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544961)
+11,FATEHPUR,MUSHER TOLI,Deep Tubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+12,FATEHPUR,PANDEY TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544962)
+13,ATEHPUR,TAKTAKWA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+14,AUKARIA OGAPATTI,AHIR TOLA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+15,AUKARIA OGAPATTI,BNTI TOLA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+16,AUKARIA OGAPATTI,JOGAPATTI MATKOTA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+17,AUKARIA OGAPATTI,KONU TOLA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+18,AUKARIA OGAPATTI,LAWKERIA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+19,AUKARIA OGAPATTI,LAWKERIA JOGA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+20,AUKARIA OGAPATTI,MUSHER TOLA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+21,AUKARIA OGAPATTI,TAK TAKWA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+22,AUGANWA,AHIR TOLA,eep ubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544963)
+23,AUGANWA,DHIRAWALIA,eep ubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544964)
+24,AUGANWA,KORI TOLA,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+25,AUGANWA,NAWGAWAN,eep ubew ell,Ground Water,,PWS,Yogapatti Rural Piped Water Supply Scheme(0001950252)
+26,AUGANWA,NAWKA TOLA,eep ubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004544965)

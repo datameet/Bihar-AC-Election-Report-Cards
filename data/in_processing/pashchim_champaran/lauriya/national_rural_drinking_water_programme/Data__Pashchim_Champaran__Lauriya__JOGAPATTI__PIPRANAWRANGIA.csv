@@ -1,20 +1,19 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName",Habitation Name,"SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,LALGARH,"DHAKINWARITOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545009)"
-2,LALGARH,KORI TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961574)"
-3,LALGARH,LALGER,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545010)"
-4,"PIPRANAURANGIA",BAZAR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545011)"
-5,"PIPRANAURANGIA",CHAMAINIA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961578)"
-6,"PIPRANAURANGIA","DAHPHADARTOLA","ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961583)"
-7,"PIPRANAURANGIA",DHANBATIA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545012)"
-8,"PIPRANAURANGIA",JAGIRAHA,"ShallowTubew ell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012-13(0004733060)"
-9,"PIPRANAURANGIA",JAGIRAHA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545013)"
-10,"PIPRANAURANGIA",KALWAR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545014)"
-11,"PIPRANAURANGIA",MAHABIR PUR,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961587)"
-12,"PIPRANAURANGIA",MASZID TOLA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961590)"
-13,"PIPRANAURANGIA",MIYAPATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForJogapattiBlock",SPOT,"Nc/Pc Scheme ForJogapattiBlock(0004545015)"
-"",PIPRA,"",Shallow,Ground,"","",Jogapatti
-14,NAURANGIA,P. HARIZAN TOLI,Tubew ell,Water,"",HandPump,Scheme(0001961593)
-15,"PIPRANAURANGIA",PIPRANAWRANGIA,"ShallowTubew ell","GroundWater","",HandPump,"JogapattiScheme(0001961600)"
-16,"PIPRANAURANGIA",PIPRANAWRANGIA,"DeepTubew ell","GroundWater",Road Side,HandPump,"YogapattiScheme(0006553693)"
-17,"PIPRANAURANGIA",PIPRANAWRANGIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"YogapattiScheme(0006553693)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,LALGARH,DHAKINWARI TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545009)
+2,LALGARH,KORI TOLA,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961574)
+3,LALGARH,LALGER,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545010)
+4,PIPRA NAURANGIA,BAZAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545011)
+5,PIPRA NAURANGIA,CHAMAINIA,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961578)
+6,PIPRA NAURANGIA,DAHPHADAR TOLA,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961583)
+7,PIPRA NAURANGIA,DHANBATIA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545012)
+8,PIPRA NAURANGIA,JAGIRAHA,Shallow Tubew ell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012- 13(0004733060)
+9,PIPRA NAURANGIA,JAGIRAHA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545013)
+10,PIPRA NAURANGIA,KALWAR TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545014)
+11,PIPRA NAURANGIA,MAHABIR PUR,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961587)
+12,PIPRA NAURANGIA,MASZID TOLA,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961590)
+13,PIPRA NAURANGIA,MIYAPATTI,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Jogapatti Block,SPOT,Nc/Pc Scheme For Jogapatti Block(0004545015)
+,PIPRA,,Shallow,Ground,,,Jogapatti
+14,NAURANGIA,P. HARIZAN TOLI,Tubew ell,Water,,HandPump,Scheme(0001961593)
+15,PIPRA NAURANGIA,PIPRANAWRANGIA,Shallow Tubew ell,Ground Water,,HandPump,Jogapatti Scheme(0001961600)
+16,PIPRA NAURANGIA,PIPRANAWRANGIA,Deep Tubew ell,Ground Water,Road Side,HandPump,Yogapatti Scheme(0006553693)
+17,PIPRA NAURANGIA,PIPRANAWRANGIA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Yogapatti Scheme(0006553693)
