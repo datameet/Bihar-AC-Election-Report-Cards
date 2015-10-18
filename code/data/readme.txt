@@ -32,3 +32,5 @@ python merge.py -f ./../../data/in_processing/pashchim_champaran/chanpatiya/sani
 python merge.py -f ./../../data/in_processing/pashchim_champaran/lauriya/national_rural_drinking_water_programme -0 lauriya_nrdw
 
 python merge.py -f ./../../data/in_processing/pashchim_champaran/narkatiaganj/national_rural_drinking_water_programme -o narkatiaganj_nrdw
+
+python merge.py -f ./../../data/in_processing/pashchim_champaran/nautan/national_rural_drinking_water_programme -o nautan_nrdw
