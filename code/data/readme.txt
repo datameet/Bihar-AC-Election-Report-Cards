@@ -39,3 +39,9 @@ python merge.py -f ./../../data/in_processing/pashchim_champaran/ramnagar/nation
 
 
 python merge.py -f ./../../data/in_processing/pashchim_champaran/sikta/national_rural_drinking_water_programme -o sikta_nrdw
+
+
+
+python merge.py -f ./../../data/in_processing/pashchim_champaran/valmiki_nagar/national_rural_drinking_water_programme -o valmiki_nagar_nrdw
+
+
