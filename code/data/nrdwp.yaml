@@ -31,8 +31,8 @@ exports:
 #    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  lauriya_nrdw' 
 #      filename: "Pashchim_Champaran__Lauriya__nrdw.csv"
 
-    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  narkatiaganj_nrdw' 
-      filename: "Pashchim_Champaran__Narkatiaganj__nrdw.csv"
+#    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  narkatiaganj_nrdw' 
+#      filename: "Pashchim_Champaran__Narkatiaganj__nrdw.csv"
       
       
     #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  nautan_nrdw' 
@@ -41,5 +41,5 @@ exports:
     #  filename: "Pashchim_Champaran__Ramnagar__nrdw.csv"      
     #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  sikta_nrdw' 
     #  filename: "Pashchim_Champaran__Sikta__nrdw.csv"        
-    #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  valmikinagar_nrdw' 
-    #  filename: "Pashchim_Champaran__Valmiki_nagar_nrdw.csv"        
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  valmiki_nagar_nrdw' 
+      filename: "Pashchim_Champaran__Valmiki_nagar_nrdw.csv"        
