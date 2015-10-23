@@ -18,10 +18,15 @@ exports:
 #     filename: "Khagaria_Parbatta_nrdw.csv"
 #     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  bagaha_nrdw'
 #       filename: "Pashchim_Champaran__Bagaha_nrdwp.csv"
-     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  bettiah_nrdw' 
-       filename: "Pashchim_Champaran__Bettiah__nrdw.csv"
-    # - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block,  "SL.No.","GP Name","Total Detail Entered (With & Without Toilet) BLS-2012","BPL (2012)","Identified(APL, 2012)","UnIdentified (APL, 2012)","Total (UnIdentified + Identified, APL, 2012)","Total (BPL+APL)","Total HH Identified","No.of HH entered by name [2013-14]","No. of Households covered 2014-2015 (including unapproved)","Total No. of Households Covered after Survey 2012","No.of HH reported by name [2015-16]" from chanpatiya_sanitation_results'
-    #   filename: "Pashchim_Champaran__Sanitation.csv"
+#     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  bettiah_nrdw' 
+#       filename: "Pashchim_Champaran__Bettiah__nrdw.csv"
+
+     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  chanpatiya_nrdw' 
+       filename: "Pashchim_Champaran__Chanpatiya__nrdw.csv"
+
+
+#     - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block,  "SL.No.","GP Name","Total Detail Entered (With & Without Toilet) BLS-2012","BPL (2012)","Identified(APL, 2012)","UnIdentified (APL, 2012)","Total (UnIdentified + Identified, APL, 2012)","Total (BPL+APL)","Total HH Identified","No.of HH entered by name [2013-14]","No. of Households covered 2014-2015 (including unapproved)","Total No. of Households Covered after Survey 2012","No.of HH reported by name [2015-16]" from chanpatiya_sanitation_results'
+#       filename: "Pashchim_Champaran__Sanitation.csv"
     #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  lauriya_nrdw' 
     #  filename: "Pashchim_Champaran__Lauriya__nrdw.csv"
     #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from  narkatiaganj_nrdw' 

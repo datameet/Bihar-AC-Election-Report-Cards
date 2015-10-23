@@ -1,16 +1,15 @@
-Source Details,"","","","","","",""
-Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BANDIPATTI,BANDIPATTI,"ShallowTubewell","GroundWater","",HandPump,"ChanpatiaScheme(0001971147)"
-2,BANDIPATTI,PASTI TOLA,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544467)"
-3,LACHHMIPUR,BHAIRWA,"ShallowTubewell","GroundWater","",HandPump,"ChanpatiaScheme(0001971148)"
-4,LACHHMIPUR,KOWAHA,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544468)"
-5,LACHHMIPUR,LAXMIPUR,"ShallowTubewell","GroundWater","",HandPump,"COVERAGE IN PCTOLA IN 2012­13(0004746273)"
-6,LACHHMIPUR,LAXMIPUR,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544469)"
-7,NAUGAWAN,NAVGAWA,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544470)"
-8,"SABIYAKHURD",CHARGANHA,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544471)"
-9,"SABIYAKHURD","JAYAHTIGOAM","DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544472)"
-10,"SABIYAKHURD",KHAIRWADIH,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544473)"
-11,"SABIYAKHURD",SABYA KURD,"ShallowTubewell","GroundWater","",HandPump,"ChanpatiaScheme(0001971151)"
-12,"SABIYAKHURD",SEMAHBARI,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544474)"
-13,TOLA GOITA,DAKHINWARIA,"DeepTubewell","GroundWater","Nc/PcScheme ForChanpatiaBlock",SPOT,"Nc/Pc Scheme ForChanpatiaBlock(0004544475)"
-14,TOLA GOITA,TOLA GOTIA,"ShallowTubewell","GroundWater","",HandPump,"ChanpatiaScheme(0001971153)"
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BANDIPATTI,BANDIPATTI,Shallow Tubewell,Ground Water,,HandPump,Chanpatia Scheme(0001971147)
+2,BANDIPATTI,PASTI TOLA,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544467)
+3,LACHHMIPUR,BHAIRWA,Shallow Tubewell,Ground Water,,HandPump,Chanpatia Scheme(0001971148)
+4,LACHHMIPUR,KOWAHA,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544468)
+5,LACHHMIPUR,LAXMIPUR,Shallow Tubewell,Ground Water,,HandPump,COVERAGE IN PC TOLA IN 2012+//0Awv/9AK0- 13(0004746273)
+6,LACHHMIPUR,LAXMIPUR,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544469)
+7,NAUGAWAN,NAVGAWA,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544470)
+8,SABIYA KHURD,CHARGANHA,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544471)
+9,SABIYA KHURD,JAYAHTI GOAM,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544472)
+10,SABIYA KHURD,KHAIRWADIH,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544473)
+11,SABIYA KHURD,SABYA KURD,Shallow Tubewell,Ground Water,,HandPump,Chanpatia Scheme(0001971151)
+12,SABIYA KHURD,SEMAHBARI,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544474)
+13,TOLA GOITA,DAKHINWARIA,Deep Tubewell,Ground Water,Nc/Pc Scheme For Chanpatia Block,SPOT,Nc/Pc Scheme For Chanpatia Block(0004544475)
+14,TOLA GOITA,TOLA GOTIA,Shallow Tubewell,Ground Water,,HandPump,Chanpatia Scheme(0001971153)
