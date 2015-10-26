@@ -1,0 +1,61 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,MOJUAUL,EAST TOLA,"ShallowTu ew ell5","GroundWater","MAQJID KEPAS",HandPump,HP-IRP(0003806160)
+2,MOJUAUL,EAST TOLA,"ShallowTubew ell","GroundWater",SHAPUR,HandPump,HP-IRP(0005623203)
+3,MOJUAUL,EAST TOLA,"ShallowTubew ell","GroundWater",EAST TOLA,HandPump,"NC/PC 2012-13(0004724354)"
+4,MOJUAUL,EAST TOLA,"ShallowTubew ell","GroundWater",IN TOLA,HandPump,NC/PC(0001957431)
+5,MOJUAUL,"HARIJANTOLA","ShallowTubew ell","GroundWater",IN TOLA,HandPump,HP-IRP(0005623222)
+6,MOJUAUL,"HARIJANTOLA","ShallowTubew ell","GroundWater","NEARHARIJANTOLA",HandPump,NC/PC(0004539045)
+7,MOJUAUL,"ILLIYASHTOLA","DeepTubew ell","GroundWater",In Tola,HandPump,HP IRP(0006529463)
+8,MOJUAUL,"ILLIYASHTOLA","ShallowTubew ell","GroundWater","",HandPump,HP-IRP(0005623331)
+9,MOJUAUL,"ILLIYASHTOLA","DeepTubew ell","GroundWater",IN TOLA,HandPump,"Near AnjumAra(0001335622)"
+10,MOJUAUL,"ISHAQUETOLA","DeepTubew ell","GroundWater",In Tola,HandPump,HP IRP(0006529467)
+11,MOJUAUL,"ISHAQUETOLA","ShallowTubew ell","GroundWater","NEARISHAQUETOLA",HandPump,NC/PC(0004539047)
+12,MOJUAUL,MAJHOAUL,"ShallowTubew ell","GroundWater","Near MajhaulMasjid",HandPump,HP-IRP(0005827552)
+13,MOJUAUL,MAJHOAUL,"DeepTubew ell","GroundWater","West SideDevban",HandPump,"IM-II HandPump(0006585389)"
+14,MOJUAUL,MAJHOAUL,"DeepTubew ell","GroundWater","Urdu MiddleSchoolManjhaul",HandPump,"Nauhatta SchoolScheme(0002727974)"
+15,MOJUAUL,MAJHOAUL,"DeepTubew ell","GroundWater","Urdu KanyaPrimarySchool MojualEast",HandPump,"Nauhatta SchoolScheme(0002727974)"
+16,MOJUAUL,MAJHOAUL,"DeepTubew ell","GroundWater",MS SHAHPUR,HandPump,"Nauhatta SchoolScheme(0002727974)"
+17,MOJUAUL,MAJHOAUL,"DeepTubew ell","GroundWater","Urdu MiddleSchoolManjhaul",HandPump,"Nauhatta SchoolScheme(0002727974)"
+18,MOJUAUL,MAJHOAUL,Shallow,Ground,LPOI,HandPump,NC/PC(0001989293)
+"","","",Tubew ell,Water,"","",""
+19,MOJUAUL,MAJHOAUL,"ShallowTubew ell","GroundWater","Urdu MiddleSchoolManjhaul",HandPump,School(0001966048)
+20,MOJUAUL,MAJHOAUL,"ShallowTubew ell","GroundWater",MS SHAHPUR,HandPump,School(0001966154)
+21,MOJUAUL,MAJHOAUL,"ShallowTubew ell","GroundWater","Urdu KanyaPrimarySchool MojualEast",HandPump,School(0001966239)
+22,MOJUAUL,MAJHOAUL,"ShallowTubew ell","GroundWater",MS SHAHPUR,HandPump,School(0001966461)
+23,MOJUAUL,"MIDDLESCHOOLTOLA","ShallowTubew ell","GroundWater","MIDDLESCHOOLTOLA",HandPump,HP-IRP(0003806215)
+24,MOJUAUL,"MIDDLESCHOOLTOLA","ShallowTubew ell","GroundWater","SCHOOLTOLA",HandPump,NC/PC(0001957432)
+25,MOJUAUL,MUSLIM TOLA,"DeepTubew ell","GroundWater",In Tola,HandPump,HP IRP(0006529476)
+26,MOJUAUL,MUSLIM TOLA,"ShallowTubew ell","GroundWater","MUSLIMTOLA",HandPump,NC/PC(0001957433)
+27,MOJUAUL,WEST TOLA,"DeepTubew ell","GroundWater",In Tola,HandPump,HP IRP(0006530061)
+28,MOJUAUL,WEST TOLA,"ShallowTubew ell","GroundWater",WEST TOLA,HandPump,NC/PC(0001957434)
+29,SHAHPUR,BANIA TOLA,"ShallowTubew ell","GroundWater",IN TOLA,HandPump,NC/PC(0001957435)
+30,SHAHPUR,BANIA TOLA,"DeepTubew ell","GroundWater","BANIYATOLA",HandPump,"Near NirmalaDevi(0001334001)"
+31,SHAHPUR,"BRAHMINTOLA","ShallowTubew ell","GroundWater",IN TOLA,HandPump,NC/PC(0001957436)
+32,SHAHPUR,"BRAHMINTOLA","DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+33,SHAHPUR,"DEVENMAHADEOTOLA","ShallowTubew ell","GroundWater","NEAR DEVENMAHADEOTOLA",HandPump,NC/PC(0004539049)
+34,SHAHPUR,"DEVENMAHADEOTOLA","DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+35,SHAHPUR,GORHI TOLA,"ShallowTubew ell","GroundWater",GORI TOLA,HandPump,NC/PC(0001957437)
+36,SHAHPUR,GORHI TOLA,"DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+37,SHAHPUR,"HARIJANTOLA","ShallowTubew ell","GroundWater","NEARHARIJANTOLA",HandPump,NC/PC(0004539051)
+38,SHAHPUR,"HARIJANTOLA","DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+39,SHAHPUR,"KUMHARTOLA","ShallowTubew ell","GroundWater",IN TOLA,HandPump,HP-IRP(0003806223)
+40,SHAHPUR,"KUMHARTOLA","ShallowTubew ell","GroundWater",IN TOLA,HandPump,NC/PC(0001957438)
+41,SHAHPUR,MUSHAHARI,"ShallowTubew ell","GroundWater","NEARMUSHARI",HandPump,NC/PC(0002400876)
+42,SHAHPUR,MUSHAHARI,"DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+43,SHAHPUR,PASI TOLA,"ShallowTubew ell","GroundWater","NEAR PASITOLA",HandPump,NC/PC(0004539052)
+44,SHAHPUR,PASI TOLA,"DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+45,SHAHPUR,RAMJI TOLA,"ShallowTubew ell","GroundWater",RAMJI TOLA,HandPump,"NC/PC 2012-13(0004730030)"
+46,SHAHPUR,RAMJI TOLA,"ShallowTubew ell","GroundWater",IN TOLA,HandPump,NC/PC(0004114999)
+47,SHAHPUR,RAMJI TOLA,"DeepTubew ell","GroundWater","NEAR RAMJEE",HandPump,"Near Singheshw arSah(0001333993)"
+"","","","","","","",""
+48,SHAHPUR,RAMJI TOLA,"DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+49,SHAHPUR,SHAHAPUR,"ShallowTubew ell","GroundWater",Shahpur Hata,HandPump,HP-IRP(0005826797)
+50,SHAHPUR,SHAHAPUR,"DeepTubew ell","GroundWater","MusalmanTola",HandPump,"IM-II HandPump(0006585390)"
+51,SHAHPUR,SHAHAPUR,"ShallowTubew ell","GroundWater",POU,HandPump,NC/PC(0001989294)
+52,SHAHPUR,"SHAHAPURHAT","ShallowTubew ell","GroundWater","",HandPump,HP-IRP(0005623378)
+53,SHAHPUR,"SHAHAPURHAT","ShallowTubew ell","GroundWater","SHAPURHATA",HandPump,NC/PC(0001957439)
+54,SHAHPUR,"SHAHAPURHAT","DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
+55,SHAHPUR,YADAV TOLA,"ShallowTubew ell","GroundWater",IN TOLA,HandPump,NC/PC(0001957441)
+56,SHAHPUR,YADAV TOLA,"DeepTubew ell","GroundWater","YADAVTOLA",HandPump,"Near PuranRam(0001333983)"
+57,SHAHPUR,YADAV TOLA,"DeepTubew ell","GroundWater",T/W 1,HandPump,"QA Scheme ForNauhatta(0007096937)"
