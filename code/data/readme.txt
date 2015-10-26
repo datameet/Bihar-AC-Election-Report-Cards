@@ -1,6 +1,6 @@
 
 #Renaming files
-rename 's/tabula-MB.B-/Data__Madhubani__Rajnagar__/' *.*
+rename 's/tabula-SHA.B-/Data__Saharsa__Simri_Bakhtiyarpur__/' *.*
 rename 's/.P-/__/' *.*
 rename 's/ /_/' *.*
 
@@ -50,6 +50,13 @@ python merge.py -f ./../../data/in_processing/supaul/nirmali/national_rural_drin
 python merge.py -f ./../../data/in_processing/supaul/pipra/national_rural_drinking_water_programme -o pipra_nrdw
 python merge.py -f ./../../data/in_processing/supaul/supaul/national_rural_drinking_water_programme -o supaul_nrdw
 python merge.py -f ./../../data/in_processing/supaul/triveniganj/national_rural_drinking_water_programme -o triveniganj_nrdw
+
+
+python merge.py -f ./../../data/in_processing/saharsa/mahishi/national_rural_drinking_water_programme -o mahishi_nrdw
+python merge.py -f ./../../data/in_processing/saharsa/saharsa/national_rural_drinking_water_programme -o saharsa_nrdw
+python merge.py -f ./../../data/in_processing/saharsa/simri_bakhtiyarpur/national_rural_drinking_water_programme -o simri_bakhtiyarpur_nrdw
+python merge.py -f ./../../data/in_processing/saharsa/sonbarsa/national_rural_drinking_water_programme -o sonbarsa_nrdw
+
 
 
 
