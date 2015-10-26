@@ -1,0 +1,1123 @@
+<html><head><style>BODY{	/*background-image: url(images/bodybg1.JPG);*/	margin: 0px;	width: 100%;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size: 100%;	background-color: #ffffff;}.ThemeBg{	background-color: #FDF9C1;}.header{	padding-bottom: 0px;	width: 99%;}.logo{	background-image: url(images/header_left_g.png);	width: 725px;	background-repeat: no-repeat;	height: 90px;}.logo1{	background-image: url(images/header_left_g_NBA_h.png);	width: 725px;	background-repeat: no-repeat;	height: 90px;}.NewYear{	background-image: url(images/newyears.gif);	background-repeat: no-repeat;	height: 90px;}A.searchProfile{	background-image: url(images/searchV.png);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 90px;}A.searchProfile:link{	background-image: url(images/searchV.png);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 90px;}A.searchProfile:visited{	background-image: url(images/searchV.png);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 90px;}A.eIndiaAw{	background-image: url(images/eIndiaAw.jpg);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 90px;}A.eIndiaAw:link{	background-image: url(images/eIndiaAw.jpg);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 90px;}A.eIndiaAw:visited{	background-image: url(images/eIndiaAw.jpg);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 90px;}A.SwachhataPrerak_E{	background-image: url(images/swachhata copy.jpg);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 50px}A.SwachhataPrerak_H{	background-image: url(images/swachhata copy.jpg);	width: 200px;	display: block;	background-repeat: no-repeat;	height: 50px}.logo_right{	background-image: url(images/logoindex_g.png);	width: 120px;	float: right;	background-repeat: no-repeat;	height: 90px;}.middleBg{	background-image: url(images/middle_bg.jpg);	width: 100%;	float: left;	height: 112px;}.HeadBg{	background-image: url(images/revheader.jpg);	width: 100%;	background-repeat: no-repeat;	float: left;	height: 100px;}.headerRight{	background-image: url(images/header_inner_right.jpg);	width: 599px;	background-repeat: no-repeat;	float: right;	height: 112px;}.ContentContainer{	margin-top: 0px;	width: 99%;	border-right: #80aebf 1px solid;	padding-top: 0px;}.leftContainer{	padding-left: 5px;	width: 99%;	float: left;	padding-top: 0px;}.middleContainer{	padding-left: 10px;	width: 98%;	padding-right: 10px;	float: left;	padding-top: 0px;}.rightContainer{	width: 19%;	padding-right: 10px;	float: right;	background:#D3986E;	}.waterImg{	background-image: url(images/right_image.jpg);	width: 191px;	background-repeat: no-repeat;	float: right;	height: 129px;}P{	font-family: Verdana, Arial, Helvetica, sans-serif;	color: #000000;	font-size: 80%;}.text{	font-family: Verdana, Arial, Helvetica, sans-serif;	color: #000000;	font-size: 80%;}.justify{	text-align: justify;}.txt{	font-family: Verdana, Arial, Helvetica, sans-serif;	color: #000000;	font-size: 60%;	font-weight: bold;}.marginTop{	margin-top: 140px;}.clear{	clear: both;}#rightmenu UL{	padding-bottom: 0px;	margin: 0px;	padding-left: 0px;	padding-right: 0px;	padding-top: 0px;}#rightmenu LI{	line-height: 25px;	list-style-type: none;	font-size: 100%;	font-weight: bold;}#rightmenu LI A{	color: #242424;	text-decoration: none;}.footerBg{	background-image: url(images/footer_bg.png);	margin-top: 0px;	width: 99%;	background-repeat: repeat;	float: right;	height: 50px;}.footer{	background-image: url(images/footerL_bg.png);	width: 706px;	float: right;	height: 50px;	background-repeat: no-repeat;}.line{	background-color: #cccccc;	margin-top: 30px;	width: 97%;	height: 1px;	margin-left: 20px;}.footerContent{	padding-left: 20px;	width: 580px;	padding-right: 20px;	font-family: Verdana, Arial, Helvetica, sans-serif;	margin-bottom: 0px;	margin-left: auto;	font-size: 90%;	margin-right: auto;	padding-top: 20px;}.footerContentLeft{	width: 280px;	float: left;}.contentNic{	width: 182px;	font-family: Verdana, Arial, Helvetica, sans-serif;	float: left;	margin-left: 52px;}.footerNIC{	background-image: url(images/logo_nic.jpg);	width: 28px;	background-repeat: no-repeat;	float: right;	height: 28px;}.footerContentRight{	width: 290px;	float: right;}.contenttsc{	padding-left: 5px;	width: 240px;	float: right;}.footerLogo{	background-image: url(images/footer_logo.jpg);	width: 34px;	background-repeat: no-repeat;	float: left;	height: 33px;}.center{	text-align: center;}.paddBottom{	padding-bottom: 20px;}.right{	float: right;}.paddingRight{	padding-right: 10px;}.select{	border-bottom: #d1d8db 1px solid;	border-left: #d1d8db 1px solid;	width: 100%;	font-family: Verdana, Arial, Helvetica, sans-serif;	color: #161616;	font-size: 11px;	border-top: #d1d8db 1px solid;	border-right: #d1d8db 1px solid;}.select1{	border-bottom: #d1d8db 1px solid;	border-left: #d1d8db 1px solid;	width: 100%;	font-family: Verdana, Arial, Helvetica, sans-serif;	height: 13px;	color: #161616;	font-size: 11px;	border-top: #d1d8db 1px solid;	border-right: #d1d8db 1px solid;}.line{	background-color: #cccccc;}.topBorder{	border-top: #cccccc 1px solid;}.bottomBorder{	border-bottom: #cccccc 1px solid;}.login{	background-image: url(images/login.jpg);	width: 180px;	float: right;	height: 171px;}.MAP{	background-image: url(images/MAP.bmp);	width: 180px;	float: right;	height: 171px;}.TableHdr{	background-image: url(images/TableHeder.jpg);	background-size:100%;	text-align: left;	margin-top: 0px;	width: 100%;	background-repeat: no-repeat;	float: right;	height: 18px;	color: #FFFCD5;	font-size: 13px;	font-weight: bold;	vertical-align:top;	}.Table_bg{	background-color: #E0C27B;	color: #FFFFFF;	width: 100%;}.TableSubHdr{	background-image: url(images/TableSubHeader.JPG);	text-align: left;	margin-top: 0px;	width: 100%;	background-repeat: no-repeat;	float: right;	height: 50px;	color: #ff6600;	font-size: 13px;	font-weight: bold;}.TableLogin{	background-image: url(images/TableHeder.jpg);	width: 100%;	background-repeat: no-repeat;	float: right;	height: 44px;}.TableLoginFooter{	background-image: url(images/TableFooterLogin.jpg);	width: 100%;	background-repeat: no-repeat;	float: left;	height: 22px;}.dotLine{	background-image: url(images/dots_g.JPG);	height: 2px;	margin-right: 7px;}.dotLine_g{	background-image: url(images/dots_g.jpg);	height: 2px;	margin-right: 7px;}.SiteMAP{	text-align: left;	background-color: #f0f4f1;	margin-top: 0px;	width: 98%;	height: 20px;	color: #ff6600;	font-size: 18px;	font-weight: bold;}.leftSideFontStyle{	color: #7F3504;}.TableHdrProfile{	background-image: url(images/TableHeder_D.jpg);	margin-top: 0px;	width: 100%;	background-repeat: no-repeat;	float: right;	height: 18px;	color: #ff6600;	font-size: 13px;	font-weight: bold;}.menu{	padding-bottom: 0px;	margin-top: 10px;	padding-left: 10px;	padding-right: 10px;	font-family: Arial, Helvetica, sans-serif;	float: left;	color: black;	font-size: 12px;	font-weight: bold;	padding-top: 0px;}.menuimage{	background-image: url(images/menu_seprator_g.jpg);	width: 6px;	float: left;	height: 36px;	color: black;	font-weight: bold;}.content{	text-align: justify;}.menuStartimage{	width: 14px;	background: url(images/menu_start_d.jpg) no-repeat;	float: left;	height: 36px;}.menuStartHome{	width: 60px;	background: url(images/Home.jpg) no-repeat;	float: left;	height: 36px;	font-size: xx-large;}#header A{	display: block;}#header A SPAN{	visibility: hidden;}.menuContainer{	background-image: url(images/menu_bg.jpg);	height: 36px;}.header_middle{	background-image: url(images/header_middle_g.png);	border-collapse: collapse;	background-repeat: repeat;	height: 90px;}.header_right{	background-image: url(images/header_right_g.jpg);	border-collapse: collapse;	background-repeat: no-repeat;	height: 105px;}.Marquee{	background-image: url(images/bodybg.JPG);}UL.BullW{	list-style-image: url(images/bullet_V.GIF);}#sddm{	z-index: 30;	padding-bottom: 0px;	margin: 0px;	padding-left: 0px;	padding-right: 0px;	padding-top: 0px;}#sddm LI{	padding-bottom: 0px;	list-style-type: none;	margin: 0px;	padding-left: 0px;	padding-right: 0px;	font: bold 11px arial;	float: left;	list-style-image: none;	padding-top: 0px;}#sddm LI A{	text-align: center;	padding-bottom: 1px;	margin: 0px 1px 0px 0px;	padding-left: 1px;	width: 100%;	padding-right: 1px;	display: block;	color: #fff;	text-decoration: none;	padding-top: 1px;}#sddm DIV{	border-bottom: #765803 1px solid;	position: absolute;	border-left: #765803 1px solid;	margin: 0px;	background: #DEC47A;	visibility: hidden;	border-top: #765803 1px solid;	border-right: #765803 1px solid;}#sddm DIV A{	position: relative;	text-align: left;	padding-bottom: 2px;	margin: 0px;	padding-left: 2px;	width: auto;	padding-right: 2px;	display: block;	font: 11px arial;	white-space: nowrap;	background: #DEC47A;	color: #000000;	text-decoration: none;	padding-top: 2px;}#sddm DIV A:hover{	background: #5a1a78;	color: #fff;}#sddmL{	z-index: 30;	padding-bottom: 0px;	margin: 0px;	padding-left: 0px;	padding-right: 0px;	padding-top: 0px;}#sddmL LI{	padding-bottom: 0px;	list-style-type: none;	margin: 0px;	padding-left: 0px;	padding-right: 0px;	font: bold 11px arial;	float: left;	list-style-image: none;	padding-top: 0px;}#sddmL LI A{	text-align: center;	padding-bottom: 1px;	margin: 0px 1px 0px 0px;	padding-left: 1px;	width: 100%;	padding-right: 1px;	display: block;	color: #fff;	text-decoration: none;	padding-top: 1px;}#sddmL DIV{	border-bottom: #5a1a78 1px solid;	position: absolute;	border-left: #5a1a78 1px solid;	margin: 0px;	background: #fededf;	visibility: hidden;	border-top: #5a1a78 1px solid;	border-right: #5a1a78 1px solid;}#sddmL DIV A{	position: relative;	text-align: left;	padding-bottom: 5px;	margin: 0px;	padding-left: 10px;	width: auto;	padding-right: 10px;	display: block;	font: 11px arial;	white-space: nowrap;	background: #e6d2f7;	color: #000000;	text-decoration: none;	padding-top: 5px;}#sddmL DIV A:hover{	background: #5a1a78;	color: #fff;}DIV.inner{	border-bottom: 0px;	border-left: 0px;	padding-bottom: 2px;	margin: 0px;	padding-left: 2px;	padding-right: 2px;	background: #fededf;	border-top: 0px;	border-right: 0px;	padding-top: 2px;}DIV.outer{	padding-bottom: 2px;	margin: 2px;	padding-left: 2px;	width: 950px;	padding-right: 2px;	background: #9f2426;	float: none;	padding-top: 2px;}.MsgTable{	border-collapse: collapse;}.MsgTable TD{	text-align: left;	padding-bottom: 0px;	padding-left: 1px;	padding-right: 1px;	color: black;	font-size: 13px;	padding-top: 0px;	/*mso-number-format: "@";*/}.MsgTable TD P{	text-align: left;	padding-bottom: 0px;	padding-left: 30px;	padding-right: 10px;	color: black;	font-size: 13px;	padding-top: 0px;	/*mso-number-format:"\@"; */}/* For Reporting Table/Gridview/Repeater */.Table {	 border-collapse:collapse;	 text-align:center;	 	 border:1px;	 border-style:solid;	 border-color:Black;	 font-family:Cambria ;	 font-size:9px;	 }.TdHeader{	background-color: #BF7849; font-weight: bold; font-size: 1.1em;	border-left: solid 1px; border-right: solid 1px; border-top: solid 1px;    border-bottom: solid 1px; border-collapse: collapse; border-color: black; color: #ffffff;    font-weight: bold; text-align:center;  }.TdItems_Center{		background-color:#FFFFFF;		font-size:10px;	border-color:Black;	font-style:normal;	font-weight:normal;		text-align: center;	vertical-align:middle;	padding:0px; 	height:16px;		}.TdItems_Left{		background-color:#FFFFFF;		font-size:10px;	border-color:Black;	font-style:normal;	font-weight:normal;		text-align: left;	vertical-align:middle;	padding:0px; 	height:16px;	}.TdItems_Right{		background-color:#FFFFFF;		font-size:10px;	border-color:Black;	font-style:normal;	font-weight:normal;		text-align: right;	vertical-align:middle;	padding:0px; 	height:16px;	}.TdFooter_Center{		background-color:#FFFFFF;	font-size:10px;	border-color:Black;	font-weight:bold;	text-align:center;	vertical-align:middle;	padding:0px; 	height:16px;	}.TdFooter_Left{		background-color:#FFFFFF;	font-size:10px;	border-color:Black;	font-weight:bold;	text-align:left;	vertical-align:middle;	padding:0px; 	height:16px;	font-family:Cambria;}.TdFooter_Right{		background-color:#FFFFFF;	font-size:10px;	border-color:Black;	font-weight:bold;	text-align:right;	vertical-align:middle;	padding:0px; 	height:16px;	}.LblBold{	font-size:small;	font-family:Verdana;	font-weight:bold;	}.DdlBold{	font-size:small;	font-family:Verdana;	font-weight:normal;	}.Lnkbtn{	color:Blue;	font-family:Verdana;		}.Error{ color:Red; font-family:Verdana;  font-weight:bold; text-align:center;   font-variant:normal; }.lblMenuHeading {	color:#334422;	font-size:1.4em;}li.aqua {	list-style-image: url(images/bullet_V.GIF);	font-size:1.3;	letter-spacing:0.06em;		} .c_aqua {color:black;}/****************Rounded corner CSS**************/.ControlBackGroundColor{	background-color:#FFFFFF;}.curved { -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px;   /*border-radius:10px;   behavior:url(../../css/border-radius.htc);*/}.container {background:#BF7849; color:#fff; margin:0 15px; text-align:center;} .rtop, .rbottom{display:block;background:#FFFFFF;} .rtop *, .rbottom *{display: block;height: 1px;overflow: hidden;background:#BF7849;} .r1{margin:0 5px} .r2{margin: 0 3px} .r3{margin: 0 2px} .r4{margin: 0 1px;height: 2px}/*END Rounded corener*/input.btnClass {   font-family:'trebuchet ms',helvetica,sans-serif;   font-size:110%;   font-weight:bold;   color:#050;   border:1px solid;   border-top-color:#696;   border-left-color:#696;   border-right-color:#363;   border-bottom-color:#363;   /*filter:progid:DXImageTransform.Microsoft.Gradient (GradientType=0,StartColorStr='#ffffffff',EndColorStr='#ffeeddaa');*/  }  .ddClass {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 12px;	color: #333333;	}div.demo, div.inner { color: #000;  font-family: verdana, arial, sans-serif;}div.demo  { padding: 20px; margin: 1em; background: #BF7849;  }.MenuLink { color:#ffffff; font-family: 'trebuchet ms', verdana, arial; margin: 0; padding: 0}.MenuHeader {color:#520D0C; font-family:  verdana, 'trebuchet ms', arial; font-weight:bold;  margin: 0; padding: 0 }/*End For Reporting*/</style></head><body><table border='0' width='95%'><tr style='color:Green;'><td align='center' colspan='2' style='font-weight:bold;'>Swachh Bharat Mission (SBM) <br />Ministry of Drinking Water and Sanitation</td></tr><tr><td colspan='2'><form method="post" action="Rpt_TargetVsAch_SelectionBased.aspx" id="ctl00" runat="server">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+</div>
+<div id="div_Data">
+
+        <script src="../../Js/jquery.js" type="text/javascript"></script>
+
+        <script src="../../Js/main.js" type="text/javascript"></script>
+
+        <script src="../../Js/jquery-1.8.3.js" type="text/javascript" language="javascript"></script>
+
+        <script src="../../Js/jquery-ui.js" type="text/javascript" language="javascript"></script>
+
+        <script type="text/javascript">
+    $(function () {        
+        var ds=null;                      
+        ds = ;
+               
+            $( "#ctl00_ContentPlaceHolder1_txt_SearchBenf" ).autocomplete({
+              source: ds
+            });    
+    });
+        </script>
+
+        
+        
+
+        <script type="text/javascript">
+            function ShowData() {
+                // $(document).on("click", "[id*=lbl_IsMPR_Reported]", function() {
+                //$("#lbl_Village").html($(".lbl_Village", $(this).closest("tr")).html());
+
+                $("#dialog").dialog({
+                    title: "View Details",
+                    buttons: {
+                        Ok: function() {
+                            $(this).dialog('close');
+                        }
+                    },
+                    modal: true
+                });
+                //return false;
+                //});
+            }
+        </script>
+
+        <style type="text/css">
+            #preview
+            {
+                position: absolute;
+                border: 1px solid #ccc;
+                background: #333;
+                padding: 5px;
+                display: none;
+                color: #fff;
+                width: 480px;
+                height: 480px;
+                z-index: 110;
+            }
+        </style>
+
+        <script type="text/javascript">
+            function showmodalpopup() {
+                $("#dialog").dialog({
+                    title: "View Details",
+                    width: 800,
+                    height: 600,
+                    modal: true,
+                    buttons: {
+                        Close: function() {
+                            $(this).dialog('close');
+                        }
+                    }
+                });
+            };
+        </script>
+
+        <link rel="stylesheet" name="../../Css/jquery-ui.css" />
+        <div id="dialog" style="display: none; width: 800px; height: 600px;">
+            
+        </div>
+        
+        <div id="div_selection">
+            <table id="tblSelection" align="center" border="0">
+	<tr>
+		<td colspan="12" style="text-align: center; height: 24px; font-family: Cambria; font-weight: bold;">
+                        <span id="lbl_heading" style="color:Black;font-size:Medium;">[Format A3] Swachh Bharat Mission Target Vs Achievement of BLS-2012 (Entry Status)</span>
+                    </td>
+	</tr>
+	<tr id="trBacktoSelection">
+		<td colspan="7" style="text-align: right; height: 24px; font-family: Cambria; font-weight: bold;">
+                        <a id="lnk_selection" name="javascript:__doPostBack('lnk_selection','')" style="color:Blue;font-size:Small;">Back to Selection</a>
+                    </td>
+	</tr>
+	<tr>
+		<td id="trData" colspan="7">
+                        
+                                <table class="Table" width="100%" border="1" cellpadding="0px" cellspacing="0px">
+                                    <tr>
+                                        <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_lbl_slno">SL.No.</span>
+                                        </td>
+                                        <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_lbl_name">GP Name</span>
+                                        </td>
+                                        
+                                        <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_Label7">Total Detail Entered (With & Without Toilet) BLS-2012</span>
+                                        </td>
+                                        
+                                        
+                                        <td class="TdHeader" colspan="6">
+                                            <span id="Rpt_data_ctl16_lbl_HouseholdEnteredDetail">Detail entered for no. of Households not having toilet during BLS-2012</span>
+                                        </td>
+                                        
+                                        
+                                        <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_lbl_20">No.of HH entered by name [2013-14]</span>
+                                        </td>
+                                        <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_Label10">No. of Households covered 2014-2015 (including unapproved)</span>
+                                        </td>
+                                        <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_lbl_HHReportedMPR">Total No. of Households Covered after Survey 2012</span>
+                                        </td>
+                                         <td class="TdHeader" rowspan="3">
+                                            <span id="Rpt_data_ctl16_Label9">No.of HH reported by name [2015-16]</span>
+                                        </td>
+                                                                                
+                                    </tr>
+                                    <tr>
+                                        
+                                        
+                                        
+                                        <td class="TdHeader" rowspan="2">
+                                            <span id="Rpt_data_ctl16_Label4">BPL</span>
+                                        </td>
+                                        <td class="TdHeader" colspan="3">
+                                            <span id="Rpt_data_ctl16_Label5">APL</span>
+                                        </td>
+                                        <td class="TdHeader" colspan="2">
+                                            <span id="Rpt_data_ctl16_Label6">Total </span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        <td class="TdHeader">
+                                            Identified
+                                        </td>
+                                        <td class="TdHeader">
+                                            UnIdentified
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_Label20">Total </span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            (BPL+APL)
+                                        </td>
+                                        <td class="TdHeader">
+                                            Total HH Identified
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="TdHeader">
+                                            1
+                                        </td>
+                                        <td class="TdHeader">
+                                            2
+                                        </td>
+                                        
+                                        <td class="TdHeader">
+                                             <span id="Rpt_data_ctl16_lbl4">3</span>
+                                        </td>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl12">4</span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl13">5</span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl14">6</span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl15">7 = [5+6]</span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl16">8</span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl17">9 = [8-6]</span>
+                                        </td>
+                                        
+                                        
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl20">10</span>
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl21">11</span> 
+                                        </td>
+                                        <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl_Num">12 = [10+11+13]</span>
+                                        </td>
+                                         <td class="TdHeader">
+                                            <span id="Rpt_data_ctl16_lbl23">13</span> 
+                                        </td>
+                                                                                
+                                    </tr>
+                                    <tr>
+                                        <td id="Rpt_data_ctl16_td_head" colspan="4" class="TdHeader" align="left">
+                                            <span id="Rpt_data_ctl16_lblST_Name" style="color:Black;font-size:Small;font-weight:bold;">State Name:-BIHAR</span>
+                                        </td>
+		
+                                        <td id="Rpt_data_ctl16_td_dis" colspan="4" class="TdHeader" align="left">
+                                            <span id="Rpt_data_ctl16_lblDT_Name" style="color:Black;font-size:Small;font-weight:bold;">District Name:-MADHUBANI</span>
+                                        </td>
+		
+                                        <td id="Rpt_data_ctl16_td_bl" colspan="5" class="TdHeader" align="left">
+                                            <span id="Rpt_data_ctl16_lblBL_Name" style="color:Black;font-size:Small;font-weight:bold;">Block Name :-KHAJAULI                                          </span>
+                                        </td>
+		
+                                    </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            1
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl17_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">BENTA KAKARGHATI                                  </a>
+                                            <input type="hidden" name="Rpt_data$ctl17$hfdcode" id="Rpt_data_ctl17_hfdcode" value="94783" />
+                                            <input type="hidden" name="Rpt_data$ctl17$hfd_blcode" id="Rpt_data_ctl17_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl17_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl17$lnk_HHentered','')">2226</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl17_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl17$lnk_HHEnteredDetails_BPL','')">1262</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl17_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl17$lnk_APLIdentified','')">726</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl17_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl17_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl17$lnk_HHEnteredDetails_APL','')">726</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl17_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl17$lnk_HHEnteredDetails','')">1988</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl17_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl17$lnk_BPLand_APLIdentified','')">1988</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl17_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl17_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl17$lnkbtn_BPLAPL1415','')">4</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl17_lbl_HHReportedMPR">5</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl17_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl17_lbl_BPLAPL1516">1</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            2
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl18_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">BHAKUA                                            </a>
+                                            <input type="hidden" name="Rpt_data$ctl18$hfdcode" id="Rpt_data_ctl18_hfdcode" value="94784" />
+                                            <input type="hidden" name="Rpt_data$ctl18$hfd_blcode" id="Rpt_data_ctl18_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl18_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl18$lnk_HHentered','')">2389</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl18_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl18$lnk_HHEnteredDetails_BPL','')">1175</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl18_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl18$lnk_APLIdentified','')">877</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl18_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl18_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl18$lnk_HHEnteredDetails_APL','')">877</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl18_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl18$lnk_HHEnteredDetails','')">2052</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl18_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl18$lnk_BPLand_APLIdentified','')">2052</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl18_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl18_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl18$lnkbtn_BPLAPL1415','')">5</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl18_lbl_HHReportedMPR">8</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl18_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl18_lbl_BPLAPL1516">3</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            3
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl19_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">CHANDRA DIH                                       </a>
+                                            <input type="hidden" name="Rpt_data$ctl19$hfdcode" id="Rpt_data_ctl19_hfdcode" value="94785" />
+                                            <input type="hidden" name="Rpt_data$ctl19$hfd_blcode" id="Rpt_data_ctl19_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl19_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl19$lnk_HHentered','')">1362</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl19_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl19$lnk_HHEnteredDetails_BPL','')">1101</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl19_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl19$lnk_APLIdentified','')">2</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl19_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl19_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl19$lnk_HHEnteredDetails_APL','')">2</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl19_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl19$lnk_HHEnteredDetails','')">1103</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl19_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl19$lnk_BPLand_APLIdentified','')">1103</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl19_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl19_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl19$lnkbtn_BPLAPL1415','')">3</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl19_lbl_HHReportedMPR">3</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl19_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl19_lbl_BPLAPL1516">0</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            4
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl20_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">CHATRA GOTH NORTH                                 </a>
+                                            <input type="hidden" name="Rpt_data$ctl20$hfdcode" id="Rpt_data_ctl20_hfdcode" value="94786" />
+                                            <input type="hidden" name="Rpt_data$ctl20$hfd_blcode" id="Rpt_data_ctl20_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl20_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_HHentered','')">2821</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl20_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_HHEnteredDetails_BPL','')">1353</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl20_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_APLIdentified','')">960</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl20_lnk_UnAPLIdentified" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_UnAPLIdentified','')">127</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl20_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_HHEnteredDetails_APL','')">1087</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl20_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_HHEnteredDetails','')">2440</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl20_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl20$lnk_BPLand_APLIdentified','')">2313</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl20_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl20_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl20$lnkbtn_BPLAPL1415','')">5</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl20_lbl_HHReportedMPR">7</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl20_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl20_lbl_BPLAPL1516">2</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            5
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl21_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">CHATRA GOTH SOUTH                                 </a>
+                                            <input type="hidden" name="Rpt_data$ctl21$hfdcode" id="Rpt_data_ctl21_hfdcode" value="94787" />
+                                            <input type="hidden" name="Rpt_data$ctl21$hfd_blcode" id="Rpt_data_ctl21_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl21_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl21$lnk_HHentered','')">1992</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl21_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl21$lnk_HHEnteredDetails_BPL','')">1409</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl21_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl21$lnk_APLIdentified','')">93</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl21_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl21_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl21$lnk_HHEnteredDetails_APL','')">93</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl21_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl21$lnk_HHEnteredDetails','')">1502</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl21_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl21$lnk_BPLand_APLIdentified','')">1502</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl21_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl21_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl21$lnkbtn_BPLAPL1415','')">1</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl21_lbl_HHReportedMPR">9</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl21_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl21_lbl_BPLAPL1516">8</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            6
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl22_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">DATUAR                                            </a>
+                                            <input type="hidden" name="Rpt_data$ctl22$hfdcode" id="Rpt_data_ctl22_hfdcode" value="94788" />
+                                            <input type="hidden" name="Rpt_data$ctl22$hfd_blcode" id="Rpt_data_ctl22_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl22_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl22$lnk_HHentered','')">2311</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl22_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl22$lnk_HHEnteredDetails_BPL','')">887</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl22_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl22$lnk_APLIdentified','')">1062</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl22_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl22_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl22$lnk_HHEnteredDetails_APL','')">1062</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl22_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl22$lnk_HHEnteredDetails','')">1949</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl22_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl22$lnk_BPLand_APLIdentified','')">1949</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl22_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl22_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl22$lnkbtn_BPLAPL1415','')">26</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl22_lbl_HHReportedMPR">42</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl22_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl22_lbl_BPLAPL1516">16</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            7
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl23_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">INRWA                                             </a>
+                                            <input type="hidden" name="Rpt_data$ctl23$hfdcode" id="Rpt_data_ctl23_hfdcode" value="94789" />
+                                            <input type="hidden" name="Rpt_data$ctl23$hfd_blcode" id="Rpt_data_ctl23_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl23_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl23$lnk_HHentered','')">2142</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl23_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl23$lnk_HHEnteredDetails_BPL','')">1523</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl23_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl23$lnk_APLIdentified','')">315</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl23_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl23_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl23$lnk_HHEnteredDetails_APL','')">315</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl23_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl23$lnk_HHEnteredDetails','')">1838</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl23_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl23$lnk_BPLand_APLIdentified','')">1838</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl23_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl23_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl23$lnkbtn_BPLAPL1415','')">41</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl23_lbl_HHReportedMPR">44</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl23_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl23_lbl_BPLAPL1516">3</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            8
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl24_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">KANHAULI                                          </a>
+                                            <input type="hidden" name="Rpt_data$ctl24$hfdcode" id="Rpt_data_ctl24_hfdcode" value="94790" />
+                                            <input type="hidden" name="Rpt_data$ctl24$hfd_blcode" id="Rpt_data_ctl24_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl24_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl24$lnk_HHentered','')">2144</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl24_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl24$lnk_HHEnteredDetails_BPL','')">1015</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl24_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl24$lnk_APLIdentified','')">841</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl24_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl24_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl24$lnk_HHEnteredDetails_APL','')">841</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl24_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl24$lnk_HHEnteredDetails','')">1856</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl24_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl24$lnk_BPLand_APLIdentified','')">1856</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl24_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl24_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl24$lnkbtn_BPLAPL1415','')">5</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl24_lbl_HHReportedMPR">8</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl24_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl24_lbl_BPLAPL1516">3</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            9
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl25_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">KHAJAULI                                          </a>
+                                            <input type="hidden" name="Rpt_data$ctl25$hfdcode" id="Rpt_data_ctl25_hfdcode" value="94791" />
+                                            <input type="hidden" name="Rpt_data$ctl25$hfd_blcode" id="Rpt_data_ctl25_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl25_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl25$lnk_HHentered','')">2333</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl25_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl25$lnk_HHEnteredDetails_BPL','')">190</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl25_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl25$lnk_APLIdentified','')">374</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl25_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl25_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl25$lnk_HHEnteredDetails_APL','')">374</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl25_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl25$lnk_HHEnteredDetails','')">564</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl25_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl25$lnk_BPLand_APLIdentified','')">564</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl25_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl25_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl25$lnkbtn_BPLAPL1415','')">1</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl25_lbl_HHReportedMPR">34</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl25_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl25_lbl_BPLAPL1516">33</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            10
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl26_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">MAHUA EKDARA                                      </a>
+                                            <input type="hidden" name="Rpt_data$ctl26$hfdcode" id="Rpt_data_ctl26_hfdcode" value="94792" />
+                                            <input type="hidden" name="Rpt_data$ctl26$hfd_blcode" id="Rpt_data_ctl26_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl26_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_HHentered','')">2780</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl26_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_HHEnteredDetails_BPL','')">1378</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl26_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_APLIdentified','')">963</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl26_lnk_UnAPLIdentified" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_UnAPLIdentified','')">1</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl26_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_HHEnteredDetails_APL','')">964</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl26_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_HHEnteredDetails','')">2342</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl26_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl26$lnk_BPLand_APLIdentified','')">2341</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl26_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl26_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl26$lnkbtn_BPLAPL1415','')">133</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl26_lbl_HHReportedMPR">152</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl26_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl26_lbl_BPLAPL1516">19</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            11
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl27_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">NARAR EAST                                        </a>
+                                            <input type="hidden" name="Rpt_data$ctl27$hfdcode" id="Rpt_data_ctl27_hfdcode" value="94793" />
+                                            <input type="hidden" name="Rpt_data$ctl27$hfd_blcode" id="Rpt_data_ctl27_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl27_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl27$lnk_HHentered','')">2503</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl27_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl27$lnk_HHEnteredDetails_BPL','')">1311</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl27_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl27$lnk_APLIdentified','')">879</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl27_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl27_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl27$lnk_HHEnteredDetails_APL','')">879</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl27_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl27$lnk_HHEnteredDetails','')">2190</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl27_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl27$lnk_BPLand_APLIdentified','')">2190</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl27_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl27_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl27$lnkbtn_BPLAPL1415','')">8</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl27_lbl_HHReportedMPR">9</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl27_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl27_lbl_BPLAPL1516">1</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            12
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl28_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">RASHIDPUR                                         </a>
+                                            <input type="hidden" name="Rpt_data$ctl28$hfdcode" id="Rpt_data_ctl28_hfdcode" value="94794" />
+                                            <input type="hidden" name="Rpt_data$ctl28$hfd_blcode" id="Rpt_data_ctl28_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl28_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl28$lnk_HHentered','')">2749</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl28_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl28$lnk_HHEnteredDetails_BPL','')">852</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl28_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl28$lnk_APLIdentified','')">557</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl28_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl28_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl28$lnk_HHEnteredDetails_APL','')">557</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl28_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl28$lnk_HHEnteredDetails','')">1409</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl28_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl28$lnk_BPLand_APLIdentified','')">1409</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl28_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl28_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl28$lnkbtn_BPLAPL1415','')">68</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl28_lbl_HHReportedMPR">69</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl28_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl28_lbl_BPLAPL1516">1</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            13
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl29_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">SARABE                                            </a>
+                                            <input type="hidden" name="Rpt_data$ctl29$hfdcode" id="Rpt_data_ctl29_hfdcode" value="94795" />
+                                            <input type="hidden" name="Rpt_data$ctl29$hfd_blcode" id="Rpt_data_ctl29_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl29_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl29$lnk_HHentered','')">2494</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl29_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl29$lnk_HHEnteredDetails_BPL','')">1002</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl29_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl29$lnk_APLIdentified','')">635</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl29_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl29_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl29$lnk_HHEnteredDetails_APL','')">635</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl29_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl29$lnk_HHEnteredDetails','')">1637</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl29_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl29$lnk_BPLand_APLIdentified','')">1637</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl29_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl29_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl29$lnkbtn_BPLAPL1415','')">179</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl29_lbl_HHReportedMPR">220</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl29_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl29_lbl_BPLAPL1516">41</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                            
+                                <tr>
+                                        <td class="TdItems_Center" style="width: 2%;">
+                                            14
+                                        </td>
+                                        <td class="TdItems_Left" style="width: 10%;">
+                                            <a id="Rpt_data_ctl30_lnk_name" disabled="disabled" style="color:Black;text-decoration:none;">SUKKI                                             </a>
+                                            <input type="hidden" name="Rpt_data$ctl30$hfdcode" id="Rpt_data_ctl30_hfdcode" value="94796" />
+                                            <input type="hidden" name="Rpt_data$ctl30$hfd_blcode" id="Rpt_data_ctl30_hfd_blcode" />
+                                        </td>
+                                        
+                                        <td class="TdItems_Right" style="width: 6%;">
+                                            <a id="Rpt_data_ctl30_lnk_HHentered" name="javascript:__doPostBack('Rpt_data$ctl30$lnk_HHentered','')">2153</a>
+                                        </td>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl30_lnk_HHEnteredDetails_BPL" name="javascript:__doPostBack('Rpt_data$ctl30$lnk_HHEnteredDetails_BPL','')">1168</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl30_lnk_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl30$lnk_APLIdentified','')">581</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl30_lnk_UnAPLIdentified" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl30_lnk_HHEnteredDetails_APL" name="javascript:__doPostBack('Rpt_data$ctl30$lnk_HHEnteredDetails_APL','')">581</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl30_lnk_HHEnteredDetails" name="javascript:__doPostBack('Rpt_data$ctl30$lnk_HHEnteredDetails','')">1749</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <a id="Rpt_data_ctl30_lnk_BPLand_APLIdentified" name="javascript:__doPostBack('Rpt_data$ctl30$lnk_BPLand_APLIdentified','')">1749</a>
+                                    </td>
+                                    
+                                    
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl30_lnkbtn_BPLAPL1314" disabled="disabled" style="color:Black;">0</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        
+                                        <a id="Rpt_data_ctl30_lnkbtn_BPLAPL1415" name="javascript:__doPostBack('Rpt_data$ctl30$lnkbtn_BPLAPL1415','')">48</a>
+                                    </td>
+                                    <td class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl30_lbl_HHReportedMPR">79</span>
+                                    </td>
+                                    <td id="Rpt_data_ctl30_td1" class="TdItems_Right" style="width: 6%;">
+                                        <span id="Rpt_data_ctl30_lbl_BPLAPL1516">31</span>
+                                    </td>
+		
+                                                                         
+                                </tr>
+                                                            
+                                <tr>
+                                    <td colspan="2" class="TdFooter_Center">
+                                        <span id="Rpt_data_ctl31_lbl_Total2">Total </span>:-
+                                    </td>
+                                    
+                                    <td class="TdFooter_Right">
+                                        <a id="Rpt_data_ctl31_lnk_HHentered_footer" name="javascript:__doPostBack('Rpt_data$ctl31$lnk_HHentered_footer','')">32399</a>
+                                    </td>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td class="TdFooter_Right">
+                                        <a id="Rpt_data_ctl31_lnk_BPLFooter_HH_Entered" name="javascript:__doPostBack('Rpt_data$ctl31$lnk_BPLFooter_HH_Entered','')">15626</a>
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                        8865
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                        128
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                        <a id="Rpt_data_ctl31_lnk_APLFooter_HH_Entered" name="javascript:__doPostBack('Rpt_data$ctl31$lnk_APLFooter_HH_Entered','')">8993</a>
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                        <a id="Rpt_data_ctl31_lnk_HH_Entered" name="javascript:__doPostBack('Rpt_data$ctl31$lnk_HH_Entered','')">24619</a>
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                    <a id="Rpt_data_ctl31_lnkBPLandAPLIdentified" name="javascript:__doPostBack('Rpt_data$ctl31$lnkBPLandAPLIdentified','')">24491</a>
+                                        
+                                    </td>
+                                    
+                                    
+                                    <td class="TdFooter_Right">
+                                        0
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                        527
+                                    </td>
+                                    <td class="TdFooter_Right">
+                                        <span id="Rpt_data_ctl31_lbl_Footer_HHCoveredAfterSurvey">689</span>
+                                    </td>
+                                     <td class="TdFooter_Right">
+                                        <span id="Rpt_data_ctl31_lbl_F_BPLAPL1516">162</span>
+                                     </td>
+                                                                       
+                                </tr>                               
+                                <tr>
+                                    <td colspan="29" align="left">
+                                        <span id="Rpt_data_ctl31_Label2" style="color:Maroon;font-family:cambria;font-size:Small;font-weight:bold;">Note :- 1) Report is generated on the data entered till midnight</span><br />
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <span id="Rpt_data_ctl31_Label12" style="color:Maroon;font-family:cambria;font-size:Small;font-weight:bold;">2) Data of baseline survey entered above is provisional and on change as long as data entry is not frozen.</span><br />
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <span id="Rpt_data_ctl31_lblNote3" style="color:Maroon;font-family:cambria;font-size:Small;font-weight:bold;">3) Figure in Col 10, is the number for which entry has been done by name and is being updated.</span>
+                                    </td>
+                                </tr>
+                                 
+                                </table>
+                            
+                    </td>
+	</tr>
+	<tr>
+		<td colspan="7">
+                        &nbsp;
+                    </td>
+	</tr>
+</table>
+
+        </div>
+        <div>
+        </div>
+    </div>
+</form></td></tr><tr style='color:Maroon;'><td align='left' style='font-weight:bold;'>Website hosted & maintained by National Informatics Centre.</td><td align='right' style='font-weight:bold;'>Report Printed on 26/10/2015    4:44 AM</td></tr></table></body></html>

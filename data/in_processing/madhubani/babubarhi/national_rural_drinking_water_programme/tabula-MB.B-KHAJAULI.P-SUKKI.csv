@@ -1,0 +1,52 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BIRAUL,"BERAULWEST","ShallowTubew ell","GroundWater","Chw ak KePas",HandPump,"NC/PCKHAJAULI(0005701504)"
+2,BIRAUL,"BERAULWEST","ShallowTubew ell","GroundWater","School KeNajdik",HandPump,"NC/PCKHAJAULI(0005701504)"
+3,BIRAUL,"BERAULWEST","DeepTubew ell","GroundWater","(NonMandatory",HandPump,"SpotSource(0002683091)"
+4,BIRAUL,"BERAULWEST","DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSourse(0001978945)"
+5,HATHIAHI,HATHIYAHI,"DeepTubew ell","GroundWater","SamudyikBhavan KePas",HandPump,"DihbarAsthan(0000048504)"
+6,HATHIAHI,HATHIYAHI,"DeepTubew ell","GroundWater",Road Side Me,HandPump,"HanumanMandir(0000048498)"
+7,HATHIAHI,HATHIYAHI,"ShallowTubew ell","GroundWater","SrBindeshw arGoyal S/OLate JanakGoyal GharKe Pas",HandPump,"MLA QOUTA-KHAJULI-1(0006428746)"
+8,HATHIAHI,HATHIYAHI,"ShallowTubew ell","GroundWater","RamchandMothi Ghar KePas",HandPump,"MLA QUOTA-KHAJAULI-1(0005504575)"
+9,HATHIAHI,HATHIYAHI,"DeepTubew ell","GroundWater","SamudyikBhavan KePas",HandPump,"Ram AvtarRam(0000048496)"
+10,HATHIAHI,HATHIYAHI,"ShallowTubew ell","GroundWater","N.P.S HatiyahiKushw ahaTol",HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+11,HATHIAHI,HATHIYAHI,"ShallowTubew ell","GroundWater","U.M.SHathiyahi",HandPump,"SCHOOL T/W-KHAJAULI-2(0006184576)"
+12,HATHIAHI,HATHIYAHI,"ShallowTubew ell","GroundWater","P.S HathiyahiGirl",HandPump,"SCHOOL T/W-KHAJAULI-2(0006184576)"
+13,HATHIAHI,HATHIYAHI,"DeepTubew ell","GroundWater",Masjid Ke Pas,HandPump,"Singhesw arRam(0000048493)"
+14,HATHIAHI,HATHIYAHI,"DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSourse(0001978968)"
+15,HATHIAHI,"WESTHATHIYAHI","ShallowTubew ell","GroundWater",A,HandPump,"NC/PCKHAJAULI(0006534965)"
+16,HATHIAHI,"WESTHATHIYAHI","DeepTubew ell","GroundWater",T/W 1,HandPump,"Spot Source Scheme3(0007086586)"
+17,HATHIAHI,"WESTHATHIYAHI","DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSourse(0001978968)"
+18,MAINA,MAINA,"DeepTubew ell","GroundWater",Road Side Me,HandPump,"ChamarTola(0000048234)"
+19,MAINA,MAINA,"DeepTubew ell","GroundWater","School KePas",HandPump,"Hari NathSingh(0000048239)"
+20,MAINA,MAINA,"ShallowTubew ell","GroundWater","Bache LalRam S/O MetMatar DasGhar Ke Niket",HandPump,"MLA QUOTA-KHAJAULI-1(0005504575)"
+21,MAINA,MAINA,"DeepTubew ell","GroundWater","(NonMandatory",HandPump,"SpotSource(0002683338)"
+22,MAINA,MAINA,"ShallowTubew ell","GroundWater",Kisun Mochi,HandPump,"SUHTAIPNABLE NEW INPLACE OF OLD T/WKHAJAULI(0006352229)"
+23,SUKI,"BRAHMANTOL","DeepTubew ell","GroundWater","Nc/PcScheme ForKhajauli Block",SPOT,"Nc/Pc Scheme ForKhajauliBlock(0004563247)"
+24,SUKI,DIHTOL,"DeepTubew ell","GroundWater","Nc/PcScheme ForKhajauli Block",SPOT,"Nc/Pc Scheme ForKhajauliBlock(0004563248)"
+25,SUKI,DIHTOL,"ShallowTubew ell","GroundWater","P.MAK SukkiDilh",HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+26,SUKI,GHATTOL,"ShallowTubew ell","GroundWater","U.M.S SukkiGhat",HandPump,"SCHOOL T/W-KHAJAULI-2(0006184576)"
+27,SUKI,GHATTOL,"DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSourse(0001978987)"
+28,SUKI,NORTH SUKKI,"DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSource(0002683229)"
+29,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Aw c Dadha-92",HandPump,"Anganw ari Hp Khajouli2(0005252469)"
+30,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Aw c Dadha-92",HandPump,"Anganw ari KhajauliBlock(0005467456)"
+31,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Sr RamLakhanPasw an S/OLate SaryugPasw an GharKe PasWardno-10",HandPump,"MLA QOUTA-KHAJULI-1(0006428746)"
+32,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Sr RadhaKrisna YadavS/O GajadharYadav",HandPump,"MLA QOUTA-KHAJULI-1(0006428746)"
+33,SUKI,SUKKI,"ShallowTubew ell","GroundWater","RamsevakMahto NasiTola",HandPump,"MLA QOUTA-KHAJULI-1(0006428746)"
+34,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Sr VijayKumar SinghS/O LateBoyelal SinghGhae Ke Pas",HandPump,"MLA QOUTA-KHAJULI-1(0006428746)"
+35,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Shiv LalGareri GharKe Niket",HandPump,"MLA QUOTA-KHAJAULI-1(0005504575)"
+36,SUKI,SUKKI,"ShallowTubew ell","GroundWater","Shiv KumarPasw an S/ORamavtarPasw an GharSe Pachim",HandPump,"MLA QUOTA-KHAJAULI-1(0005504575)"
+37,SUKI,SUKKI,"ShallowTubew ell","GroundWater","MaheshPasw an S/OMetNagesw arPasw an KeBagal",HandPump,"MLA QUOTA-KHAJAULI-1(0005504575)"
+"","","","","","YamunaChook","",""
+38,UKI,SUKKI,"ShallowTubew ell","GroundWater","Paw an KumarSingh S/O SrRam UdgarSingh GharKe Pas",HandPump,"MLC QOUTAKHAJAULI(0006388256)"
+39,UKI,SUKKI,"DeepTubew ell","GroundWater","PHYFONCHWAK PAR",PWS,"RURAL PIPEKHAJAULI(0006510081)"
+40,UKI,SUKKI,"ShallowTubew ell","GroundWater",P.S Behata,HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+41,UKI,SUKKI,"ShallowTubew ell","GroundWater","N.P.S SukkiPasw an Tol",HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+42,UKI,SUKKI,"ShallowTubew ell","GroundWater","N.P.S SukkiDhat Tol",HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+43,UKI,SUKKI,"ShallowTubew ell","GroundWater","N.P.S MushariSouth",HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+44,UKI,SUKKI,"ShallowTubew ell","GroundWater",M.S Suki,HandPump,"SCHOOL T/W-KHAJAULI-1(0006181199)"
+45,UKI,SUKKI,"ShallowTubew ell","GroundWater","P.S SukkiNashi",HandPump,"SCHOOL T/W-KHAJAULI-2(0006184576)"
+46,UKI,SUKKI,"ShallowTubew ell","GroundWater","P.S SukkiSouth",HandPump,"SCHOOL T/W-KHAJAULI-2(0006184576)"
+47,UKI,SUKKI,"DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSource(0002683219)"
+48,UKI,SUKKI,"DeepTubew ell","GroundWater","NonMandatory",HandPump,"SpotSourse(0001978987)"
+49,UKI,SUKKI,"ShallowTubew ell","GroundWater","DamodarSingh",HandPump,"SUHTAIPNABLE NEW INPLACE OF OLD T/WKHAJAULI(0006352229)"
