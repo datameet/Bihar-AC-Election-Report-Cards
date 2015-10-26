@@ -1,3 +1,15 @@
+
+#Renaming files
+rename 's/tabula-MB.B-/Data__Madhubani__Rajnagar__/' *.*
+rename 's/.P-/__/' *.*
+rename 's/ /_/' *.*
+
+
+#Count the no of rows in a folder
+find . -name '*.csv' | xargs wc -l
+
+
+----------------------------
 cd Bihar-AC-Election-Report-Cards
 python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Alauli/national_rural_drinking_water_programme -o alauli_nrdw
 python merge.py -f ./../../data/in_processing/khagaria/Khagaria-Beldaur/national_rural_drinking_water_programme -o beldaur_nrdw
@@ -30,5 +42,15 @@ python merge.py -f ./../../data/in_processing/madhubani/khajauli/national_rural_
 python merge.py -f ./../../data/in_processing/madhubani/laukaha/national_rural_drinking_water_programme -o laukaha_nrdw
 python merge.py -f ./../../data/in_processing/madhubani/madhubani/national_rural_drinking_water_programme -o madhubani_nrdw
 python merge.py -f ./../../data/in_processing/madhubani/phulparas/national_rural_drinking_water_programme -o phulparas_nrdw
-
 python merge.py -f ./../../data/in_processing/madhubani/rajnagar/national_rural_drinking_water_programme -o rajnagar_nrdw
+
+
+python merge.py -f ./../../data/in_processing/supaul/chattapur/national_rural_drinking_water_programme -o chattapur_nrdw
+python merge.py -f ./../../data/in_processing/supaul/nirmali/national_rural_drinking_water_programme -o nirmali_nrdw
+python merge.py -f ./../../data/in_processing/supaul/pipra/national_rural_drinking_water_programme -o pipra_nrdw
+python merge.py -f ./../../data/in_processing/supaul/supaul/national_rural_drinking_water_programme -o supaul_nrdw
+python merge.py -f ./../../data/in_processing/supaul/triveniganj/national_rural_drinking_water_programme -o triveniganj_nrdw
+
+
+
+
