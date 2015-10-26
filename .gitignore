@@ -1,2 +1,3 @@
 merge.sqlite
 merge_old.sqlite
+*.sqlite
