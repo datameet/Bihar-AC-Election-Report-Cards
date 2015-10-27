@@ -74,14 +74,20 @@ exports:
     #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from rajnagar_nrdw' 
     #  filename: "Madhubani__Rajnagar_nrdw.csv"        
 
-    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from mahishi_nrdw' 
-      filename: "Saharsa__Mahishi_nrdw.csv"       
+    #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from mahishi_nrdw' 
+    #  filename: "Saharsa__Mahishi_nrdw.csv"       
 
-    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from saharsa_nrdw' 
-      filename: "Saharsa__Saharsa_nrdw.csv"       
+    #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from saharsa_nrdw' 
+    #  filename: "Saharsa__Saharsa_nrdw.csv"       
       
-    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from simri_bakhtiyarpur_nrdw' 
-      filename: "Saharsa__Simri_Bakhtiyarpur_nrdw.csv"             
+    #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from simri_bakhtiyarpur_nrdw' 
+    #  filename: "Saharsa__Simri_Bakhtiyarpur_nrdw.csv"             
 
-    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from sonbarsa_nrdw' 
-      filename: "Saharsa__Sonbarsa_nrdw.csv"             
+    #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from sonbarsa_nrdw' 
+    #  filename: "Saharsa__Sonbarsa_nrdw.csv"             
+
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from chattapur_nrdw' 
+      filename: "Supaul__Chattapur_nrdw.csv"     
+
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from nirmali_nrdw' 
+      filename: "Supaul__Nirmali_nrdw.csv"            
