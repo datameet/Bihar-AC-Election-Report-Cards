@@ -1,0 +1,58 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BAHORWA,BAHORWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961678)
+2,BAHORWA,BAHORWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961678)
+3,BAHORWA,BAHORWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961678)
+4,BAHORWA,"BRAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957655)
+5,BAHORWA,"BRAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957655)
+6,BAHORWA,"BRAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957655)
+7,BAHORWA,KAMAT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957657)
+8,BAHORWA,KAMAT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957657)
+9,BAHORWA,KAMAT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957657)
+10,BAHORWA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+11,BAHORWA,MUSAHARI,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+12,BAHORWA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+13,BAHORWA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+14,BAHORWA,RAJPUT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957661)
+15,BAHORWA,RAJPUT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957661)
+16,BAHORWA,RAJPUT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957661)
+17,BAHORWA,"SHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961681)
+18,BAHORWA,"SHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961681)
+"","",SHERMA,Shallow,Ground,Inside,"",""
+19,BAHORWA,TOLA,Tubew ell,Water,Habitation,HandPump,NC/PC(0001961681)
+20,PARSA,"BADRAKHAHIA TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961687)
+21,PARSA,"BADRAKHAHIA TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961687)
+22,PARSA,"BADRAKHAHIA TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961687)
+23,PARSA,"CHAMARTOLA","DeepTubew ell","GroundWater",T/Well,HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+24,PARSA,"CHAMARTOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+25,PARSA,"CHAMARTOLA","DeepTubew ell","GroundWater",T/Well,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+26,PARSA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+27,PARSA,"CHAMARTOLA","DeepTubew ell","GroundWater",T/Well,HandPump,"Kishanpur MehaSimarHp(0004679204)"
+28,PARSA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+29,PARSA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
+30,PARSA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
+31,PARSA,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961690)
+32,PARSA,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961690)
+33,PARSA,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961690)
+34,PARSA,MEHTA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961694)
+35,PARSA,MEHTA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961694)
+36,PARSA,MEHTA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961694)
+37,PARSA,PARSA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961696)
+38,PARSA,PARSA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961696)
+39,PARSA,PARSA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961696)
+40,TULAPATTI,TULLAPAHEE,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335601)
+41,TULAPATTI,TULLAPAHEE,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335601)
+42,TULAPATTI,TULLAPAHEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961705)
+43,TULAPATTI,TULLAPAHEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961705)
+44,TULAPATTI,TULLAPAHEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961705)
+45,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335603)
+46,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335603)
+47,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335606)
+48,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335606)
+49,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335612)
+50,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335612)
+51,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335614)
+52,TULAPATTI,"TULLAPAHEEMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335614)
+53,TULAPATTI,"TULLAPAHEEMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957674)
+54,TULAPATTI,"TULLAPAHEEMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957674)
+55,TULAPATTI,"TULLAPAHEEMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957674)

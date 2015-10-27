@@ -1,0 +1,73 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,ABHWAR,"ABHUARGORHI TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956303)
+2,ABHWAR,"ABHUARGORHI TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956303)
+3,ABHWAR,"ABHUARGORHI TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956303)
+4,ABHWAR,"ABHUARHARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956318)
+5,ABHWAR,"ABHUARHARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956318)
+6,ABHWAR,"ABHUARHARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956318)
+7,ABHWAR,"ABHUARSHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956324)
+8,ABHWAR,"ABHUARSHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956324)
+9,ABHWAR,"ABHUARSHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956324)
+10,ABHWAR,"ABHUARBARAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960655)
+11,ABHWAR,"ABHUARBARAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960655)
+12,ABHWAR,"ABHUARBARAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960655)
+13,ABHWAR,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956747)
+14,ABHWAR,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956747)
+15,ABHWAR,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956747)
+16,ABHWAR,EAST TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956754)
+"","","",Shallow,Ground,Inside,"",""
+17,ABHWAR,EAST TOLA,Tubew ell,Water,Habitation,HandPump,NC/PC(0001956754)
+18,ABHWAR,EAST TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956754)
+19,ABHWAR,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956758)
+20,ABHWAR,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956758)
+21,ABHWAR,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956758)
+22,HADHURA,HADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960657)
+23,HADHURA,HADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960657)
+24,HADHURA,HADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960657)
+25,HADHURA,"HADHURAYADABTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956765)
+26,HADHURA,"HADHURAYADABTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956765)
+27,HADHURA,"HADHURAYADABTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956765)
+28,HADHURA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956771)
+29,HADHURA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956771)
+30,HADHURA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956771)
+31,KEOTAPATTI,"KEOTAPAHCE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960659)
+32,KEOTAPATTI,"KEOTAPAHCE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960659)
+33,KEOTAPATTI,"KEOTAPAHCE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960659)
+34,KEOTAPATTI,"KEOTAPAHCECHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+35,KEOTAPATTI,"KEOTAPAHCECHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
+36,KEOTAPATTI,"KEOTAPAHCECHAMARTOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+37,KEOTAPATTI,"KEOTAPAHCECHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+38,KEOTAPATTI,"KEOTAPAHCECHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+39,KORAIA,"BHATOTERMANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336124)
+40,KORAIA,"BHATOTERMANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336124)
+41,KORAIA,"BHATOTERMANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336126)
+42,KORAIA,"BHATOTERMANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336126)
+"","","","","","","",""
+43,KORAIA,"BHATOTERMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956776)
+44,KORAIA,"BHATOTERMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956776)
+45,KORAIA,"BHATOTERMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956776)
+46,KORAIA,KARAI HIYA,"ShallowTubew ell","GroundWater","RambrichhaMandal",HandPump,"MMCY T/WellKishanpur(0006496973)"
+47,KORAIA,KARAI HIYA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"MMCY T/WellKishanpur(0006496973)"
+48,KORAIA,KARAI HIYA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956783)
+49,KORAIA,KARAI HIYA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956783)
+50,KORAIA,KARAI HIYA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956783)
+51,KORAIA,"KARAI HIYAPASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336117)
+52,KORAIA,"KARAI HIYAPASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336117)
+53,KORAIA,"KARAI HIYAPASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956788)
+54,KORAIA,"KARAI HIYAPASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956788)
+55,KORAIA,"KARAI HIYAPASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956788)
+56,KORAIA,"KARAI HIYARAJPUTTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336130)
+57,KORAIA,"KARAI HIYARAJPUTTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336130)
+58,KORAIA,"KARAI HIYARAJPUTTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336136)
+59,KORAIA,"KARAI HIYARAJPUTTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336136)
+60,KORAIA,"KARAI HIYARAJPUTTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957717)
+61,KORAIA,"KARAI HIYARAJPUTTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957717)
+62,KORAIA,"KARAI HIYARAJPUTTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957717)
+63,KORAIA,"KARAI HIYAMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960660)
+64,KORAIA,"KARAI HIYAMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960660)
+65,KORAIA,"KARAI HIYAMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960660)
+66,KORAIA,"MUSLIMTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960662)
+"","",MUSLIM,Shallow,Ground,Inside,"",""
+67,KORAIA,TOLA,Tubew ell,Water,Habitation,HandPump,NC/PC(0001960662)
+68,KORAIA,"MUSLIMTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960662)

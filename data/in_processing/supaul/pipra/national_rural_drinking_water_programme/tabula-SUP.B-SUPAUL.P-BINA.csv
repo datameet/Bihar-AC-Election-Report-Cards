@@ -1,0 +1,89 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BINA,"B. BEASTYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533206)"
+2,BINA,"B. BEASTYADAV TOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533206)"
+3,BINA,"B. BEASTYADAV TOLA","DeepTubew ell","GroundWater","",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+4,BINA,"B. BEASTYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+5,BINA,"B. BEASTYADAV TOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+6,BINA,"B. WESTYADAV TOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533207)"
+7,BINA,"B. WESTYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533207)"
+8,BINA,"B. WESTYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+9,BINA,"B. WESTYADAV TOLA","DeepTubew ell","GroundWater","",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+10,BINA,"B. WESTYADAV TOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+11,BINA,"BABHANGAMA","DeepTubew ell","GroundWater","",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+12,BINA,"BABHANGAMA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+13,BINA,"BABHANGAMA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+14,BINA,"BABHANGAMA","DeepTubew ell","GroundWater","Middel SchoolBabhangama",HandPump,"Supaul SchoolScheme(0004152000)"
+"","",BABHAN,Deep,Ground,"MaghanathGirl Middel","",Supaul School
+15,BINA,GAMA,Tubew ell,Water,"SchoolBhbhangama",HandPump,Scheme(0004152000)
+16,BINA,"BHATANIYAAMAT TOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533208)"
+17,BINA,"BHATANIYAAMAT TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533208)"
+18,BINA,"BHATANIYAAMAT TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533208)"
+19,BINA,"BHATANIYAAMAT TOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+20,BINA,"BHATANIYAHALRIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001978852)
+21,BINA,"BHATANIYAHALRIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978852)
+22,BINA,"BHATANIYAHALRIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978852)
+23,BINA,"BILASMUSHAHARTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001978857)
+24,BINA,"BILASMUSHAHARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978857)
+25,BINA,"BILASMUSHAHARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978857)
+26,BINA,"BILASYADAV TOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533209)"
+27,BINA,"BILASYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533209)"
+28,BINA,"BILASYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533209)"
+29,BINA,"BILASYADAV TOLA","DeepTubew ell","GroundWater",Hanp Pump 1,HandPump,"QA SchemeSupaul(0007150901)"
+30,BINA,"BILASYADAV TOLA","DeepTubew ell","GroundWater",Hanp Pump 2,HandPump,"QA SchemeSupaul(0007150901)"
+31,BINA,BINA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448411)
+32,BINA,BINA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448411)
+33,BINA,BINA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448412)
+34,BINA,BINA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448412)
+35,BINA,BINA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448413)
+36,BINA,BINA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448413)
+37,BINA,BINA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448414)
+38,BINA,BINA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448414)
+39,BINA,BINA,"DeepTubew ell","GroundWater",Hanp Pump 3,HandPump,"QA SchemeSupaul(0007150901)"
+40,BINA,BINA,"DeepTubew ell","GroundWater",Hanp Pump 4,HandPump,"QA SchemeSupaul(0007150901)"
+41,BINA,BINA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Spot Source SchemeIron"
+"","","","","","","",Af fected(0004770350)
+42,BINA,BINA,"DeepTubew ell","GroundWater","",HandPump,"Spot Source SchemeIronAffected(0004770350)"
+43,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533210)"
+44,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533210)"
+45,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533210)"
+46,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater",Hanp Pump 5,HandPump,"QA SchemeSupaul(0007150901)"
+47,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater",Hanp Pump 6,HandPump,"QA SchemeSupaul(0007150901)"
+48,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater",Harijan Tota,PWS,"Rural Water SupplySchemeBina(0006490149)"
+49,BINA,"DHARIHARIJANTOLA","DeepTubew ell","GroundWater",Harijan Tota,PWS,"Rural Water SupplySchemeBina(0006490150)"
+50,BINA,DHARI TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001978861)
+51,BINA,DHARI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978861)
+52,BINA,DHARI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978861)
+53,BINA,"DHARNI PATTIRAM TOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533211)"
+54,BINA,"DHARNI PATTIRAM TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533211)"
+55,BINA,"DHARNI PATTIRAM TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533211)"
+56,BINA,"DHARNI PATTIRAM TOLA","DeepTubew ell","GroundWater",Hanp Pump 7,HandPump,"QA SchemeSupaul(0007150901)"
+57,BINA,"DHARNI PATTIRAM TOLA","DeepTubew ell","GroundWater",Hanp Pump 8,HandPump,"QA SchemeSupaul(0007150901)"
+58,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001963271)
+59,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001963271)
+60,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988160)
+61,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988160)
+62,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988161)
+63,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988161)
+64,BINA,LAXMIPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988161)
+65,BINA,"S. AMATTOLA SOUTH","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533212)"
+66,BINA,"S. AMATTOLA SOUTH","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533212)"
+67,BINA,"S. AMATTOLA SOUTH","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533212)"
+"","",S. AMAT,Deep,Ground,"","",QA Scheme
+68,BINA,TOLA SOUTH,Tubew ell,Water,Hanp Pump 9,HandPump,Supaul(0007150901)
+69,BINA,"S. AMATTOLA SOUTH","DeepTubew ell","GroundWater",Hanp Pump 10,HandPump,"QA SchemeSupaul(0007150901)"
+70,BINA,"SUNDERPURAMAT TOLANORTH","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533213)"
+71,BINA,"SUNDERPURAMAT TOLANORTH","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533213)"
+72,BINA,"SUNDERPURAMAT TOLANORTH","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533213)"
+73,BINA,"SUNDERPURAMAT TOLANORTH","DeepTubew ell","GroundWater","",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+74,BINA,"SUNDERPURSOTARI","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533214)"
+75,BINA,"SUNDERPURSOTARI","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533214)"
+76,BINA,"SUNDERPURSOTARI","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533214)"
+77,BINA,"SUNDERPURSOTARI","DeepTubew ell","GroundWater",Hanp Pump 11,HandPump,"QA SchemeSupaul(0007150901)"
+78,BINA,"SUNDERPURSOTARI","DeepTubew ell","GroundWater",Hanp Pump 12,HandPump,"QA SchemeSupaul(0007150901)"
+79,BINA,"WEST FROMHIGH SCHOOL","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988162)
+80,BINA,"WEST FROMHIGH SCHOOL","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988162)
+81,BINA,"WEST FROMHIGH SCHOOL","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988163)
+82,BINA,"WEST FROMHIGH SCHOOL","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988163)
+83,BINA,"WEST FROMHIGH SCHOOL","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SUPAUL HTSCHEME(0002690103)"
+84,BINA,"WEST FROMHIGH SCHOOL","DeepTubew ell","GroundWater","",HandPump,"SUPAUL HTSCHEME(0002690103)"

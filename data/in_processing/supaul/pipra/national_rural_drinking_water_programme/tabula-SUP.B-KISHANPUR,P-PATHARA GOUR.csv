@@ -1,0 +1,115 @@
+Source Details,"","","","","","",""
+Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BHURA,"BHUMIHARTOLA","DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+2,BHURA,"BHUMIHARTOLA","DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+3,BHURA,"BHUMIHARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+4,BHURA,"BHUMIHARTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001977225)
+5,BHURA,"BHUMIHARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001977225)
+6,BHURA,"BHUMIHARTOLA","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+7,BHURA,BHURA,"DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+8,BHURA,BHURA,"DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+9,BHURA,BHURA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+10,BHURA,BHURA,"DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+11,BHURA,BHURA,"DeepTubew ell","GroundWater","",HandPump,"TRIBENIGANJ HTSCHEME(0002690079)"
+12,BHURA,SAFI TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533397)"
+13,BHURA,SAFI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533397)"
+14,BHURA,SAFI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533397)"
+15,BHURA,SAFI TOLA,"DeepTubew ell","GroundWater",T/W 1,HandPump,"Tribeniganj QAScheme(0007076885)"
+16,BHURA,"YADAVTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533398)"
+17,BHURA,"YADAVTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533398)"
+18,BHURA,"YADAVTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533398)"
+19,BHURA,"YADAVTOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Tribeniganj QAScheme(0007076885)"
+20,JAGUR,JAGUR,"DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+21,JAGUR,JAGUR,"DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+22,JAGUR,JAGUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+23,JAGUR,JAGUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001965579)
+24,JAGUR,JAGUR,"ShallowTubew ell","GroundWater",Arjun Das,HandPump,NC/PC(0001965579)
+25,JAGUR,JAGUR,"DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+26,JAGUR,"MANDALTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533399)"
+27,JAGUR,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533399)"
+28,JAGUR,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533399)"
+29,JAGUR,"MANDALTOLA","DeepTubew ell","GroundWater",T/W 3,HandPump,"Tribeniganj QAScheme(0007076885)"
+30,JAGUR,"PASWANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533400)"
+31,JAGUR,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533400)"
+32,JAGUR,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533400)"
+33,JAGUR,"PASWANTOLA","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+34,JAGUR,RAM TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533401)"
+35,JAGUR,RAM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533401)"
+36,JAGUR,RAM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533401)"
+37,JAGUR,RAM TOLA,"DeepTubew ell","GroundWater",T/W 4,HandPump,"Tribeniganj QAScheme(0007076885)"
+38,JAGUR,SAHU TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+39,JAGUR,SAHU TOLA,"DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+40,JAGUR,SAHU TOLA,"DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+41,JAGUR,SAHU TOLA,"DeepTubew ell","GroundWater","",HandPump,"TRIBENIGANJ HTSCHEME(0002690079)"
+42,JAGUR,"TATMATOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533402)"
+43,JAGUR,"TATMATOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533402)"
+44,JAGUR,"TATMATOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533402)"
+45,JAGUR,"TATMATOLA","DeepTubew ell","GroundWater",T/W 5,HandPump,"Tribeniganj QAScheme(0007076885)"
+46,JAGUR,"YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001977240)
+47,JAGUR,"YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001977240)
+48,JAGUR,"YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001977240)
+49,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001344544)
+50,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001344544)
+51,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001344548)
+52,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001344548)
+53,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001344551)
+54,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001344551)
+55,PATHRAGORDHOI,"BHAGATTOLA","DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+56,PATHRAGORDHOI,"BHAGATTOLA","DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+57,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+58,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001977243)
+59,PATHRAGORDHOI,"BHAGATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001977243)
+60,PATHRAGORDHOI,"BHAGATTOLA","DeepTubew ell","GroundWater",T/W 6,HandPump,"Tribeniganj QAScheme(0007076885)"
+61,PATHRAGORDHOI,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001564100)
+62,PATHRAGORDHOI,"MANDALTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001564100)
+63,PATHRAGORDHOI,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001564102)
+64,PATHRAGORDHOI,"MANDALTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001564102)
+65,PATHRAGORDHOI,"MANDALTOLA","DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+66,PATHRAGORDHOI,"MANDALTOLA","DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+67,PATHRAGORDHOI,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+68,PATHRAGORDHOI,"MANDALTOLA","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+69,PATHRAGORDHOI,MIYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533403)"
+"","","","","","","",""
+70,PATHRAGORDHOI,MIYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533403)"
+71,PATHRAGORDHOI,MIYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533403)"
+72,PATHRAGORDHOI,MIYA TOLA,"DeepTubew ell","GroundWater",T/W 7,HandPump,"Tribeniganj QAScheme(0007076885)"
+73,PATHRAGORDHOI,MUSHARI,"DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533404)"
+74,PATHRAGORDHOI,MUSHARI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533404)"
+75,PATHRAGORDHOI,MUSHARI,"DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+76,PATHRAGORDHOI,MUSHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"TribeniganjAnganw adiScheme(0005084692)"
+77,PATHRAGORDHOI,MUSHARI,"DeepTubew ell","GroundWater","PrimarySchoolDumariya 20",HandPump,"TribeniganjAnganw adiScheme(0005084692)"
+78,PATHRAGORDHOI,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533405)"
+79,PATHRAGORDHOI,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533405)"
+80,PATHRAGORDHOI,"PASWANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533405)"
+81,PATHRAGORDHOI,"PASWANTOLA","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+82,PATHRAGORDHOI,"PATHRAGOUDHOE","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001564094)
+83,PATHRAGORDHOI,"PATHRAGOUDHOE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001564094)
+84,PATHRAGORDHOI,"PATHRAGOUDHOE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001564098)
+85,PATHRAGORDHOI,"PATHRAGOUDHOE","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001564098)
+86,PATHRAGORDHOI,"PATHRAGOUDHOE","DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+87,PATHRAGORDHOI,"PATHRAGOUDHOE","DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+88,PATHRAGORDHOI,"PATHRAGOUDHOE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+89,PATHRAGORDHOI,"PATHRAGOUDHOE","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+90,PATHRAGORDHOI,RAM TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForTribeniganjlBlock",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533406)"
+91,PATHRAGORDHOI,RAM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533406)"
+92,PATHRAGORDHOI,RAM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForTribeniganjlBlock(0004533406)"
+93,PATHRAGORDHOI,RAM TOLA,"DeepTubew ell","GroundWater",T/W 8,HandPump,"Tribeniganj QAScheme(0007076885)"
+"","",SARDAR,Shallow,Ground,Inside,"",""
+94,PATHRAGORDHOI,TOLA,Tubew ell,Water,Habitation,HandPump,ARWSP(0001564087)
+95,PATHRAGORDHOI,"SARDARTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001564087)
+96,PATHRAGORDHOI,"SARDARTOLA","DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+97,PATHRAGORDHOI,"SARDARTOLA","DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+98,PATHRAGORDHOI,"SARDARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+99,PATHRAGORDHOI,"SARDARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001977245)
+100,PATHRAGORDHOI,"SARDARTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001977245)
+101,PATHRAGORDHOI,"SARDARTOLA","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"
+102,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001344539)
+103,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001344539)
+104,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001344541)
+105,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001344541)
+106,PATHRAGORDHOI,"YADAVTOLA","DeepTubew ell","GroundWater","",HandPump,"Block Tribeniganj SpotSourceScheme(0004051991)"
+107,PATHRAGORDHOI,"YADAVTOLA","DeepTubew ell","GroundWater","",HandPump,"Latona SouthHp(0004692139)"
+108,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Latona SouthHp(0004692139)"
+109,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001977248)
+110,PATHRAGORDHOI,"YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001977248)
+111,PATHRAGORDHOI,"YADAVTOLA","DeepTubew ell","GroundWater","",HandPump,"Tribeniganj (Piluw aha)Spot SourceScheme(0005708352)"

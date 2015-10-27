@@ -1,0 +1,91 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,RAJPUR,"BHURARAHITOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960493)
+2,RAJPUR,"BHURARAHITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960493)
+3,RAJPUR,"BHURARAHITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390045)
+4,RAJPUR,"BHURARAHITOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390045)
+5,RAJPUR,"BHURARAHITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+6,RAJPUR,"BHURARAHITOLA","DeepTubew ell",Ground Water,"",HandPump,"Pipra AmahaHp(0004681283)"
+7,RAJPUR,"BHURARAHITOLA","DeepTubew ell",Ground Water,"",HandPump,"PIpra Spot SourceScheme(0004016866)"
+8,RAJPUR,"CHAMARTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532940)"
+9,RAJPUR,"CHAMARTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532940)"
+10,RAJPUR,"CHAMARTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532940)"
+11,RAJPUR,"CHAMARTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006548362)"
+12,RAJPUR,DOME TOLA,"DeepTubew ell",Ground Water,"Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532941)"
+13,RAJPUR,DOME TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532941)"
+14,RAJPUR,DOME TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532941)"
+15,RAJPUR,DOME TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Pipra (Pathraha) SpotSourceScheme(0005700775)"
+16,RAJPUR,DOME TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Pipra (Pathraha) SpotSourceScheme(0005700775)"
+17,RAJPUR,"GORIYARITOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960495)
+18,RAJPUR,"GORIYARITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960495)
+19,RAJPUR,"GORIYARITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960495)
+20,RAJPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960496)
+21,RAJPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960496)
+22,RAJPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960496)
+23,RAJPUR,"MUSHARITOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960497)
+24,RAJPUR,"MUSHARITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960497)
+25,RAJPUR,"MUSHARITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960497)
+26,RAJPUR,"PASWANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532942)"
+27,RAJPUR,"PASWANTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532942)"
+28,RAJPUR,"PASWANTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532942)"
+29,RAJPUR,"PASWANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006548383)"
+30,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001400784)
+31,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001400784)
+32,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001400788)
+33,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001400788)
+34,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960498)
+35,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960498)
+36,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960498)
+37,RAJPUR,RAJPUR,"ShallowTubew ell",Ground Water,"PrimarySchoolAnupbabuTola Rampur",HandPump,"SchoolSource(0006560442)"
+38,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960499)
+39,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960499)
+40,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390047)
+41,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390047)
+42,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390049)
+43,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390049)
+44,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390050)
+45,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390050)
+46,RAJPUR,RAJPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+47,RAJPUR,RAJPUR HAT,"DeepTubew ell",Ground Water,"",HandPump,"Pipra AmahaHp(0004681283)"
+48,RAJPUR,RAJPUR HAT,"DeepTubew ell",Ground Water,"",HandPump,"PIpra Spot SourceScheme(0004016866)"
+"","","","","","","",""
+49,RAMPUR,"JAMUHATOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960500)
+50,RAMPUR,"JAMUHATOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960500)
+51,RAMPUR,"JAMUHATOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960500)
+52,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960501)
+53,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960501)
+54,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390060)
+55,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390060)
+56,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390067)
+57,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390067)
+58,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390084)
+59,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390084)
+60,RAMPUR,"KAMARGAMA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+61,RAMPUR,"KAMARGAMA","DeepTubew ell",Ground Water,"",HandPump,"Pipra AmahaHp(0004681283)"
+62,RAMPUR,"KAMARGAMA","DeepTubew ell",Ground Water,"",HandPump,"PIpra Spot SourceScheme(0004016866)"
+63,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001400765)
+64,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001400765)
+65,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001400768)
+66,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001400768)
+67,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001400774)
+68,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001400774)
+69,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390053)
+70,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390053)
+71,RAMPUR,RAM PUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390053)
+72,RAMPUR,RAM PUR,"DeepTubew ell",Ground Water,"Hand PumpNo 1",HandPump,"Nirmali QAScheme(0007084847)"
+73,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001960502)
+74,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960502)
+75,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390080)
+76,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390080)
+77,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390081)
+78,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390081)
+79,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390082)
+80,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390082)
+81,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390083)
+82,RAMPUR,RAMPUR HAT,Shallow,Ground Water,Inside,HandPump,NC/PC(0002390083)
+"","","",Tubew ell,"",Habitation,"",""
+83,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002390094)
+84,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002390094)
+85,RAMPUR,RAMPUR HAT,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+86,RAMPUR,RAMPUR HAT,"DeepTubew ell",Ground Water,"",HandPump,"Pipra AmahaHp(0004681283)"
+87,RAMPUR,RAMPUR HAT,"DeepTubew ell",Ground Water,"",HandPump,"PIpra Spot SourceScheme(0004016866)"

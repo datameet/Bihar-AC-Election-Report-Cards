@@ -1,0 +1,149 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,LALPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532977)"
+2,LALPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532977)"
+3,LALPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532977)"
+4,LALPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+5,LALPATTI,LALPATTI,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532978)"
+6,LALPATTI,LALPATTI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532978)"
+7,LALPATTI,LALPATTI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532978)"
+8,LALPATTI,LALPATTI,"ShallowTubew ell","GroundWater","Middle SchoolLalpatti",HandPump,"SchoolSource(0006555639)"
+9,LALPATTI,LALPATTI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549326)"
+10,LALPATTI,MIYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532979)"
+11,LALPATTI,MIYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532979)"
+12,LALPATTI,MIYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532979)"
+13,LALPATTI,MIYA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549743)"
+14,LALPATTI,TATMA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532980)"
+15,LALPATTI,TATMA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532980)"
+16,LALPATTI,TATMA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532980)"
+17,LALPATTI,TATMA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549775)"
+18,LALPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532981)"
+19,LALPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532981)"
+20,LALPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532981)"
+21,LALPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+22,LALPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+23,MAHICHANDA,"BRAHMANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532982)"
+24,MAHICHANDA,"BRAHMANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532982)"
+25,MAHICHANDA,"BRAHMANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532982)"
+26,MAHICHANDA,"BRAHMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549801)"
+27,MAHICHANDA,"CHAMARTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532983)"
+28,MAHICHANDA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532983)"
+29,MAHICHANDA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532983)"
+30,MAHICHANDA,"CHAMARTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+31,MAHICHANDA,"CHAMARTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+32,MAHICHANDA,"HARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532984)"
+33,MAHICHANDA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532984)"
+34,MAHICHANDA,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532984)"
+35,MAHICHANDA,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549826)"
+36,MAHICHANDA,MAHICHANDA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960524)
+37,MAHICHANDA,MAHICHANDA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960524)
+38,MAHICHANDA,MAHICHANDA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960524)
+39,MAHICHANDA,MAHICHANDA,"DeepTubew ell","GroundWater","",PWS,"Thumha Mini WaterSupplyScheme(0004687296)"
+40,MAHICHANDA,MANDAL,Deep,Ground,"Nc/PcScheme For",SPOT,"Nc/Pc Scheme ForPipra"
+"","",TOLA,Tubew ell,Water,Pipra Block,"",Block(0004532985)
+41,MAHICHANDA,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532985)"
+42,MAHICHANDA,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532985)"
+43,MAHICHANDA,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549846)"
+44,MAHICHANDA,MIYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532986)"
+45,MAHICHANDA,MIYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532986)"
+46,MAHICHANDA,MIYA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532986)"
+47,MAHICHANDA,MIYA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549865)"
+48,MAHICHANDA,"PASWANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532987)"
+49,MAHICHANDA,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532987)"
+50,MAHICHANDA,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532987)"
+51,MAHICHANDA,"PASWANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+52,MAHICHANDA,"PASWANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+53,MAHICHANDA,YADAV TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532988)"
+54,MAHICHANDA,YADAV TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532988)"
+55,MAHICHANDA,YADAV TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532988)"
+56,MAHICHANDA,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549887)"
+57,TULAPATTI,"BRAHMANTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960525)
+58,TULAPATTI,"BRAHMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960525)
+59,TULAPATTI,"BRAHMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960525)
+60,TULAPATTI,"CHAMARTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532989)"
+61,TULAPATTI,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532989)"
+62,TULAPATTI,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532989)"
+63,TULAPATTI,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549912)"
+64,TULAPATTI,"CHOUDHRYTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563704)
+65,TULAPATTI,"CHOUDHRYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563704)
+"","","","","","","",""
+66,TULAPATTI,"CHOUDHRYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563704)
+67,TULAPATTI,"CHOUDHRYTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+68,TULAPATTI,"CHOUDHRYTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+69,TULAPATTI,DOME TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563690)
+70,TULAPATTI,DOME TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563690)
+71,TULAPATTI,DOME TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563690)
+72,TULAPATTI,DOME TOLA,"DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+73,TULAPATTI,DOME TOLA,"DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+74,TULAPATTI,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563693)
+75,TULAPATTI,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563693)
+76,TULAPATTI,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563697)
+77,TULAPATTI,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563697)
+78,TULAPATTI,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563697)
+79,TULAPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+80,TULAPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+81,TULAPATTI,"HARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Thumha) SpotSourceScheme(0005701801)"
+82,TULAPATTI,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549938)"
+83,TULAPATTI,"KHATHBETOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532990)"
+84,TULAPATTI,"KHATHBETOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532990)"
+85,TULAPATTI,"KHATHBETOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532990)"
+86,TULAPATTI,"KHATHBETOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006549979)"
+87,TULAPATTI,LALA TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563700)
+88,TULAPATTI,LALA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563700)
+89,TULAPATTI,LALA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563700)
+90,TULAPATTI,LALA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006550004)"
+91,TULAPATTI,"MANDALTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532991)"
+92,TULAPATTI,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532991)"
+"","",MANDAL,Deep,Ground,Inside,"","Nc/Pc Scheme ForPipra"
+93,TULAPATTI,TOLA,Tubew ell,Water,Habitation,SPOT,Block(0004532991)
+94,TULAPATTI,"MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006550020)"
+95,TULAPATTI,MIYA TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532992)"
+96,TULAPATTI,MIYA TOLA,"DeepTubew ell","GroundWater",Hhhjh,SPOT,"Nc/Pc Scheme ForPipraBlock(0004532992)"
+97,TULAPATTI,MIYA TOLA,"DeepTubew ell","GroundWater",Kjjkk,SPOT,"Nc/Pc Scheme ForPipraBlock(0004532992)"
+98,TULAPATTI,MIYA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006550186)"
+99,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386552)
+100,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386552)
+101,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386554)
+102,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386554)
+103,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960526)
+104,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960526)
+105,TULAPATTI,"PASWANTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960526)
+106,TULAPATTI,RAJPUT TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960527)
+107,TULAPATTI,RAJPUT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960527)
+108,TULAPATTI,RAJPUT TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960527)
+109,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563714)
+110,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563714)
+111,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563717)
+112,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563717)
+113,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960528)
+114,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960528)
+115,TULAPATTI,SAHU TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960528)
+116,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386555)
+117,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386555)
+118,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386558)
+119,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386558)
+120,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386559)
+121,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386559)
+122,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386559)
+123,TULAPATTI,TEKNA TOLA,"DeepTubew ell","GroundWater","Hand PumpNo 1",HandPump,"QA Scheme ForPipra(0007150455)"
+124,TULAPATTI,TEKNA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006550211)"
+"","","","","","","",""
+125,TULAPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532993)"
+126,TULAPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532993)"
+127,TULAPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532993)"
+128,TULAPATTI,THAKUR TOLA,"DeepTubew ell","GroundWater","Hand PumpNo 1",HandPump,"QA Scheme ForPipra(0007150455)"
+129,TULAPATTI,THAKUR TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006550234)"
+130,TULAPATTI,TULAPATTI,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386550)
+131,TULAPATTI,TULAPATTI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386550)
+132,TULAPATTI,TULAPATTI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386550)
+133,TULAPATTI,TULAPATTI,"DeepTubew ell","GroundWater","Hand PumpNo 1",HandPump,"QA Scheme ForPipra(0007150455)"
+134,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563720)
+135,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563720)
+136,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563721)
+137,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563721)
+138,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563723)
+139,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563723)
+140,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563725)
+141,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563725)
+142,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001563725)
+143,TULAPATTI,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006550252)"

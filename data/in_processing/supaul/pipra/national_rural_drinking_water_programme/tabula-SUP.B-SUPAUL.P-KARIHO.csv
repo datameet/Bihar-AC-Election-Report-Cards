@@ -1,0 +1,46 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,KARIHO,BAGHI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533263)"
+2,KARIHO,BAGHI,"DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533263)"
+3,KARIHO,BAGHI,"DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533263)"
+4,KARIHO,BAGHI,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+5,KARIHO,"BAGHIHARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446547)
+6,KARIHO,"BAGHIHARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446547)
+7,KARIHO,"BAGHIHARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446547)
+8,KARIHO,"BAGHIHARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+9,KARIHO,DIH TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+10,KARIHO,DIH TOLA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul SchoolScheme(0004152000)"
+11,KARIHO,DIH TOLA,"DeepTubew ell",Ground Water,"Pramri SchoolDihtola",HandPump,"Supaul SchoolScheme(0004152000)"
+12,KARIHO,"HARIJANTOLA-1","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446550)
+13,KARIHO,"HARIJANTOLA-1","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446550)
+14,KARIHO,"HARIJANTOLA-1","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446550)
+15,KARIHO,"K. HARIJANTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533264)"
+16,KARIHO,"K. HARIJANTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaul"
+"","","","","","","",Block(0004533264)
+17,ARIHO,"K. HARIJANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533264)"
+18,ARIHO,"K. HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+19,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446557)
+20,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446557)
+21,ARIHO,KARIHO,"DeepTubew ell",Ground Water,"",PWS,"Mini Water SupplyScheme With IRP AndSolarPump(0004062689)"
+22,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,MD. Johirudou,HandPump,NC/PC(0001962905)
+23,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001962905)
+24,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988309)
+25,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988309)
+26,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988310)
+27,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988310)
+28,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988311)
+29,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988311)
+30,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988312)
+31,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988312)
+32,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988313)
+33,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988313)
+34,ARIHO,KARIHO,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+35,ARIHO,KARIHO,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
+36,ARIHO,KUMMETH,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0002013648)
+37,ARIHO,KUMMETH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002013648)
+38,ARIHO,KUMMETH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0002013648)
+39,ARIHO,SURKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446552)
+40,ARIHO,SURKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446552)
+41,ARIHO,SURKAHA,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446552)
+42,ARIHO,SURKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006554425)"
+43,ARIHO,SURKAHA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"

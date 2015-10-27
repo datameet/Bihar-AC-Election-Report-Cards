@@ -1,0 +1,139 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,BASAHA,BASAHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386574)
+2,BASAHA,BASAHA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386574)
+3,BASAHA,BASAHA,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386576)
+4,BASAHA,BASAHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386576)
+5,BASAHA,BASAHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386576)
+6,BASAHA,BASAHA,"DeepTubew ell","GroundWater",Hand Pump 6,HandPump,"Pipra QAScheme(0007150164)"
+7,BASAHA,BASAHA,"DeepTubew ell","GroundWater",Hand Pump 5,HandPump,"Pipra QAScheme(0007150164)"
+8,BASAHA,"BRAHMANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532848)"
+9,BASAHA,"BRAHMANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532848)"
+10,BASAHA,"BRAHMANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532848)"
+11,BASAHA,"BRAHMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006546981)"
+12,BASAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386579)
+13,BASAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386579)
+14,BASAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386580)
+15,BASAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386580)
+16,BASAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386580)
+17,BASAHA,"CHAMARTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+18,BASAHA,"CHOUDHARYTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960146)
+19,BASAHA,CHOUDHARY,Shallow,Ground,Inside,HandPump,NC/PC(0001960146)
+"","",TOLA,Tubew ell,Water,Habitation,"",""
+20,BASAHA,"CHOUDHARYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960146)
+21,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960432)
+22,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960432)
+23,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023585)
+24,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023585)
+25,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023586)
+26,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023586)
+27,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023595)
+28,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023595)
+29,BASAHA,GORHI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+30,BASAHA,GORHI TOLA,"DeepTubew ell","GroundWater","",HandPump,"Pipra AmahaHp(0004681283)"
+31,BASAHA,GORHI TOLA,"DeepTubew ell","GroundWater","",HandPump,"PIpra Spot SourceScheme(0004016866)"
+32,BASAHA,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960150)
+33,BASAHA,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960150)
+34,BASAHA,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960150)
+35,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960433)
+36,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960433)
+37,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023596)
+38,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023596)
+39,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023597)
+40,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023597)
+41,BASAHA,JITAN TOLA,"DeepTubew ell","GroundWater","",HandPump,"Pipra AmahaHp(0004681283)"
+42,BASAHA,JITAN TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+43,BASAHA,JITAN TOLA,"DeepTubew ell","GroundWater","",HandPump,"PIpra Spot SourceScheme(0004016866)"
+44,BASAHA,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"ChhatapurHp(0004743184)"
+45,BASAHA,"MANDALTOLA","DeepTubew ell","GroundWater","",HandPump,"ChhatapurHp(0004743184)"
+46,BASAHA,"MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532849)"
+47,BASAHA,"MANDALTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532849)"
+48,BASAHA,"MANDALTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+49,BASAHA,"MUSHARYTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960154)
+50,BASAHA,"MUSHARYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960154)
+"","",MUSHARY,Shallow,Ground,Inside,"",""
+51,BASAHA,TOLA,Tubew ell,Water,Habitation,HandPump,NC/PC(0001960154)
+52,BASAHA,"PURBARITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960155)
+53,BASAHA,"PURBARITOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960155)
+54,BASAHA,"PURBARITOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023598)
+55,BASAHA,"PURBARITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023598)
+56,BASAHA,"PURBARITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023598)
+57,BASAHA,SAHBA TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960157)
+58,BASAHA,SAHBA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960157)
+59,BASAHA,SAHBA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960157)
+60,BASAHA,"THAKURTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001386577)
+61,BASAHA,"THAKURTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001386577)
+62,BASAHA,"THAKURTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"ChhatapurHp(0004743184)"
+63,BASAHA,"THAKURTOLA","DeepTubew ell","GroundWater","",HandPump,"ChhatapurHp(0004743184)"
+64,BASAHA,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960159)
+65,BASAHA,YADAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960159)
+66,BASAHA,YADAV TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960159)
+67,BASAHA,YADAV TOLA,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960161)
+68,BISHUNPUR,BISHAN PUR,"DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532850)"
+69,BISHUNPUR,BISHAN PUR,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532850)"
+70,BISHUNPUR,BISHAN PUR,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532850)"
+71,BISHUNPUR,BISHAN PUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006547402)"
+72,BISHUNPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532851)"
+73,BISHUNPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532851)"
+74,BISHUNPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532851)"
+75,BISHUNPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+76,BISHUNPUR,"DOM TOLABISHANPUR","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532852)"
+77,BISHUNPUR,"DOM TOLABISHANPUR","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532852)"
+78,BISHUNPUR,"DOM TOLABISHANPUR","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532852)"
+79,BISHUNPUR,DOM TOLA,Deep,Ground,"",HandPump,"Pipra (Amaha) SpotSource"
+"","",BISHANPUR,Tubew ell,Water,"","",Scheme(0005699530)
+80,BISHUNPUR,"GADHRIYADOM TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532853)"
+81,BISHUNPUR,"GADHRIYADOM TOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532853)"
+82,BISHUNPUR,"GADHRIYADOM TOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532853)"
+83,BISHUNPUR,"GADHRIYADOM TOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+84,BISHUNPUR,"GADHRIYAHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532854)"
+85,BISHUNPUR,"GADHRIYAHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532854)"
+86,BISHUNPUR,"GADHRIYAHARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532854)"
+87,BISHUNPUR,"GADHRIYAHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+88,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023601)
+89,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023601)
+90,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023613)
+91,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023613)
+92,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023642)
+93,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023642)
+94,BISHUNPUR,"GADHRIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+95,BISHUNPUR,"GADHRIYATOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra AmahaHp(0004681283)"
+96,BISHUNPUR,"GADHRIYATOLA","DeepTubew ell","GroundWater","",HandPump,"PIpra Spot SourceScheme(0004016866)"
+97,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960435)
+98,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960435)
+99,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960436)
+100,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960436)
+101,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023615)
+102,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023615)
+103,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023643)
+104,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023643)
+105,BISHUNPUR,"GAILHIYATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+106,BISHUNPUR,"GAILHIYATOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra AmahaHp(0004681283)"
+107,BISHUNPUR,"GAILHIYATOLA","DeepTubew ell","GroundWater","",HandPump,"PIpra Spot SourceScheme(0004016866)"
+108,BISHUNPUR,"GELIYAHARIJAN","DeepTubew ell","GroundWater","",HandPump,"ChhatapurHp(0004743184)"
+"","",TOLA,"","","","",""
+109,BISHUNPUR,"GELIYAHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"ChhatapurHp(0004743184)"
+110,BISHUNPUR,"GELIYAHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532855)"
+111,BISHUNPUR,"GELIYAHARIJANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532855)"
+112,BISHUNPUR,"GELIYAHARIJANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+113,BISHUNPUR,"HARIJANTOLASUKHASANI","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532856)"
+114,BISHUNPUR,"HARIJANTOLASUKHASANI","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532856)"
+115,BISHUNPUR,"HARIJANTOLASUKHASANI","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532856)"
+116,BISHUNPUR,"HARIJANTOLASUKHASANI","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+117,BISHUNPUR,"JHOKAYARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960437)
+118,BISHUNPUR,"JHOKAYARTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960437)
+119,BISHUNPUR,"JHOKAYARTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0002023614)
+120,BISHUNPUR,"JHOKAYARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0002023614)
+121,BISHUNPUR,"JHOKAYARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Pipra AmahaHp(0004681283)"
+122,BISHUNPUR,"JHOKAYARTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra AmahaHp(0004681283)"
+123,BISHUNPUR,"JHOKAYARTOLA","DeepTubew ell","GroundWater","",HandPump,"PIpra Spot SourceScheme(0004016866)"
+124,BISHUNPUR,"MUSHARITOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532857)"
+125,BISHUNPUR,"MUSHARITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532857)"
+126,BISHUNPUR,"MUSHARITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532857)"
+127,BISHUNPUR,"MUSHARITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006547408)"
+128,BISHUNPUR,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532858)"
+129,BISHUNPUR,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532858)"
+130,BISHUNPUR,"PASWANTOLA","DeepTubew ell","GroundWater","Nc/PcScheme ForPipra Block",SPOT,"Nc/Pc Scheme ForPipraBlock(0004532858)"
+131,BISHUNPUR,"PASWANTOLA","DeepTubew ell","GroundWater","",HandPump,"Pipra (Amaha) SpotSourceScheme(0005699530)"
+132,BISHUNPUR,"SUKHASANITOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960166)
+133,BISHUNPUR,"SUKHASANITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960166)

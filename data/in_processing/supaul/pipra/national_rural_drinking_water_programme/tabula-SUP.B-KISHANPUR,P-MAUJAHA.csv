@@ -1,0 +1,78 @@
+Source Details,"","","","","","",""
+Sno.,Village Name,"HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,MAUJAHA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001333377)
+2,MAUJAHA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001333377)
+3,MAUJAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956556)
+4,MAUJAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956556)
+5,MAUJAHA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956556)
+6,MAUJAHA,"CHOUDHARYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960778)
+7,MAUJAHA,"CHOUDHARYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960778)
+8,MAUJAHA,"CHOUDHARYTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960778)
+9,MAUJAHA,"KHAPBEYTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+10,MAUJAHA,"KHAPBEYTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+11,MAUJAHA,"KHAPBEYTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+12,MAUJAHA,MOUJAHA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001333359)
+13,MAUJAHA,MOUJAHA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001333359)
+14,MAUJAHA,MOUJAHA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001333371)
+15,MAUJAHA,MOUJAHA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001333371)
+16,MAUJAHA,MOUJAHA,"DeepTubew ell","GroundWater","",PWS,"Kishanpur Mini WaterSupply IronAffected(0004676429)"
+17,MAUJAHA,MOUJAHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960780)
+18,MAUJAHA,MOUJAHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960780)
+19,MAUJAHA,MOUJAHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960780)
+"","","","","","","",Kishanpur Block QA
+20,MAUJAHA,MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Habs.Scheme(0004090580)"
+21,MAUJAHA,MUSHAHRI,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+22,MAUJAHA,MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+23,MAUJAHA,MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+24,MAUJAHA,"SHARMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956818)
+25,MAUJAHA,"SHARMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956818)
+26,MAUJAHA,"SHARMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956818)
+27,MAUJAHA,TELEARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956822)
+28,MAUJAHA,TELEARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956822)
+29,MAUJAHA,TELEARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956822)
+30,PACHGACHHIA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+31,PACHGACHHIA,"CHAMARTOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+32,PACHGACHHIA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+33,PACHGACHHIA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+34,PACHGACHHIA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+35,PACHGACHHIA,"PANCHGACHHIYA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960784)
+36,PACHGACHHIA,"PANCHGACHHIYA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960784)
+37,PACHGACHHIA,"PANCHGACHHIYA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960784)
+38,SISWA,SISWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960788)
+39,SISWA,SISWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960788)
+40,SISWA,SISWA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960788)
+41,SISWA,"SISWAMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+42,SISWA,"SISWAMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+43,SISWA,"SISWAMUSAHARI","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+44,SUJANPUR,BUNDH DIH,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+45,SUJANPUR,BUNDH DIH,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+46,SUJANPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+47,SUJANPUR,CHAMAR,Deep,Ground,T/W 2,HandPump,"Kishanpur Iron Aff.Habitation"
+"","",TOLA,Tubew ell,Water,"","",Scheme(0005601982)
+48,UJANPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+49,UJANPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+50,UJANPUR,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+51,UJANPUR,PAKASIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+52,UJANPUR,PAKASIA,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+53,UJANPUR,PAKASIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+54,UJANPUR,PAKASIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+55,UJANPUR,PAKASIA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+56,UJANPUR,RAHI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+57,UJANPUR,RAHI TOLA,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+58,UJANPUR,RAHI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+59,UJANPUR,RAHI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+60,UJANPUR,RAHI TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+61,UJANPUR,SAJANPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956560)
+62,UJANPUR,SAJANPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956560)
+63,UJANPUR,SAJANPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956560)
+64,UJANPUR,"SAJANPURYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
+65,UJANPUR,"SAJANPURYADAV TOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+66,UJANPUR,"SAJANPURYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+67,UJANPUR,"SAJANPURYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
+68,UJANPUR,"SAJANPURYADAV TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Meha SimarHp(0004679204)"
+69,UKMARPUR,SUKMARPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956828)
+70,UKMARPUR,SUKMARPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956828)
+71,UKMARPUR,SUKMARPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956828)
+Delivery Point Reported,"","","",""
+Sno.,Village Name,Habitation Name,Location,Scheme Details
+1,MAUJAHA,MOUJAHA,Inside Habitation,"Kishanpur Mini Water SupplyIron Affected"

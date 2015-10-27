@@ -1,0 +1,117 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,HARDI,"A. GUPTATOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533245)"
+2,HARDI,"A. GUPTATOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533245)"
+3,HARDI,"A. GUPTATOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533245)"
+4,HARDI,"A. GUPTATOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Gopalpur Sire)Spot SourceScheme(0005708161)"
+5,HARDI,"A. MALAHTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533246)"
+6,HARDI,"A. MALAHTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533246)"
+7,HARDI,"A. MALAHTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533246)"
+8,HARDI,"A. MALAHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554379)"
+9,HARDI,"A. MANDALTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448391)
+10,HARDI,"A. MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448391)
+11,HARDI,"A. MANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448391)
+12,HARDI,"A. MUSHAHRITOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533247)"
+13,HARDI,"A. MUSHAHRITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533247)"
+14,HARDI,"A. MUSHAHRITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533247)"
+15,HARDI,"A. MUSHAHRITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554381)"
+16,HARDI,ADIVASI,Deep,Ground,"Nc/Pc SchemeFor Supaul",SPOT,"Nc/Pc Scheme ForSupaul"
+"","",TOLA,Tubew ell,Water,Block,"",Block(0004533248)
+17,HARDI,"ADIVASITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533248)"
+18,HARDI,"ADIVASITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533248)"
+19,HARDI,"ADIVASITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554383)"
+20,HARDI,"AZANYADAVTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533249)"
+21,HARDI,"AZANYADAVTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533249)"
+22,HARDI,"AZANYADAVTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533249)"
+23,HARDI,"AZANYADAVTOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Gopalpur Sire)Spot SourceScheme(0005708161)"
+24,HARDI,B. MUSHAHRI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533250)"
+25,HARDI,B. MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533250)"
+26,HARDI,B. MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533250)"
+27,HARDI,B. MUSHAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554385)"
+28,HARDI,B. MUSHAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554386)"
+29,HARDI,B. RAM TOLA,"ShallowTubew ell","GroundWater","SIKANDARRAM",HandPump,ARWSP(0001740917)
+30,HARDI,B. RAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001740917)
+31,HARDI,B. RAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001740917)
+32,HARDI,B. RAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554389)"
+33,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988293)
+34,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988293)
+35,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988294)
+36,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988294)
+37,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988295)
+38,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988295)
+39,HARDI,"B. YADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SUPAUL HTSCHEME(0002690103)"
+40,HARDI,"B. YADAVTOLA","DeepTubew ell","GroundWater","",HandPump,"SUPAUL HTSCHEME(0002690103)"
+41,HARDI,"BISHANPURRAJPUTTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001988298)
+42,HARDI,"BISHANPURRAJPUTTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988298)
+43,HARDI,"BISHANPURRAJPUTTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001988298)
+"","","","","","","",""
+44,HARDI,"H. GUPTATOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448388)
+45,HARDI,"H. GUPTATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448388)
+46,HARDI,"H. GUPTATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448388)
+47,HARDI,"H. GUPTATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554411)"
+48,HARDI,"H. MALAHTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533251)"
+49,HARDI,"H. MALAHTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533251)"
+50,HARDI,"H. MALAHTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533251)"
+51,HARDI,"H. MALAHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554414)"
+52,HARDI,"H. MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533252)"
+53,HARDI,"H. MANDALTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533252)"
+54,HARDI,"H. MANDALTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533252)"
+55,HARDI,"H. MANDALTOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Gopalpur Sire)Spot SourceScheme(0005708161)"
+56,HARDI,H. MUSHAHRI,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448387)
+57,HARDI,H. MUSHAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448387)
+58,HARDI,H. MUSHAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448387)
+59,HARDI,H. MUSHAHRI,"DeepTubew ell","GroundWater",Hanp Pump 13,HandPump,"QA SchemeSupaul(0007150901)"
+60,HARDI,H. MUSHAHRI,"DeepTubew ell","GroundWater",Hanp Pump 14,HandPump,"QA SchemeSupaul(0007150901)"
+61,HARDI,"H. TANTITOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533253)"
+62,HARDI,"H. TANTITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533253)"
+63,HARDI,"H. TANTITOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533253)"
+64,HARDI,"H. TANTITOLA","DeepTubew ell","GroundWater",Hanp Pump 15,HandPump,"QA SchemeSupaul(0007150901)"
+65,HARDI,"H. TANTITOLA","DeepTubew ell","GroundWater",Hanp Pump 16,HandPump,"QA SchemeSupaul(0007150901)"
+66,HARDI,"H. TANTITOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554416)"
+67,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","ANANTKUMAR",HandPump,ARWSP(0001740907)
+68,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001740907)
+69,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001740912)
+70,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","BHOKUYADAV",HandPump,ARWSP(0001740912)
+71,HARDI,"HARDIYADAVTOLA","DeepTubew ell","GroundWater",Hanp Pump 17,HandPump,"QA SchemeSupaul(0007150901)"
+72,HARDI,"HARDIYADAVTOLA","DeepTubew ell","GroundWater",Hanp Pump 18,HandPump,"QA SchemeSupaul(0007150901)"
+73,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","Middel SchoolHardi",HandPump,SCHOOL(0001986878)
+74,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,SCHOOL(0001986878)
+75,HARDI,"HARDIYADAVTOLA","DeepTubew ell","GroundWater","Middel SchoolHardi",HandPump,"Supaul SchoolScheme(0004152000)"
+76,HARDI,"HARDIYADAVTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Supaul SchoolScheme(0004152000)"
+77,HARDI,HULAS PATTI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448393)
+78,HARDI,HULAS PATTI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001448393)
+79,HARDI,HULAS PATTI,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001448393)
+80,HARDI,HULAS PATTI,"DeepTubew ell","GroundWater","",HandPump,"Supaul (Gopalpur Sire)Spot SourceScheme(0005708161)"
+81,HARDI,KUJRA TOLA,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533254)"
+82,HARDI,KUJRA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533254)"
+83,HARDI,KUJRA TOLA,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533254)"
+84,HARDI,KUJRA TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554417)"
+85,ITAHARI,"I. DHAPARIATOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533255)"
+86,ITAHARI,"I. DHAPARIATOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533255)"
+87,ITAHARI,"I. DHAPARIATOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533255)"
+88,ITAHARI,"I. DHAPARIATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554419)"
+89,ITAHARI,"I. HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001978909)
+90,ITAHARI,"I. HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978909)
+91,ITAHARI,"I. HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001978909)
+92,ITAHARI,I. MUSHAHRI,"DeepTubew ell","GroundWater","Nc/Pc SchemeFor SupaulBlock",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533256)"
+93,ITAHARI,I. MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533256)"
+94,ITAHARI,I. MUSHAHRI,"DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533256)"
+95,ITAHARI,I. MUSHAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554420)"
+96,ITAHARI,"I. PASWANTOLA","DeepTubew ell","GroundWater","Nc/Pc SchemeFor Supaul",SPOT,"Nc/Pc Scheme ForSupaul"
+"","","","","",Block,"",Block(0004533257)
+97,ITAHARI,"I. PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533257)"
+98,ITAHARI,"I. PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533257)"
+99,ITAHARI,"I. PASWANTOLA","DeepTubew ell","GroundWater","",HandPump,"Supaul (Gopalpur Sire)Spot SourceScheme(0005708161)"
+100,ITAHARI,I. RAM TOLA,"ShallowTubew ell","GroundWater","MushararuRam",HandPump,NC/PC(0001962889)
+101,ITAHARI,I. RAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001962889)
+102,ITAHARI,I. RAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001962889)
+103,ITAHARI,I. RAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"SpotSource(0006554423)"
+104,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001741638)
+105,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","YOGANDARYADAV",HandPump,ARWSP(0001741638)
+106,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","BINDASHWARIPASWAN",HandPump,ARWSP(0001741639)
+107,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001741639)
+108,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,SCHOOL(0001986880)
+109,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","Pramri SchoolItahri",HandPump,SCHOOL(0001986880)
+110,ITAHARI,ITAHRI,"DeepTubew ell","GroundWater","",HandPump,"Supaul (Gopalpur Sire)Spot SourceScheme(0005708161)"
+111,ITAHARI,ITAHRI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Supaul SchoolScheme(0004152000)"
+112,ITAHARI,ITAHRI,"DeepTubew ell","GroundWater","Pramri SchoolItahri",HandPump,"Supaul SchoolScheme(0004152000)"

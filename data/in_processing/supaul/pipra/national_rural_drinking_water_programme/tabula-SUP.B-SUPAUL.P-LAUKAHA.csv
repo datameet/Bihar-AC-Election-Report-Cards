@@ -1,0 +1,129 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,JHAHURA,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978947)
+2,JHAHURA,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978947)
+3,JHAHURA,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978947)
+4,JHAHURA,"J. MAHTOTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988322)
+5,JHAHURA,"J. MAHTOTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988322)
+6,JHAHURA,"J. MAHTOTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988323)
+7,JHAHURA,"J. MAHTOTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988323)
+8,JHAHURA,"J. MAHTOTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+9,JHAHURA,"J. MAHTOTOLA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+10,JHAHURA,"J. MAHTOTOLA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"SUPAUL HTSCHEME(0002690103)"
+11,JHAHURA,"J. MAHTOTOLA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
+12,JHAHURA,JHAHURA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988324)
+13,JHAHURA,JHAHURA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988324)
+14,JHAHURA,JHAHURA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988325)
+15,JHAHURA,JHAHURA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988325)
+16,JHAHURA,JHAHURA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+17,JHAHURA,JHAHURA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+18,JHAHURA,JHAHURA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
+19,JHAHURA,"SHARMATOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533271)"
+20,JHAHURA,SHARMA,Deep,Ground Water,Inside,SPOT,"Nc/Pc Scheme ForSupaul"
+"","",TOLA,Tubew ell,"",Habitation,"",Block(0004533271)
+21,JHAHURA,"SHARMATOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533271)"
+22,JHAHURA,"SHARMATOLA","DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+23,LAUKAHA,"ADIVASITOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533272)"
+24,LAUKAHA,"ADIVASITOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533272)"
+25,LAUKAHA,"ADIVASITOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533272)"
+26,LAUKAHA,"ADIVASITOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006554440)"
+27,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001962944)
+28,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001962944)
+29,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001962946)
+30,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001962946)
+31,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001962948)
+32,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001962948)
+33,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001962951)
+34,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001962951)
+35,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988327)
+36,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988327)
+37,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988328)
+38,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988328)
+39,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988329)
+40,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988329)
+41,LAUKAHA,GRERI TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+42,LAUKAHA,GRERI TOLA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+43,LAUKAHA,GRERI TOLA,"DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+44,LAUKAHA,GRERI TOLA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+45,LAUKAHA,"K. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988330)
+46,LAUKAHA,"K. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988330)
+47,LAUKAHA,"K. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988330)
+48,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988332)
+49,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988332)
+50,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988333)
+"","","","","","","",""
+51,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988333)
+52,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988335)
+53,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988335)
+54,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988336)
+55,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988336)
+56,LAUKAHA,KAJHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+57,LAUKAHA,KAJHA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+58,LAUKAHA,KAJHA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+59,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSp(0001448404)
+60,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSp(0001448404)
+61,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSp(0001448406)
+62,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSp(0001448406)
+63,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSp(0001448407)
+64,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSp(0001448407)
+65,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSp(0001448409)
+66,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSp(0001448409)
+67,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988337)
+68,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988337)
+69,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988338)
+70,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988338)
+71,LAUKAHA,"L. HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+72,LAUKAHA,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+73,LAUKAHA,"L. HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+74,LAUKAHA,"L. HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+75,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988339)
+76,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988339)
+77,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988340)
+78,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988340)
+79,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988341)
+80,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988341)
+81,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988342)
+82,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988342)
+83,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988343)
+84,LAUKAHA,LAUKAHA,Shallow,Ground Water,Inside,HandPump,NC/PC(0001988343)
+"","","",Tubew ell,"",Habitation,"",""
+85,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988344)
+86,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988344)
+87,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988345)
+88,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988345)
+89,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988346)
+90,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988346)
+91,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988348)
+92,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988348)
+93,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988349)
+94,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988349)
+95,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988350)
+96,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988350)
+97,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988351)
+98,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988351)
+99,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988352)
+100,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988352)
+101,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988353)
+102,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988353)
+103,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988354)
+104,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988354)
+105,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988355)
+106,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988355)
+107,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988356)
+108,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988356)
+109,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988357)
+110,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988357)
+111,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988358)
+112,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988358)
+113,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988359)
+114,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988359)
+115,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988360)
+116,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988360)
+117,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988362)
+"","","","","","","",""
+118,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988362)
+119,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988363)
+120,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988363)
+121,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"PrimarySchoolGopalpur",HandPump,"SchoolSource(0006565083)"
+122,LAUKAHA,LAUKAHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
+123,LAUKAHA,LAUKAHA,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"

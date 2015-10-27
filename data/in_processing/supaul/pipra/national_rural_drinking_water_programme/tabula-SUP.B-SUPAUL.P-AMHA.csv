@@ -1,0 +1,73 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,AMHA,"A. BADHTOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Amha HtScheme(0004007594)"
+2,AMHA,"A. BADHTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,"Amha HtScheme(0004007594)"
+3,AMHA,"A. BADHTOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Amha HtScheme(0004007594)"
+4,AMHA,"A. BADHTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143737)
+5,AMHA,"A. BADHTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143737)
+6,AMHA,"A. MANDALTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143729)
+7,AMHA,"A. MANDALTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143729)
+8,AMHA,"A. MANDALTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,"MMCY T/WellSupaul(0006496712)"
+9,AMHA,"A. MANDALTOLA","ShallowTubew ell",Ground Water,"ShambhuMandal",HandPump,"MMCY T/WellSupaul(0006496712)"
+10,AMHA,"A. MANDALTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,"PratapganjHp(0004745848)"
+11,AMHA,"A. MANDALTOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"PratapganjHp(0004745848)"
+12,AMHA,"A. MANDALTOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+13,AMHA,"A. PASWANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001978690)
+14,AMHA,"A. PASWANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001978690)
+15,AMHA,"A. PASWANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001978690)
+16,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143705)
+17,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143705)
+18,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143719)
+19,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143719)
+20,AMHA,AMHA,"ShallowTubew ell",Ground Water,"RAMNATHYADAV",HandPump,ARWSP(0001740922)
+"","","","","","","",""
+21,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001740922)
+22,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001740924)
+23,AMHA,AMHA,"ShallowTubew ell",Ground Water,"PRAMRISCHOOL",HandPump,ARWSP(0001740924)
+24,AMHA,AMHA,"DeepTubew ell",Ground Water,"SanskritPrimari SchoolAmha",HandPump,"School Scheme ForSupaulBlock(0005247994)"
+25,AMHA,AMHA,"DeepTubew ell",Ground Water,"Middel SchoolShureya",HandPump,"School Scheme ForSupaulBlock(0005247994)"
+26,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,"School Scheme ForSupaulBlock(0005247994)"
+27,AMHA,AMHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,SCHOOL(0001986670)
+28,AMHA,AMHA,"ShallowTubew ell",Ground Water,"SanskritPrimari SchoolAmha",HandPump,SCHOOL(0001986670)
+29,AMHA,"C. HARIJANTOLA","ShallowTubew ell",Ground Water,"JAGDAVRAM",HandPump,ARWSP(0001740920)
+30,AMHA,"C. HARIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001740920)
+31,AMHA,"C. HARIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001740920)
+32,AMHA,"C. HARIJANTOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+33,AMHA,CHOURI PATTI,"DeepTubew ell",Ground Water,"In SideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533162)"
+34,AMHA,CHOURI PATTI,"DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533162)"
+35,AMHA,CHOURI PATTI,"DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"PratapganjHp(0004745848)"
+36,AMHA,CHOURI PATTI,"DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"PratapganjHp(0004745848)"
+37,AMHA,CHOURI PATTI,"DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Supaul (Amha) SpotSourceScheme(0005708128)"
+38,AMHA,"L. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987739)
+39,AMHA,"L. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987739)
+40,AMHA,"L. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987740)
+41,AMHA,"L. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987740)
+42,AMHA,"L. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987740)
+43,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143749)
+44,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,ARWSP(0001143749)
+45,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962908)
+46,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962908)
+47,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962910)
+48,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962910)
+49,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962912)
+50,AMHA,LATRAHA,Shallow,Ground Water,In Side,HandPump,NC/PC(0001962912)
+"","","",Tubew ell,"",Habitation,"",""
+51,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962915)
+52,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001962915)
+53,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987743)
+54,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987743)
+55,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987744)
+56,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987744)
+57,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987746)
+58,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987746)
+59,AMHA,LATRAHA,"ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987746)
+60,AMHA,"S. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987747)
+61,AMHA,"S. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987747)
+62,AMHA,"S. HALRIJANTOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987747)
+63,AMHA,"SAPEGARHAY. TOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987749)
+64,AMHA,"SAPEGARHAY. TOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987749)
+65,AMHA,"SAPEGARHAY. TOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987750)
+66,AMHA,"SAPEGARHAY. TOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,NC/PC(0001987750)
+67,AMHA,"SAPEGARHAY. TOLA","ShallowTubew ell",Ground Water,"In SideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+68,AMHA,"SAPEGARHAY. TOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+69,AMHA,"SAPEGARHAY. TOLA","DeepTubew ell",Ground Water,"In SideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
