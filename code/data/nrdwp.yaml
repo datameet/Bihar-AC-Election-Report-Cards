@@ -90,4 +90,10 @@ exports:
     #  filename: "Supaul__Chattapur_nrdw.csv"     
 
     #- query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from nirmali_nrdw' 
-    #  filename: "Supaul__Nirmali_nrdw.csv"            
+    #  filename: "Supaul__Nirmali_nrdw.csv"      
+    
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from pipra_nrdw' 
+      filename: "Supaul__Pipra_nrdw.csv"     
+
+    - query: 'SELECT  rowid,  col_no1 as Disctrict,  col_no2 as AC,  col_no3 as Block, col_no4 as Panchayat, "Sno.","Village Name", "Habitation Name","Source Type","Source Type Category Location","Location","Type","Scheme Name" from supaul_nrdw' 
+      filename: "Supaul__Supaul_nrdw.csv"         
