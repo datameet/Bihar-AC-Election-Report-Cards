@@ -3,6 +3,10 @@
 rename 's/tabula-SUP.B-/Data__Supaul__Nirmali__/' *.*
 rename 's/.P-/__/' *.*
 rename 's/ /_/' *.*
+rename 's/tabula-Quality Affected - Madhubani district/Data__Quality__Affected__Madhubani/' *.*
+
+
+
 
 
 #Count the no of rows in a folder
@@ -60,8 +64,19 @@ python merge.py -f ./../../data/in_processing/supaul/triveniganj/national_rural_
 
 
 
+python merge.py -f ./../../data/in_processing/madhubani/babubarhi/sanitation -o babubarhi_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/benipatti/sanitation -o benipatti_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/bisfi/sanitation -o bisfi_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/harlakhi/sanitation -o harlakhi_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/jhanjharpur/sanitation -o jhanjharpur_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/khajauli/sanitation -o khajauli_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/laukaha/sanitation -o laukaha_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/madhubani/sanitation -o madhubani_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/phulparas/sanitation -o phulparas_sanitation
+python merge.py -f ./../../data/in_processing/madhubani/rajnagar/sanitation -o rajnagar_sanitation
 
 
+python merge.py -f ./../../data/in_processing/madhubani/water_quality -o madhubani_water_quality
 
 
 
