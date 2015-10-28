@@ -1,0 +1,135 @@
+Source Details,"","","","","","",""
+Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
+1,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446489)
+2,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446489)
+3,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446491)
+4,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446491)
+5,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988473)
+6,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988473)
+7,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988474)
+8,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988474)
+9,NEMUA,"N.CHOUDHARYTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+10,NEMUA,"N.CHOUDHARYTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+11,NEMUA,"N.CHOUDHARYTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+12,NEMUA,"N.CHOUDHARYTOLA","DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+13,NEMUA,"N.CHOUDHARYTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+14,NEMUA,"N. HARIJANTOLA","ShallowTubew ell",Ground Water,MD. ABBAS,HandPump,ARWSP(0001740417)
+"","",N. HARIJAN,Shallow,"",Inside,"",""
+15,NEMUA,TOLA,Tubew ell,Ground Water,Habitation,HandPump,ARWSP(0001740417)
+16,NEMUA,"N. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001741598)
+17,NEMUA,"N. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001741598)
+18,NEMUA,"N. HARIJANTOLA","ShallowTubew ell",Ground Water,KAMAL RAM,HandPump,ARWSP(0001741598)
+19,NEMUA,"N. HARIJANTOLA","DeepTubew ell",Ground Water,"Hand PumpNo 3",HandPump,"QA SchemeSupaul(0007150901)"
+20,NEMUA,"N. HARIJANTOLA","DeepTubew ell",Ground Water,"Hand PumpNo 4",HandPump,"QA SchemeSupaul(0007150901)"
+21,NEMUA,"N. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006554766)"
+22,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988475)
+23,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988475)
+24,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988476)
+25,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988476)
+26,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988477)
+27,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988477)
+28,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988478)
+29,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988478)
+30,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988488)
+31,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988488)
+32,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988489)
+33,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988489)
+34,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988493)
+35,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988493)
+36,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988494)
+37,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988494)
+38,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988495)
+39,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988495)
+40,NEMUA,NEMUA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+41,NEMUA,NEMUA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+42,NEMUA,NEMUA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+43,NEMUA,NEMUA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+44,"RAMDATPATTI","K. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446480)
+45,"RAMDATPATTI","K. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446480)
+46,"RAMDATPATTI","K. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446480)
+47,"RAMDATPATTI","K. HARIJANTOLA","DeepTubew ell",Ground Water,"Hand PumpNo 5",HandPump,"QA SchemeSupaul(0007150901)"
+48,RAMDAT,K. HARIJAN,Deep,Ground Water,Hand Pump,HandPump,QA Scheme
+"",PATTI,TOLA,Tubew ell,"",No 6,"",Supaul(0007150901)
+49,"RAMDATPATTI","K. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006554769)"
+50,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988498)
+51,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988498)
+52,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988510)
+53,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988510)
+54,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988512)
+55,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988512)
+56,"RAMDATPATTI",KALIGANJ,"DeepTubew ell",Ground Water,"",PWS,"Ramdat Patti MiniWater SupplyScheme(0004687156)"
+57,"RAMDATPATTI",KALIGANJ,"DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+58,"RAMDATPATTI",KALIGANJ,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+59,"RAMDATPATTI",KALIGANJ,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
+60,"RAMDATPATTI","L. HARIJANTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533279)"
+61,"RAMDATPATTI","L. HARIJANTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533279)"
+62,"RAMDATPATTI","L. HARIJANTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533279)"
+63,"RAMDATPATTI","L. HARIJANTOLA","DeepTubew ell",Ground Water,"Hand PumpNo 7",HandPump,"QA SchemeSupaul(0007150901)"
+64,"RAMDATPATTI","L. HARIJANTOLA","DeepTubew ell",Ground Water,"Hand PumpNo 8",HandPump,"QA SchemeSupaul(0007150901)"
+65,"RAMDATPATTI","L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006554773)"
+66,"RAMDATPATTI","LAKHANIPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988513)
+67,"RAMDATPATTI","LAKHANIPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988513)
+68,"RAMDATPATTI","LAKHANIPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988513)
+69,"RAMDATPATTI","R. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988514)
+70,"RAMDATPATTI","R. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"NC/ C(0001988514)9"
+71,"RAMDATPATTI","R. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988514)
+72,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988509)
+73,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988509)
+74,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988511)
+75,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988511)
+76,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988523)
+77,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988523)
+78,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988527)
+79,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988527)
+80,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988528)
+81,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988528)
+82,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988530)
+83,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988530)
+84,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988533)
+85,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988533)
+86,"RAMDATPATTI","RAMDATTPATTI","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+87,"RAMDATPATTI","RAMDATTPATTI","DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+88,"RAMDATPATTI","RAMDATTPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+89,"RAMDATPATTI","RAMDATTPATTI","DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+90,"RAMDATPATTI","RAMDATTPATTI","DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+91,RAMPUR,"CHHARAPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988531)
+92,RAMPUR,"CHHARAPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988531)
+93,RAMPUR,"CHHARAPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988532)
+94,RAMPUR,"CHHARAPATTI","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988532)
+95,RAMPUR,"CHHARAPATTI","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+96,RAMPUR,"CHHARAPATTI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+97,RAMPUR,"CHHARAPATTI","DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+98,RAMPUR,"CHHARAPATTI","DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+99,RAMPUR,"CHHARAPATTI","DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+100,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446495)
+101,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446495)
+102,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446499)
+103,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446499)
+104,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,BACHA RAM,HandPump,ARWSP(0001740408)
+105,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001740408)
+106,RAMPUR,"HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001740408)
+107,RAMPUR,"HARIJANTOLA","DeepTubew ell",Ground Water,"Hand PumpNo 1",HandPump,"QA SchemeSupaul(0007150901)"
+108,RAMPUR,"HARIJANTOLA-1","DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533280)"
+109,RAMPUR,"HARIJANTOLA-1","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533280)"
+110,RAMPUR,"HARIJANTOLA-1","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533280)"
+"","","","","","","",""
+111,RAMPUR,"HARIJANTOLA-1","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+112,RAMPUR,PUNARBAS,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988537)
+113,RAMPUR,PUNARBAS,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988537)
+114,RAMPUR,PUNARBAS,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988540)
+115,RAMPUR,PUNARBAS,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988540)
+116,RAMPUR,PUNARBAS,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+117,RAMPUR,PUNARBAS,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+118,RAMPUR,PUNARBAS,"DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+119,RAMPUR,PUNARBAS,"DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+120,RAMPUR,PUNARBAS,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
+121,RAMPUR,RAMPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988541)
+122,RAMPUR,RAMPUR,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988541)
+123,RAMPUR,RAMPUR,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988542)
+124,RAMPUR,RAMPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988542)
+125,RAMPUR,RAMPUR,"DeepTubew ell",Ground Water,"Hand PumpNo 2",HandPump,"QA SchemeSupaul(0007150901)"
+126,RAMPUR,RAMPUR,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
+127,RAMPUR,RAMPUR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
+128,RAMPUR,RAMPUR,"DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
+129,RAMPUR,RAMPUR,"DeepTubew ell",Ground Water,"",HandPump,"SUPAUL HTSCHEME(0002690103)"
+130,RAMPUR,RAMPUR,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
