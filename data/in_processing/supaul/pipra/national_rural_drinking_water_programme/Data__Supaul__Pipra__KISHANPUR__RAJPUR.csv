@@ -1,72 +1,69 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336199)
-2,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336199)
-3,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336201)
-4,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336201)
-5,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336204)
-6,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336204)
-7,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960812)
-8,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960812)
-9,BELATARHA,BELA TERHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-10,BELATARHA,BELA TERHA,"DeepTubew ell","GroundWater","DurgaAshtahanMiddel SchoolBelatarha",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-11,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955026)
-12,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955026)
-13,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater",Suleman,HandPump,NC/PC(0001955522)
-14,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955522)
-15,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955685)
-16,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater",Jathar,HandPump,NC/PC(0001955685)
-17,BELATARHA,"BELA TERHAM TOLA","ShallowTubew ell","GroundWater",Meraj,HandPump,NC/PC(0001955688)
-"","",EAST,"","","","",""
-18,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955688)
-19,BELATARHA,"BELA TERHAM TOLAEAST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955688)
-20,BELATARHA,"BELA TERHAM TOLAWEST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960814)
-21,BELATARHA,"BELA TERHAM TOLAWEST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960814)
-22,BELATARHA,"BELA TERHAM TOLAWEST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960814)
-23,BELATARHA,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957607)
-24,BELATARHA,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957607)
-25,BELATARHA,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957607)
-26,BELATARHA,NEMANMA,"ShallowTubew ell","GroundWater",Amala Devi,HandPump,NC/PC(0001955314)
-27,BELATARHA,NEMANMA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955314)
-28,BELATARHA,NEMANMA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955337)
-29,BELATARHA,NEMANMA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955337)
-30,BELATARHA,NEMANMA,"DeepTubew ell","GroundWater","HanumanMandirNurkuchiya 43",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-31,BELATARHA,NEMANMA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-32,RAJPUR,RAJPUR,"ShallowTubew ell","GroundWater","INDARRAJVAR",HandPump,ARWSP(0001743557)
-33,RAJPUR,RAJPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001743557)
-34,RAJPUR,RAJPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"ChhatapurAnganw adiScheme(0005084771)"
-35,RAJPUR,RAJPUR,"DeepTubew ell","GroundWater","Primay SchoolMandal TolaRajpur 109",HandPump,"ChhatapurAnganw adiScheme(0005084771)"
-36,RAJPUR,RAJPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960816)
-37,RAJPUR,RAJPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960816)
-38,RAJPUR,RAJPUR,"DeepTubew ell","GroundWater","Primary SchoolMandal TolaRajpur 22",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-39,RAJPUR,"RAJPUREAST TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960819)
-40,RAJPUR,"RAJPUREAST TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960819)
-41,RAJPUR,"RAJPUREAST TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960819)
-42,RAJPUR,"RAJPURHARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336787)
-43,RAJPUR,"RAJPURHARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336787)
-44,RAJPUR,"RAJPURHARIJANTOLA","ShallowTubew ell","GroundWater",CHHANDU RAM,HandPump,ARWSP(0001743551)
-"","",RAJPUR,"","","","",""
-45,RAJPUR,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001743551)
-46,RAJPUR,"RAJPURHARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-47,RAJPUR,"RAJPURHARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-48,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-49,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-50,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-51,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-52,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-53,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-54,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-55,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-56,RAJPUR,"RAJPURSOUTH TOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Marauna Spot SourceScheme(0004018110)"
-57,SISAUNI,SISONEE,"ShallowTubew ell","GroundWater","RAMNARAYANYADAV",HandPump,ARWSP(0001743562)
-58,SISAUNI,SISONEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001743562)
-59,SISAUNI,SISONEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960821)
-60,SISAUNI,SISONEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960821)
-61,SISAUNI,SISONEE,"DeepTubew ell","GroundWater","Middel SchoolSisauni 15",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-62,SISAUNI,SISONEE,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Saraigarh Anganw adiScheme(0005084659)"
-63,SISAUNI,"SISONEE HTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957610)
-64,SISAUNI,"SISONEE HTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957610)
-65,SISAUNI,"SISONEE HTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957610)
-66,SISAUNI,"SISONEENONIA TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957613)
-67,SISAUNI,"SISONEENONIA TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957613)
-68,SISAUNI,"SISONEENONIA TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957613)
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336199)
+2,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336199)
+3,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336201)
+4,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336201)
+5,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336204)
+6,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336204)
+7,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960812)
+8,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960812)
+9,BELATARHA,BELA TERHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+10,BELATARHA,BELA TERHA,Deep Tubew ell,Ground Water,Durga Ashtahan Middel School Belatarha,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+11,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955026)
+12,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955026)
+13,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Suleman,HandPump,NC/PC(0001955522)
+14,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955522)
+15,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955685)
+16,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Jathar,HandPump,NC/PC(0001955685)
+17,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Meraj,HandPump,NC/PC(0001955688)
+18,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955688)
+19,BELATARHA,BELA TERHA M TOLA EAST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955688)
+20,BELATARHA,BELA TERHA M TOLA WEST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960814)
+21,BELATARHA,BELA TERHA M TOLA WEST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960814)
+22,BELATARHA,BELA TERHA M TOLA WEST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960814)
+23,BELATARHA,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957607)
+24,BELATARHA,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957607)
+25,BELATARHA,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957607)
+26,BELATARHA,NEMANMA,Shallow Tubew ell,Ground Water,Amala Devi,HandPump,NC/PC(0001955314)
+27,BELATARHA,NEMANMA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955314)
+28,BELATARHA,NEMANMA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955337)
+29,BELATARHA,NEMANMA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955337)
+30,BELATARHA,NEMANMA,Deep Tubew ell,Ground Water,Hanuman Mandir Nurkuchiya 43,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+31,BELATARHA,NEMANMA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+32,RAJPUR,RAJPUR,Shallow Tubew ell,Ground Water,INDAR RAJVAR,HandPump,ARWSP(0001743557)
+33,RAJPUR,RAJPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001743557)
+34,RAJPUR,RAJPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Chhatapur Anganw adi Scheme(0005084771)
+35,RAJPUR,RAJPUR,Deep Tubew ell,Ground Water,Primay School Mandal Tola Rajpur 109,HandPump,Chhatapur Anganw adi Scheme(0005084771)
+36,RAJPUR,RAJPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960816)
+37,RAJPUR,RAJPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960816)
+38,RAJPUR,RAJPUR,Deep Tubew ell,Ground Water,Primary School Mandal Tola Rajpur 22,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+39,RAJPUR,RAJPUR EAST TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960819)
+40,RAJPUR,RAJPUR EAST TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960819)
+41,RAJPUR,RAJPUR EAST TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960819)
+42,RAJPUR,RAJPUR HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336787)
+43,RAJPUR,RAJPUR HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336787)
+44,RAJPUR,RAJPUR HARIJAN TOLA,Shallow Tubew ell,Ground Water,CHHANDU RAM,HandPump,ARWSP(0001743551)
+45,RAJPUR,RAJPUR HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001743551)
+46,RAJPUR,RAJPUR HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+47,RAJPUR,RAJPUR HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+48,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+49,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,T/W 2,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+50,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+51,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+52,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+53,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+54,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+55,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+56,RAJPUR,RAJPUR SOUTH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Marauna Spot Source Scheme(0004018110)
+57,SISAUNI,SISONEE,Shallow Tubew ell,Ground Water,RAMNARAYAN YADAV,HandPump,ARWSP(0001743562)
+58,SISAUNI,SISONEE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001743562)
+59,SISAUNI,SISONEE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960821)
+60,SISAUNI,SISONEE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960821)
+61,SISAUNI,SISONEE,Deep Tubew ell,Ground Water,Middel School Sisauni 15,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+62,SISAUNI,SISONEE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Saraigarh Anganw adi Scheme(0005084659)
+63,SISAUNI,SISONEE H TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957610)
+64,SISAUNI,SISONEE H TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957610)
+65,SISAUNI,SISONEE H TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957610)
+66,SISAUNI,SISONEE NONIA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957613)
+67,SISAUNI,SISONEE NONIA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957613)
+68,SISAUNI,SISONEE NONIA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957613)

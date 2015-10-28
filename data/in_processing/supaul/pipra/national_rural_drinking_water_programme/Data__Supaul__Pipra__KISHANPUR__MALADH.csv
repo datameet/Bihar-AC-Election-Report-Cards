@@ -1,33 +1,31 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,MALAR,MAHI PATTE,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960677)
-2,MALAR,MAHI PATTE,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960677)
-3,MALAR,MAHI PATTE,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960677)
-4,MALAR,MALADH,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001336148)
-5,MALAR,MALADH,"DeepTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001336148)
-6,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001563888)
-7,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001563888)
-8,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001563892)
-9,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001563892)
-10,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960679)
-11,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960679)
-12,MALAR,MALADH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960679)
-13,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,Bhola Sada,HandPump,NC/PC(0001955691)
-14,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001955691)
-15,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001955695)
-16,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,Sikardalala,HandPump,NC/PC(0001955695)
-17,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,"Suman KumarSada",HandPump,NC/PC(0001956188)
-18,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956188)
-19,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960680)
-20,MALAR,MUSAHARI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960680)
-21,MALAR,MUSAHARI,Shallow,Ground Water,Inside,HandPump,NC/PC(0001960680)
-"","","",Tubew ell,"",Habitation,"",""
-22,MALAR,"THARIBRAHAMANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956495)
-23,MALAR,"THARIBRAHAMANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956495)
-24,MALAR,"THARIBRAHAMANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956495)
-25,MALAR,THARIA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956502)
-26,MALAR,THARIA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956502)
-27,MALAR,THARIA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001956502)
-28,MALAR,"THARIAMUSAHARI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960682)
-29,MALAR,"THARIAMUSAHARI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960682)
-30,MALAR,"THARIAMUSAHARI","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001960682)
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,SchemeName
+1,MALAR,MAHIPATTE,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960677)
+2,MALAR,MAHIPATTE,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960677)
+3,MALAR,MAHIPATTE,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960677)
+4,MALAR,MALADH,Deep Tubewell,GroundWater,Inside Habitation,HandPump,ARWSP(0001336148)
+5,MALAR,MALADH,Deep Tubewell,GroundWater,Inside Habitation,HandPump,ARWSP(0001336148)
+6,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,ARWSP(0001563888)
+7,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,ARWSP(0001563888)
+8,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,ARWSP(0001563892)
+9,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,ARWSP(0001563892)
+10,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960679)
+11,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960679)
+12,MALAR,MALADH,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960679)
+13,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,BholaSada,HandPump,NC/PC(0001955691)
+14,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001955691)
+15,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001955695)
+16,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Sikardalala,HandPump,NC/PC(0001955695)
+17,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,SumanKumar Sada,HandPump,NC/PC(0001956188)
+18,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956188)
+19,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960680)
+20,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960680)
+21,MALAR,MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960680)
+22,MALAR,THARI BRAHAMAN TOLA,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956495)
+23,MALAR,THARI BRAHAMAN TOLA,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956495)
+24,MALAR,THARI BRAHAMAN TOLA,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956495)
+25,MALAR,THARIA,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956502)
+26,MALAR,THARIA,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956502)
+27,MALAR,THARIA,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001956502)
+28,MALAR,THARIA MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960682)
+29,MALAR,THARIA MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960682)
+30,MALAR,THARIA MUSAHARI,Shallow Tubewell,GroundWater,Inside Habitation,HandPump,NC/PC(0001960682)

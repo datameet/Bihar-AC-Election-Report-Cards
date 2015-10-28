@@ -1,59 +1,56 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BARHATHA,BASHATHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960831)
-2,BARHATHA,BASHATHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960831)
-3,BARHATHA,BASHATHA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960831)
-4,BARHATHA,"CHHATTOPATLE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960834)
-5,BARHATHA,"CHHATTOPATLE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960834)
-6,BARHATHA,"CHHATTOPATLE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960834)
-7,BARHATHA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-8,BARHATHA,MUSAHARI,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-9,BARHATHA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-10,BARHATHA,MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-11,BARHATHA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-12,BARHATHA,MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955725)
-13,BARHATHA,MUSAHARI,"ShallowTubew ell","GroundWater","Ram NanduYadav",HandPump,NC/PC(0001955725)
-14,"MAHISARDARCHAKLA","MAHISARDARCHAKLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961668)
-15,"MAHISARDARCHAKLA","MAHISARDARCHAKLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961668)
-16,"MAHISARDARCHAKLA","MAHISARDARCHAKLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961668)
-17,"MAHISARDAR",MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs."
-"",CHAKLA,"","","","","",Scheme(0004090580)
-18,"MAHISARDARCHAKLA",MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-19,"MAHISARDARCHAKLA",MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-20,"MAHISARDARCHAKLA",MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955729)
-21,"MAHISARDARCHAKLA",MUSAHARI,"ShallowTubew ell","GroundWater",Gulab Kumar,HandPump,NC/PC(0001955729)
-22,"SUKHASAN(PT-KISHANPUR) *",CHILHABA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961670)
-23,"SUKHASAN(PT-KISHANPUR) *",CHILHABA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961670)
-24,"SUKHASAN(PT-KISHANPUR) *",CHILHABA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961670)
-25,"SUKHASAN(PT-KISHANPUR) *","HANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957641)
-26,"SUKHASAN(PT-KISHANPUR) *","HANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957641)
-27,"SUKHASAN(PT-KISHANPUR) *","HANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957641)
-28,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957643)
-29,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957643)
-30,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957643)
-31,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA MIDLE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957647)
-32,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA MIDLE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957647)
-33,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA MIDLE","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957647)
-34,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA WEST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957649)
-35,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA WEST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957649)
-36,"SUKHASAN(PT-KISHANPUR) *","HARIJANTOLA WEST","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957649)
-37,"SUKHASAN(PT-KISHANPUR) *",NAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961674)
-38,"SUKHASAN(PT-KISHANPUR) *",NAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961674)
-39,"SUKHASAN(PT-KISHANPUR) *",NAV TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961674)
-"",SUKHASAN,"",Shallow,Ground,Inside,"",""
-40,"(PT-KISHANPUR) *",SHE TOLA,Tubew ell,Water,Habitation,HandPump,NC/PC(0001957654)
-41,"SUKHASAN(PT-KISHANPUR) *",SHE TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957654)
-42,"SUKHASAN(PT-KISHANPUR) *",SHE TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001957654)
-43,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335571)
-44,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335571)
-45,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335577)
-46,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335577)
-47,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335583)
-48,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335583)
-49,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335589)
-50,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335589)
-51,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335591)
-52,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335591)
-53,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961677)
-54,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961677)
-55,"SUKHASAN(PT-KISHANPUR) *",SUKHASAN,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001961677)
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BARHATHA,BASHATHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960831)
+2,BARHATHA,BASHATHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960831)
+3,BARHATHA,BASHATHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960831)
+4,BARHATHA,CHHATTO PATLE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960834)
+5,BARHATHA,CHHATTO PATLE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960834)
+6,BARHATHA,CHHATTO PATLE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960834)
+7,BARHATHA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+8,BARHATHA,MUSAHARI,Deep Tubew ell,Ground Water,T/W 2,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+9,BARHATHA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+10,BARHATHA,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+11,BARHATHA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+12,BARHATHA,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955725)
+13,BARHATHA,MUSAHARI,Shallow Tubew ell,Ground Water,Ram Nandu Yadav,HandPump,NC/PC(0001955725)
+14,MAHI SARDAR CHAKLA,MAHI SARDAR CHAKLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961668)
+15,MAHI SARDAR CHAKLA,MAHI SARDAR CHAKLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961668)
+16,MAHI SARDAR CHAKLA,MAHI SARDAR CHAKLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961668)
+17,MAHI SARDAR CHAKLA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs.
+18,MAHI SARDAR CHAKLA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+19,MAHI SARDAR CHAKLA,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+20,MAHI SARDAR CHAKLA,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955729)
+21,MAHI SARDAR CHAKLA,MUSAHARI,Shallow Tubew ell,Ground Water,Gulab Kumar,HandPump,NC/PC(0001955729)
+22,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,CHILHABA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961670)
+23,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,CHILHABA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961670)
+24,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,CHILHABA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961670)
+25,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957641)
+26,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957641)
+27,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957641)
+28,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957643)
+29,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957643)
+30,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957643)
+31,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA MIDLE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957647)
+32,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA MIDLE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957647)
+33,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA MIDLE,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957647)
+34,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA WEST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957649)
+35,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA WEST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957649)
+36,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,HARIJAN TOLA WEST,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957649)
+37,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,NAV TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961674)
+38,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,NAV TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961674)
+39,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,NAV TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961674)
+40,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SHE TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957654)
+41,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SHE TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957654)
+42,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SHE TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001957654)
+43,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335571)
+44,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335571)
+45,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335577)
+46,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335577)
+47,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335583)
+48,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335583)
+49,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335589)
+50,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335589)
+51,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335591)
+52,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335591)
+53,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961677)
+54,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961677)
+55,SUKHASAN (PT+AC0- KISHANPUR) +ACo-,SUKHASAN,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001961677)

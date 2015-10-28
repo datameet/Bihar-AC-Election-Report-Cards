@@ -1,60 +1,57 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,LAURAH,"A. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001978952)
-2,LAURAH,"A. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978952)
-3,LAURAH,"A. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978952)
-4,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988364)
-5,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988364)
-6,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988366)
-7,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988366)
-8,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988367)
-9,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988367)
-10,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988368)
-11,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988368)
-12,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988369)
-13,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988369)
-14,LAURAH,ANDAULI,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul AmhaHp(0004686617)"
-15,LAURAH,ANDAULI,"DeepTubew ell",Ground Water,"",HandPump,"Supaul AmhaHp(0004686617)"
-16,LAURAH,ANDAULI,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
-17,LAURAH,"B. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988370)
-18,LAURAH,"B. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988370)
-19,LAURAH,"B. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988370)
-20,LAURAH,"BAUNARAINMANDALTOLA","DeepTubew ell",Ground Water,"Nc/PcScheme ForSupaul Block",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533273)"
-"","","","","","","",""
-21,LAURAH,"BAUNARAINMANDALTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533273)"
-22,LAURAH,"BAUNARAINMANDALTOLA","DeepTubew ell",Ground Water,"InsideHabitation",SPOT,"Nc/Pc Scheme ForSupaulBlock(0004533273)"
-23,LAURAH,"BAUNARAINMANDALTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"SpotSource(0006554442)"
-24,LAURAH,JAMUHA,"ShallowTubew ell",Ground Water,"Bharat Pd.Yadav",HandPump,NC/PC(0001963232)
-25,LAURAH,JAMUHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001963232)
-26,LAURAH,JAMUHA,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001963232)
-27,LAURAH,JAMUHA,"DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
-28,LAURAH,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446626)
-29,LAURAH,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446626)
-30,LAURAH,"L. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446626)
-31,LAURAH,"L. HARIJANTOLA","DeepTubew ell",Ground Water,"",HandPump,"Supaul (GopalpurSire) Spot SourceScheme(0005708161)"
-32,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446625)
-33,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446625)
-34,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446627)
-35,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446627)
-36,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"",HandPump,ARWSP(0001446628)
-37,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,ARWSP(0001446628)
-38,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988371)
-39,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988371)
-40,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988372)
-41,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988372)
-42,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988374)
-43,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988374)
-44,LAURAH,LOURDH,"DeepTubew ell",Ground Water,"",HandPump,"Supaul Spot SourceScheme(0004017607)"
-45,LAURAH,LOURDH,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,"Supaul Spot SourceScheme(0004017607)"
-46,LAURAH,"S. HARIJANTOLA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001978965)
-47,LAURAH,"S. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978965)
-48,LAURAH,"S. HARIJANTOLA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978965)
-49,LAURAH,SEMAIR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001963227)
-50,LAURAH,SEMAIR,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001963227)
-51,LAURAH,SEMAIR,"ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001978971)
-"","","","","","","",""
-52,LAURAH,SEMAIR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978971)
-53,LAURAH,SEMAIR,"ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001978971)
-54,"SORHIMALIKAN","SARHIMALIKANA","ShallowTubew ell",Ground Water,"",HandPump,NC/PC(0001988373)
-55,"SORHIMALIKAN","SARHIMALIKANA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988373)
-56,"SORHIMALIKAN","SARHIMALIKANA","ShallowTubew ell",Ground Water,"InsideHabitation",HandPump,NC/PC(0001988373)
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,LAURAH,A. HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001978952)
+2,LAURAH,A. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001978952)
+3,LAURAH,A. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001978952)
+4,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988364)
+5,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988364)
+6,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988366)
+7,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988366)
+8,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988367)
+9,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988367)
+10,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988368)
+11,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988368)
+12,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988369)
+13,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988369)
+14,LAURAH,ANDAULI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Supaul Amha Hp(0004686617)
+15,LAURAH,ANDAULI,Deep Tubew ell,Ground Water,,HandPump,Supaul Amha Hp(0004686617)
+16,LAURAH,ANDAULI,Deep Tubew ell,Ground Water,,HandPump,Supaul Spot Source Scheme(0004017607)
+17,LAURAH,B. HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988370)
+18,LAURAH,B. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988370)
+19,LAURAH,B. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988370)
+20,LAURAH,BAUNARAIN MANDAL TOLA,Deep Tubew ell,Ground Water,Nc/Pc Scheme For Supaul Block,SPOT,Nc/Pc Scheme For Supaul Block(0004533273)
+21,LAURAH,BAUNARAIN MANDAL TOLA,Deep Tubew ell,Ground Water,Inside Habitation,SPOT,Nc/Pc Scheme For Supaul Block(0004533273)
+22,LAURAH,BAUNARAIN MANDAL TOLA,Deep Tubew ell,Ground Water,Inside Habitation,SPOT,Nc/Pc Scheme For Supaul Block(0004533273)
+23,LAURAH,BAUNARAIN MANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Spot Source(0006554442)
+24,LAURAH,JAMUHA,Shallow Tubew ell,Ground Water,Bharat Pd. Yadav,HandPump,NC/PC(0001963232)
+25,LAURAH,JAMUHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001963232)
+26,LAURAH,JAMUHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001963232)
+27,LAURAH,JAMUHA,Deep Tubew ell,Ground Water,,HandPump,Supaul (Gopalpur Sire) Spot Source Scheme(0005708161)
+28,LAURAH,L. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001446626)
+29,LAURAH,L. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001446626)
+30,LAURAH,L. HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001446626)
+31,LAURAH,L. HARIJAN TOLA,Deep Tubew ell,Ground Water,,HandPump,Supaul (Gopalpur Sire) Spot Source Scheme(0005708161)
+32,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001446625)
+33,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001446625)
+34,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001446627)
+35,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001446627)
+36,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001446628)
+37,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001446628)
+38,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988371)
+39,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988371)
+40,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988372)
+41,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988372)
+42,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988374)
+43,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988374)
+44,LAURAH,LOURDH,Deep Tubew ell,Ground Water,,HandPump,Supaul Spot Source Scheme(0004017607)
+45,LAURAH,LOURDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Supaul Spot Source Scheme(0004017607)
+46,LAURAH,S. HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001978965)
+47,LAURAH,S. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001978965)
+48,LAURAH,S. HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001978965)
+49,LAURAH,SEMAIR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001963227)
+50,LAURAH,SEMAIR,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001963227)
+51,LAURAH,SEMAIR,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001978971)
+52,LAURAH,SEMAIR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001978971)
+53,LAURAH,SEMAIR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001978971)
+54,SORHI MALIKAN,SARHI MALIKANA,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001988373)
+55,SORHI MALIKAN,SARHI MALIKANA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988373)
+56,SORHI MALIKAN,SARHI MALIKANA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001988373)

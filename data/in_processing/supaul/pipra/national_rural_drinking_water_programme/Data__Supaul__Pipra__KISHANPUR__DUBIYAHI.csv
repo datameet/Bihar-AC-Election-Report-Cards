@@ -1,64 +1,62 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,BEGAMGANJ,"BEGANGANG","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-2,BEGAMGANJ,"BEGANGANG","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-3,BELA,"BELA KAMATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960647)
-4,BELA,"BELA KAMATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960647)
-5,BELA,"BELA KAMATTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960647)
-6,BELA,"BELAKAYASTHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956715)
-7,BELA,"BELAKAYASTHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956715)
-8,BELA,"BELAKAYASTHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956715)
-9,BELA,"BELA MUSLIMTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956257)
-10,BELA,"BELA MUSLIMTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956257)
-11,BELA,"BELA MUSLIMTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956257)
-12,BELA,"BELAPASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960648)
-13,BELA,"BELAPASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960648)
-14,BELA,"BELAPASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960648)
-15,DIGHIA,"DIGHIAYADAB TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960650)
-16,DIGHIA,"DIGHIAYADAB TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960650)
-17,DIGHIA,"DIGHIAYADAB TOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960650)
-18,DIGHIA,"KAYLASHTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335649)
-19,DIGHIA,"KAYLASHTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335649)
-20,DIGHIA,"KAYLASHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956261)
-21,DIGHIA,"KAYLASHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956261)
-22,DIGHIA,"KAYLASHTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956261)
-23,DIGHIA,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335638)
-24,DIGHIA,"PASWANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335638)
-25,DIGHIA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956266)
-26,DIGHIA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956266)
-27,DIGHIA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956266)
-28,DIGHIA,"RAM TOLADIGHA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335632)
-29,DIGHIA,"RAM TOLADIGHA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335632)
-30,DIGHIA,"RAM TOLADIGHA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956720)
-31,DIGHIA,"RAM TOLADIGHA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956720)
-32,DIGHIA,"RAM TOLADIGHA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956720)
-33,DIGHIA,"SHERMATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335643)
-34,DIGHIA,"SHERMATOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001335643)
-35,DIGHIA,"SHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956726)
-36,DIGHIA,"SHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956726)
-37,DIGHIA,"SHERMATOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956726)
-38,DUBIAHI,"BRAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956733)
-39,DUBIAHI,"BRAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956733)
-40,DUBIAHI,"BRAHMINTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956733)
-41,DUBIAHI,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-42,DUBIAHI,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-43,DUBIAHI,"CHAMARTOLA","ShallowTubew ell","GroundWater","DineshYadav",HandPump,NC/PC(0001955735)
-44,DUBIAHI,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955735)
-45,DUBIAHI,DUBIYAHI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-46,DUBIAHI,DUBIYAHI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-47,DUBIAHI,DUBIYAHI,"ShallowTubew ell","GroundWater",MD. Bhutho,HandPump,NC/PC(0001955732)
-48,DUBIAHI,DUBIYAHI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955732)
-"","","",Shallow,Ground,Inside,"",""
-49,DUBIAHI,DUBIYAHI,Tubew ell,Water,Habitation,HandPump,NC/PC(0001960652)
-50,DUBIAHI,DUBIYAHI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960652)
-51,DUBIAHI,"DUBIYAHIBENDH","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956737)
-52,DUBIAHI,"DUBIYAHIBENDH","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956737)
-53,DUBIAHI,"DUBIYAHIBENDH","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956737)
-54,DUBIAHI,MUSLIM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-55,DUBIAHI,MUSLIM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-56,DUBIAHI,MUSLIM TOLA,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-57,DUBIAHI,MUSLIM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-58,DUBIAHI,MUSLIM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-59,DUBIAHI,YADAB TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960653)
-60,DUBIAHI,YADAB TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960653)
-61,DUBIAHI,YADAB TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960653)
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,BEGAMGANJ,BEGAN GANG,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+2,BEGAMGANJ,BEGAN GANG,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+3,BELA,BELA KAMAT TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960647)
+4,BELA,BELA KAMAT TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960647)
+5,BELA,BELA KAMAT TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960647)
+6,BELA,BELA KAYASTH TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956715)
+7,BELA,BELA KAYASTH TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956715)
+8,BELA,BELA KAYASTH TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956715)
+9,BELA,BELA MUSLIM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956257)
+10,BELA,BELA MUSLIM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956257)
+11,BELA,BELA MUSLIM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956257)
+12,BELA,BELA PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960648)
+13,BELA,BELA PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960648)
+14,BELA,BELA PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960648)
+15,DIGHIA,DIGHIA YADAB TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960650)
+16,DIGHIA,DIGHIA YADAB TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960650)
+17,DIGHIA,DIGHIA YADAB TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960650)
+18,DIGHIA,KAYLASH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335649)
+19,DIGHIA,KAYLASH TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335649)
+20,DIGHIA,KAYLASH TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956261)
+21,DIGHIA,KAYLASH TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956261)
+22,DIGHIA,KAYLASH TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956261)
+23,DIGHIA,PASWAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335638)
+24,DIGHIA,PASWAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335638)
+25,DIGHIA,PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956266)
+26,DIGHIA,PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956266)
+27,DIGHIA,PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956266)
+28,DIGHIA,RAM TOLA DIGHA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335632)
+29,DIGHIA,RAM TOLA DIGHA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335632)
+30,DIGHIA,RAM TOLA DIGHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956720)
+31,DIGHIA,RAM TOLA DIGHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956720)
+32,DIGHIA,RAM TOLA DIGHA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956720)
+33,DIGHIA,SHERMA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335643)
+34,DIGHIA,SHERMA TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001335643)
+35,DIGHIA,SHERMA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956726)
+36,DIGHIA,SHERMA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956726)
+37,DIGHIA,SHERMA TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956726)
+38,DUBIAHI,BRAHMIN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956733)
+39,DUBIAHI,BRAHMIN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956733)
+40,DUBIAHI,BRAHMIN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956733)
+41,DUBIAHI,CHAMAR TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+42,DUBIAHI,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+43,DUBIAHI,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Dinesh Yadav,HandPump,NC/PC(0001955735)
+44,DUBIAHI,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955735)
+45,DUBIAHI,DUBIYAHI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+46,DUBIAHI,DUBIYAHI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+47,DUBIAHI,DUBIYAHI,Shallow Tubew ell,Ground Water,MD. Bhutho,HandPump,NC/PC(0001955732)
+48,DUBIAHI,DUBIYAHI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955732)
+49,DUBIAHI,DUBIYAHI,Shallow Tubew ell,Ground Water,Habitation,HandPump,NC/PC(0001960652)
+50,DUBIAHI,DUBIYAHI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960652)
+51,DUBIAHI,DUBIYAHI BENDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956737)
+52,DUBIAHI,DUBIYAHI BENDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956737)
+53,DUBIAHI,DUBIYAHI BENDH,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956737)
+54,DUBIAHI,MUSLIM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+55,DUBIAHI,MUSLIM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+56,DUBIAHI,MUSLIM TOLA,Deep Tubew ell,Ground Water,T/W 2,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+57,DUBIAHI,MUSLIM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+58,DUBIAHI,MUSLIM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+59,DUBIAHI,YADAB TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960653)
+60,DUBIAHI,YADAB TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960653)
+61,DUBIAHI,YADAB TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960653)

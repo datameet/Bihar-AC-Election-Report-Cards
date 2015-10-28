@@ -1,55 +1,52 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,CHAUHATTA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956335)
-2,CHAUHATTA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956335)
-3,CHAUHATTA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956335)
-4,CHAUHATTA,CHAUHATTA,"DeepTubew ell","GroundWater","",PWS,"Kishanpur Pipe WaterScheme(0004686640)"
-5,CHAUHATTA,CHAUHATTA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960663)
-6,CHAUHATTA,CHAUHATTA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960663)
-7,CHAUHATTA,CHAUHATTA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960663)
-8,CHAUHATTA,"CHAUHATTAMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956342)
-9,CHAUHATTA,"CHAUHATTAMUSAHARI","ShallowTubew ell","GroundWater","InsideHainsideHabitation",HandPump,NC/PC(0001956342)
-10,CHAUHATTA,"CHAUHATTAMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956342)
-11,CHAUHATTA,"MUSALMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956353)
-12,CHAUHATTA,"MUSALMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956353)
-13,CHAUHATTA,"MUSALMANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956353)
-14,CHAUHATTA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956796)
-15,CHAUHATTA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956796)
-16,CHAUHATTA,"PASWANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956796)
-17,CHAUHATTA,"PHULKAHAMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960666)
-18,CHAUHATTA,"PHULKAHAMANDALTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960666)
-19,CHAUHATTA,"PHULKAHAMANDAL",Shallow,Ground,Inside,HandPump,NC/PC(0001960666)
-"","",TOLA,Tubew ell,Water,Habitation,"",""
-20,CHAUHATTA,"SOUTHMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956801)
-21,CHAUHATTA,"SOUTHMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956801)
-22,CHAUHATTA,"SOUTHMUSAHARI","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956801)
-23,"KISHANPURSOUTH","HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336071)
-24,"KISHANPURSOUTH","HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336071)
-25,"KISHANPURSOUTH","HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956485)
-26,"KISHANPURSOUTH","HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956485)
-27,"KISHANPURSOUTH","HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956485)
-28,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563908)
-29,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001563908)
-30,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956488)
-31,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956488)
-32,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956491)
-33,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956491)
-34,"KISHANPURSOUTH",SOHAGPUR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956491)
-35,KISHUNPUR,DOM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-36,KISHUNPUR,DOM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-37,KISHUNPUR,DOM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-38,KISHUNPUR,DOM TOLA,"ShallowTubew ell","GroundWater","Bindu KumarMallik",HandPump,NC/PC(0001955703)
-39,KISHUNPUR,DOM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955703)
-40,KISHUNPUR,HAJAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-41,KISHUNPUR,HAJAM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-42,KISHUNPUR,HAJAM TOLA,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-43,KISHUNPUR,HAJAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956809)
-44,KISHUNPUR,HAJAM TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956809)
-45,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336139)
-46,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336139)
-47,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336144)
-48,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336144)
-49,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-50,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-51,KISHUNPUR,"HARIJANTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur BourahaHp(0004678915)"
-"","","","","","","",""
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,CHAUHATTA,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956335)
+2,CHAUHATTA,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956335)
+3,CHAUHATTA,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956335)
+4,CHAUHATTA,CHAUHATTA,Deep Tubew ell,Ground Water,,PWS,Kishanpur Pipe Water Scheme(0004686640)
+5,CHAUHATTA,CHAUHATTA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960663)
+6,CHAUHATTA,CHAUHATTA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960663)
+7,CHAUHATTA,CHAUHATTA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960663)
+8,CHAUHATTA,CHAUHATTA MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956342)
+9,CHAUHATTA,CHAUHATTA MUSAHARI,Shallow Tubew ell,Ground Water,Inside Hainside Habitation,HandPump,NC/PC(0001956342)
+10,CHAUHATTA,CHAUHATTA MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956342)
+11,CHAUHATTA,MUSALMAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956353)
+12,CHAUHATTA,MUSALMAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956353)
+13,CHAUHATTA,MUSALMAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956353)
+14,CHAUHATTA,PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956796)
+15,CHAUHATTA,PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956796)
+16,CHAUHATTA,PASWAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956796)
+17,CHAUHATTA,PHULKAHA MANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960666)
+18,CHAUHATTA,PHULKAHA MANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960666)
+19,CHAUHATTA,PHULKAHA MANDAL TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960666)
+20,CHAUHATTA,SOUTH MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956801)
+21,CHAUHATTA,SOUTH MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956801)
+22,CHAUHATTA,SOUTH MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956801)
+23,KISHANPUR SOUTH,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336071)
+24,KISHANPUR SOUTH,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336071)
+25,KISHANPUR SOUTH,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956485)
+26,KISHANPUR SOUTH,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956485)
+27,KISHANPUR SOUTH,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956485)
+28,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001563908)
+29,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001563908)
+30,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956488)
+31,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956488)
+32,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956491)
+33,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956491)
+34,KISHANPUR SOUTH,SOHAGPUR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956491)
+35,KISHUNPUR,DOM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+36,KISHUNPUR,DOM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+37,KISHUNPUR,DOM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+38,KISHUNPUR,DOM TOLA,Shallow Tubew ell,Ground Water,Bindu Kumar Mallik,HandPump,NC/PC(0001955703)
+39,KISHUNPUR,DOM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955703)
+40,KISHUNPUR,HAJAM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+41,KISHUNPUR,HAJAM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+42,KISHUNPUR,HAJAM TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+43,KISHUNPUR,HAJAM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956809)
+44,KISHUNPUR,HAJAM TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956809)
+45,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336139)
+46,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336139)
+47,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336144)
+48,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336144)
+49,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+50,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)
+51,KISHUNPUR,HARIJAN TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Bouraha Hp(0004678915)

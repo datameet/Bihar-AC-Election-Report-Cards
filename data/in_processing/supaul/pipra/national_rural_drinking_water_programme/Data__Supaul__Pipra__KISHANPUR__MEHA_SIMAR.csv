@@ -1,57 +1,54 @@
-Source Details,"","","","","","",""
-Sno.,"VillageName","HabitationName","SourceType","SourceTypeCategoryLocation",Location,Type,Scheme Name
-1,MADHURA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-2,MADHURA,"CHAMARTOLA","DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-3,MADHURA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-4,MADHURA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-5,MADHURA,"CHAMARTOLA","DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur MehaSimarHp(0004679204)"
-6,MADHURA,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955722)
-7,MADHURA,"CHAMARTOLA","ShallowTubew ell","GroundWater",Bhagi Lal Ram,HandPump,NC/PC(0001955722)
-8,MADHURA,MADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336158)
-9,MADHURA,MADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001336158)
-10,MADHURA,MADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960683)
-11,MADHURA,MADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960683)
-12,MADHURA,MADHURA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960683)
-13,MADHURA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Block QAHabs.Scheme(0004090580)"
-14,MADHURA,MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-15,MADHURA,MUSAHARI,"DeepTubew ell","GroundWater",T/W 2,HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-16,MADHURA,MUSAHARI,"DeepTubew ell","GroundWater","InsideHabitation",HandPump,"Kishanpur Iron Aff.HabitationScheme(0005601982)"
-"","","",Deep,Ground,Inside,"",Kishanpur Meha
-17,MADHURA,MUSAHARI,Tubew ell,Water,Habitation,HandPump,"SimarHp(0004679204)"
-18,MADHURA,MUSAHARI,"ShallowTubew ell","GroundWater","Sri PrasdYadav",HandPump,NC/PC(0001955721)
-19,MADHURA,MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955721)
-20,MEHASIMAR,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001143534)
-21,MEHASIMAR,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001143534)
-22,MEHASIMAR,"HARIJANTOLA","ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001143545)
-23,MEHASIMAR,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001143545)
-24,MEHASIMAR,"HARIJANTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001143545)
-25,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001143493)
-26,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001143493)
-27,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001143505)
-28,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001143505)
-29,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,ARWSP(0001143521)
-30,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","",HandPump,ARWSP(0001143521)
-31,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956546)
-32,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001956546)
-33,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","",HandPump,NC/PC(0001960684)
-34,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960684)
-35,MEHASIMAR,MEHA SIMAR,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960684)
-36,SIFION,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956165)
-37,SIFION,"CHAMARTOLA","ShallowTubew ell","GroundWater",Siyaram Ram,HandPump,NC/PC(0001956165)
-38,SIFION,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956549)
-39,SIFION,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956549)
-40,SIFION,"CHAMARTOLA","ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956549)
-41,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater",MD. Ramtul,HandPump,NC/PC(0001955713)
-42,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955713)
-43,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001955717)
-44,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater","PanchayatBhaw an",HandPump,NC/PC(0001955717)
-45,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960686)
-46,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960686)
-47,SIFION,LEHERI TOLA,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960686)
-48,SIFION,MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956553)
-49,SIFION,MUSAHARI,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001956553)
-50,SIFION,MUSAHARI,Shallow,Ground,Inside,HandPump,NC/PC(0001956553)
-"","","",Tubew ell,Water,Habitation,"",""
-51,SIFION,SIFION,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960775)
-52,SIFION,SIFION,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960775)
-53,SIFION,SIFION,"ShallowTubew ell","GroundWater","InsideHabitation",HandPump,NC/PC(0001960775)
+Sno.,Village Name,Habitation Name,Source Type,Source Type Category Location,Location,Type,Scheme Name
+1,MADHURA,CHAMAR TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+2,MADHURA,CHAMAR TOLA,Deep Tubew ell,Ground Water,T/W 2,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+3,MADHURA,CHAMAR TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+4,MADHURA,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+5,MADHURA,CHAMAR TOLA,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Meha Simar Hp(0004679204)
+6,MADHURA,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955722)
+7,MADHURA,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Bhagi Lal Ram,HandPump,NC/PC(0001955722)
+8,MADHURA,MADHURA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336158)
+9,MADHURA,MADHURA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001336158)
+10,MADHURA,MADHURA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960683)
+11,MADHURA,MADHURA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960683)
+12,MADHURA,MADHURA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960683)
+13,MADHURA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Block QA Habs. Scheme(0004090580)
+14,MADHURA,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+15,MADHURA,MUSAHARI,Deep Tubew ell,Ground Water,T/W 2,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+16,MADHURA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+17,MADHURA,MUSAHARI,Deep Tubew ell,Ground Water,Inside Habitation,HandPump,Kishanpur Iron Aff. Habitation Scheme(0005601982)
+18,MADHURA,MUSAHARI,Shallow Tubew ell,Ground Water,Sri Prasd Yadav,HandPump,NC/PC(0001955721)
+19,MADHURA,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955721)
+20,MEHASIMAR,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001143534)
+21,MEHASIMAR,HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001143534)
+22,MEHASIMAR,HARIJAN TOLA,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001143545)
+23,MEHASIMAR,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001143545)
+24,MEHASIMAR,HARIJAN TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001143545)
+25,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001143493)
+26,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001143493)
+27,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001143505)
+28,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001143505)
+29,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,ARWSP(0001143521)
+30,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,,HandPump,ARWSP(0001143521)
+31,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956546)
+32,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001956546)
+33,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,,HandPump,NC/PC(0001960684)
+34,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960684)
+35,MEHASIMAR,MEHA SIMAR,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960684)
+36,SIFION,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956165)
+37,SIFION,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Siyaram Ram,HandPump,NC/PC(0001956165)
+38,SIFION,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956549)
+39,SIFION,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956549)
+40,SIFION,CHAMAR TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956549)
+41,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,MD. Ramtul,HandPump,NC/PC(0001955713)
+42,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955713)
+43,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001955717)
+44,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,Panchayat Bhaw an,HandPump,NC/PC(0001955717)
+45,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960686)
+46,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960686)
+47,SIFION,LEHERI TOLA,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960686)
+48,SIFION,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956553)
+49,SIFION,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956553)
+50,SIFION,MUSAHARI,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001956553)
+51,SIFION,SIFION,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960775)
+52,SIFION,SIFION,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960775)
+53,SIFION,SIFION,Shallow Tubew ell,Ground Water,Inside Habitation,HandPump,NC/PC(0001960775)
